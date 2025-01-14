@@ -1,0 +1,1105 @@
+Match ID,Date,Team 1,Team 2,Map Name,Team 1 Attack Rounds,Team 1 Defense Rounds,Team 2 Attack Rounds,Team 2 Defense Rounds,Overtime,Score Difference
+1,2024-02-16 17:00:00,NRG Esports,FURIA,Breeze,5,8,4,6,False,3
+1,2024-02-16 17:00:00,NRG Esports,FURIA,Ascent,6,7,2,6,False,5
+2,2024-02-16 20:00:00,Cloud9,MIBR,Bind,8,5,7,4,False,2
+2,2024-02-16 20:00:00,Cloud9,MIBR,Split,2,6,6,7,False,-5
+2,2024-02-16 20:00:00,Cloud9,MIBR,Lotus,5,8,3,7,False,3
+3,2024-02-17 17:00:00,LOUD,Sentinels,Split,4,9,3,8,False,2
+3,2024-02-17 17:00:00,LOUD,Sentinels,Ascent,5,8,2,7,False,4
+4,2024-02-17 19:35:00,LEVIATÁN,100 Thieves,Bind,7,6,4,5,False,4
+4,2024-02-17 19:35:00,LEVIATÁN,100 Thieves,Split,3,0,4,9,False,-10
+4,2024-02-17 19:35:00,LEVIATÁN,100 Thieves,Icebox,6,7,5,6,False,2
+5,2024-02-18 17:00:00,KRÜ Esports,G2 Esports,Icebox,7,6,6,3,False,4
+5,2024-02-18 17:00:00,KRÜ Esports,G2 Esports,Sunset,6,3,7,6,False,-4
+5,2024-02-18 17:00:00,KRÜ Esports,G2 Esports,Ascent,7,4,8,5,False,-2
+6,2024-02-19 17:00:00,FURIA,MIBR,Split,7,2,8,5,False,-4
+6,2024-02-19 17:00:00,FURIA,MIBR,Breeze,3,8,4,9,False,-2
+7,2024-02-19 19:45:00,Sentinels,100 Thieves,Lotus,9,4,2,3,False,8
+7,2024-02-19 19:45:00,Sentinels,100 Thieves,Bind,2,4,8,5,False,-7
+7,2024-02-19 19:45:00,Sentinels,100 Thieves,Split,7,6,3,5,False,5
+8,2024-02-23 17:00:00,NRG Esports,Cloud9,Sunset,5,8,4,3,False,6
+8,2024-02-23 17:00:00,NRG Esports,Cloud9,Ascent,5,7,5,7,True,2
+9,2024-02-23 19:25:00,LOUD,LEVIATÁN,Bind,8,3,9,4,False,-2
+9,2024-02-23 19:25:00,LOUD,LEVIATÁN,Split,7,6,6,4,False,3
+9,2024-02-23 19:25:00,LOUD,LEVIATÁN,Ascent,9,4,4,3,False,6
+10,2024-02-24 17:00:00,G2 Esports,Evil Geniuses,Sunset,8,4,8,4,True,-2
+10,2024-02-24 17:00:00,G2 Esports,Evil Geniuses,Icebox,5,6,6,7,False,-2
+11,2024-02-25 15:00:00,Cloud9,MIBR,Bind,7,5,7,5,True,-2
+11,2024-02-25 15:00:00,Cloud9,MIBR,Ascent,4,5,7,6,False,-4
+12,2024-02-25 17:40:00,LEVIATÁN,Sentinels,Split,3,0,4,9,False,-10
+12,2024-02-25 17:40:00,LEVIATÁN,Sentinels,Breeze,9,4,3,3,False,7
+12,2024-02-25 17:40:00,LEVIATÁN,Sentinels,Bind,3,6,6,7,False,-4
+13,2024-02-25 20:55:00,G2 Esports,KRÜ Esports,Split,6,7,5,3,False,5
+13,2024-02-25 20:55:00,G2 Esports,KRÜ Esports,Sunset,8,5,7,1,False,5
+14,2024-02-26 15:00:00,MIBR,Sentinels,Split,2,5,3,10,False,-6
+14,2024-02-26 15:00:00,MIBR,Sentinels,Ascent,5,1,6,7,False,-7
+15,2024-02-26 17:10:00,G2 Esports,MIBR,Sunset,3,6,6,7,False,-4
+15,2024-02-26 17:10:00,G2 Esports,MIBR,Split,7,5,7,5,True,2
+15,2024-02-26 17:10:00,G2 Esports,MIBR,Breeze,4,6,6,7,False,-3
+16,2024-02-26 20:55:00,Sentinels,G2 Esports,Sunset,4,9,0,8,False,5
+16,2024-02-26 20:55:00,Sentinels,G2 Esports,Breeze,6,3,9,4,False,-4
+16,2024-02-26 20:55:00,Sentinels,G2 Esports,Split,2,7,5,8,False,-4
+17,2024-03-02 17:00:00,Evil Geniuses,LOUD,Ascent,4,9,3,4,False,6
+17,2024-03-02 17:00:00,Evil Geniuses,LOUD,Icebox,3,4,8,5,False,-6
+17,2024-03-02 17:00:00,Evil Geniuses,LOUD,Sunset,4,1,5,8,False,-8
+18,2024-03-02 20:00:00,NRG Esports,Sentinels,Sunset,5,7,5,7,True,-2
+18,2024-03-02 20:00:00,NRG Esports,Sentinels,Ascent,8,5,4,4,False,5
+18,2024-03-02 20:00:00,NRG Esports,Sentinels,Split,1,2,2,11,False,-10
+19,2024-03-03 17:00:00,LOUD,Sentinels,Sunset,5,4,8,5,False,-4
+19,2024-03-03 17:00:00,LOUD,Sentinels,Split,3,0,4,9,False,-10
+19,2024-03-03 17:00:00,LOUD,Sentinels,Icebox,8,5,7,4,False,2
+19,2024-03-03 17:00:00,LOUD,Sentinels,Bind,9,4,5,3,False,5
+19,2024-03-03 17:00:00,LOUD,Sentinels,Lotus,2,2,10,3,False,-9
+20,2024-02-17 01:00:00,T1,BLEED,Breeze,6,6,6,6,True,2
+20,2024-02-17 01:00:00,T1,BLEED,Lotus,9,4,3,3,False,7
+21,2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,Icebox,6,7,5,6,False,2
+21,2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,Split,2,9,3,10,False,-2
+21,2024-02-17 08:45:00,Gen.G,Rex Regum Qeon,Sunset,5,8,4,4,False,5
+22,2024-02-18 01:00:00,ZETA DIVISION,Global Esports,Bind,6,7,5,5,False,3
+22,2024-02-18 01:00:00,ZETA DIVISION,Global Esports,Icebox,7,6,6,1,False,6
+23,2024-02-18 03:30:00,Team Secret,Talon Esports,Breeze,3,5,4,9,False,-5
+23,2024-02-18 03:30:00,Team Secret,Talon Esports,Ascent,3,0,4,9,False,-10
+24,2024-02-18 05:30:00,DRX,DetonatioN FocusMe,Lotus,6,7,5,3,False,5
+24,2024-02-18 05:30:00,DRX,DetonatioN FocusMe,Breeze,5,8,4,4,False,5
+25,2024-02-19 01:00:00,Gen.G,Paper Rex,Breeze,7,6,6,4,False,3
+25,2024-02-19 01:00:00,Gen.G,Paper Rex,Lotus,5,5,6,7,False,-3
+25,2024-02-19 01:00:00,Gen.G,Paper Rex,Sunset,2,5,3,10,False,-6
+26,2024-02-19 04:15:00,BLEED,Global Esports,Sunset,4,5,7,6,False,-4
+26,2024-02-19 04:15:00,BLEED,Global Esports,Icebox,9,4,8,2,False,3
+26,2024-02-19 04:15:00,BLEED,Global Esports,Split,7,4,8,5,False,-2
+27,2024-02-19 08:00:00,T1,ZETA DIVISION,Ascent,6,5,7,6,False,-2
+27,2024-02-19 08:00:00,T1,ZETA DIVISION,Lotus,4,9,3,1,False,9
+27,2024-02-19 08:00:00,T1,ZETA DIVISION,Sunset,5,8,4,3,False,6
+28,2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,Lotus,4,3,9,4,False,-6
+28,2024-02-20 03:00:00,DetonatioN FocusMe,Team Secret,Breeze,5,6,6,7,False,-2
+29,2024-02-20 05:20:00,DRX,Talon Esports,Split,8,5,6,4,False,3
+29,2024-02-20 05:20:00,DRX,Talon Esports,Ascent,7,6,6,2,False,5
+30,2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,Lotus,5,8,0,7,False,6
+30,2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,Breeze,7,3,9,4,False,-3
+30,2024-02-21 01:00:00,Gen.G,Rex Regum Qeon,Icebox,8,5,7,4,False,2
+31,2024-02-21 04:30:00,Talon Esports,Team Secret,Breeze,4,4,5,8,False,-5
+31,2024-02-21 04:30:00,Talon Esports,Team Secret,Ascent,7,0,8,5,False,-6
+32,2024-02-21 07:15:00,ZETA DIVISION,Global Esports,Bind,5,8,4,4,False,5
+32,2024-02-21 07:15:00,ZETA DIVISION,Global Esports,Lotus,9,4,0,3,False,10
+33,2024-02-22 01:00:00,Team Secret,Gen.G,Breeze,5,8,4,1,False,8
+33,2024-02-22 01:00:00,Team Secret,Gen.G,Lotus,8,1,9,4,False,-4
+33,2024-02-22 01:00:00,Team Secret,Gen.G,Icebox,4,8,4,8,True,-2
+34,2024-02-22 04:20:00,ZETA DIVISION,Team Secret,Icebox,0,1,11,2,False,-12
+34,2024-02-22 04:20:00,ZETA DIVISION,Team Secret,Ascent,7,1,8,5,False,-5
+35,2024-02-22 06:30:00,Gen.G,ZETA DIVISION,Icebox,8,5,2,4,False,7
+35,2024-02-22 06:30:00,Gen.G,ZETA DIVISION,Ascent,3,10,2,2,False,9
+36,2024-02-24 03:00:00,T1,Paper Rex,Split,8,4,8,4,True,-2
+36,2024-02-24 03:00:00,T1,Paper Rex,Ascent,2,4,8,5,False,-7
+37,2024-02-24 05:25:00,DRX,Gen.G,Bind,7,5,7,5,True,-2
+37,2024-02-24 05:25:00,DRX,Gen.G,Lotus,5,3,9,4,False,-5
+38,2024-02-25 03:00:00,Paper Rex,Gen.G,Ascent,5,0,6,7,False,-8
+38,2024-02-25 03:00:00,Paper Rex,Gen.G,Split,8,5,0,4,False,9
+38,2024-02-25 03:00:00,Paper Rex,Gen.G,Lotus,7,4,8,5,False,-2
+38,2024-02-25 03:00:00,Paper Rex,Gen.G,Bind,0,4,8,5,False,-9
+39,2024-02-20 11:00:00,FUT Esports,Team Heretics,Lotus,7,4,8,5,False,-2
+39,2024-02-20 11:00:00,FUT Esports,Team Heretics,Bind,5,5,7,6,False,-3
+40,2024-02-20 13:35:00,GIANTX,Karmine Corp,Split,6,5,7,6,False,-2
+40,2024-02-20 13:35:00,GIANTX,Karmine Corp,Sunset,7,6,5,5,False,3
+40,2024-02-20 13:35:00,GIANTX,Karmine Corp,Lotus,3,1,4,9,False,-9
+41,2024-02-21 08:00:00,Natus Vincere,BBL Esports,Bind,4,4,5,8,False,-5
+41,2024-02-21 08:00:00,Natus Vincere,BBL Esports,Ascent,7,6,6,0,False,7
+41,2024-02-21 08:00:00,Natus Vincere,BBL Esports,Breeze,4,9,3,3,False,7
+42,2024-02-21 11:00:00,Team Liquid,KOI,Icebox,8,5,7,3,False,3
+42,2024-02-21 11:00:00,Team Liquid,KOI,Bind,8,5,7,4,False,2
+43,2024-02-21 13:45:00,Team Vitality,Gentle Mates,Sunset,8,5,6,4,False,3
+43,2024-02-21 13:45:00,Team Vitality,Gentle Mates,Lotus,6,7,5,2,False,6
+44,2024-02-22 11:00:00,Team Heretics,Karmine Corp,Split,4,9,3,1,False,9
+44,2024-02-22 11:00:00,Team Heretics,Karmine Corp,Lotus,5,8,4,0,False,9
+45,2024-02-22 13:10:00,FUT Esports,GIANTX,Split,5,8,4,2,False,7
+45,2024-02-22 13:10:00,FUT Esports,GIANTX,Icebox,3,5,7,6,False,-5
+45,2024-02-22 13:10:00,FUT Esports,GIANTX,Sunset,7,6,2,5,False,6
+46,2024-02-23 08:00:00,Natus Vincere,Team Liquid,Split,8,5,7,0,False,6
+46,2024-02-23 08:00:00,Natus Vincere,Team Liquid,Breeze,6,7,1,6,False,6
+47,2024-02-23 10:10:00,BBL Esports,KOI,Bind,3,2,10,3,False,-8
+47,2024-02-23 10:10:00,BBL Esports,KOI,Split,4,6,6,7,False,-3
+48,2024-02-23 12:20:00,Team Vitality,FNATIC,Lotus,8,4,8,4,True,-2
+48,2024-02-23 12:20:00,Team Vitality,FNATIC,Ascent,5,0,6,7,False,-8
+49,2024-02-25 08:05:00,Team Vitality,Gentle Mates,Breeze,2,2,10,3,False,-9
+49,2024-02-25 08:05:00,Team Vitality,Gentle Mates,Lotus,7,5,7,5,True,2
+49,2024-02-25 08:05:00,Team Vitality,Gentle Mates,Sunset,11,2,2,1,False,10
+50,2024-02-25 11:15:00,Karmine Corp,FUT Esports,Lotus,6,6,6,6,True,2
+50,2024-02-25 11:15:00,Karmine Corp,FUT Esports,Bind,1,3,9,4,False,-9
+50,2024-02-25 11:15:00,Karmine Corp,FUT Esports,Sunset,3,10,2,5,False,6
+51,2024-02-25 14:45:00,Team Liquid,KOI,Sunset,4,7,5,8,False,-2
+51,2024-02-25 14:45:00,Team Liquid,KOI,Icebox,6,6,6,6,True,2
+51,2024-02-25 14:45:00,Team Liquid,KOI,Split,5,5,6,7,False,-3
+52,2024-02-26 08:00:00,Karmine Corp,Team Vitality,Sunset,5,8,4,4,False,5
+52,2024-02-26 08:00:00,Karmine Corp,Team Vitality,Ascent,7,5,7,5,True,2
+53,2024-02-26 10:45:00,KOI,Team Vitality,Sunset,7,2,10,3,False,-4
+53,2024-02-26 10:45:00,KOI,Team Vitality,Breeze,0,6,6,7,False,-7
+54,2024-02-26 12:45:00,Karmine Corp,KOI,Sunset,5,8,4,0,False,9
+54,2024-02-26 12:45:00,Karmine Corp,KOI,Bind,9,4,4,3,False,6
+55,2024-02-29 11:00:00,Team Heretics,Natus Vincere,Sunset,4,8,4,8,True,2
+55,2024-02-29 11:00:00,Team Heretics,Natus Vincere,Breeze,10,3,2,2,False,9
+56,2024-02-29 13:20:00,FNATIC,Karmine Corp,Lotus,4,6,5,8,False,-3
+56,2024-02-29 13:20:00,FNATIC,Karmine Corp,Split,3,5,7,6,False,-5
+57,2024-03-01 11:00:00,Team Heretics,Karmine Corp,Sunset,4,9,3,6,False,4
+57,2024-03-01 11:00:00,Team Heretics,Karmine Corp,Lotus,6,1,11,2,False,-6
+57,2024-03-01 11:00:00,Team Heretics,Karmine Corp,Icebox,4,3,5,8,False,-6
+57,2024-03-01 11:00:00,Team Heretics,Karmine Corp,Split,4,1,5,8,False,-8
+58,2024-02-22 04:00:00,Trace Esports,TYLOO,Ascent,5,8,4,0,False,9
+58,2024-02-22 04:00:00,Trace Esports,TYLOO,Sunset,2,11,1,2,False,10
+59,2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,Lotus,6,7,5,0,False,8
+59,2024-02-22 06:05:00,FunPlus Phoenix,Nova Esports,Sunset,7,6,5,5,False,3
+60,2024-02-23 02:00:00,JDG Esports,Titan Esports Club,Lotus,6,2,7,6,False,-5
+60,2024-02-23 02:00:00,JDG Esports,Titan Esports Club,Bind,4,8,4,8,True,-2
+61,2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,Sunset,8,5,7,4,False,2
+61,2024-02-23 04:55:00,Dragon Ranger Gaming,All Gamers,Ascent,4,9,3,1,False,9
+62,2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,Ascent,3,6,4,9,False,-4
+62,2024-02-23 07:05:00,Bilibili Gaming,Wolves Esports,Icebox,2,5,7,6,False,-6
+63,2024-02-24 04:00:00,TYLOO,Nova Esports,Ascent,6,5,7,6,False,-2
+63,2024-02-24 04:00:00,TYLOO,Nova Esports,Split,6,5,7,6,False,-2
+64,2024-02-24 06:25:00,JDG Esports,All Gamers,Icebox,6,7,5,6,False,2
+64,2024-02-24 06:25:00,JDG Esports,All Gamers,Sunset,6,7,2,6,False,5
+65,2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,Sunset,7,4,8,5,False,-2
+65,2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,Bind,8,5,7,4,False,2
+65,2024-02-25 02:00:00,Trace Esports,FunPlus Phoenix,Lotus,5,5,7,6,False,-3
+66,2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,Icebox,1,10,2,11,False,-2
+66,2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,Split,7,6,6,2,False,5
+66,2024-02-25 05:30:00,Titan Esports Club,Dragon Ranger Gaming,Bind,4,6,6,7,False,-3
+67,2024-02-25 09:00:00,Wolves Esports,EDward Gaming,Bind,5,5,6,7,False,-3
+67,2024-02-25 09:00:00,Wolves Esports,EDward Gaming,Ascent,6,7,4,6,False,3
+67,2024-02-25 09:00:00,Wolves Esports,EDward Gaming,Breeze,4,7,5,8,False,-2
+68,2024-02-26 02:00:00,Trace Esports,Nova Esports,Split,6,7,5,0,False,8
+68,2024-02-26 02:00:00,Trace Esports,Nova Esports,Lotus,5,8,4,0,False,9
+69,2024-02-26 04:05:00,Titan Esports Club,JDG Esports,Bind,1,4,8,5,False,-8
+69,2024-02-26 04:05:00,Titan Esports Club,JDG Esports,Icebox,7,5,7,5,True,2
+69,2024-02-26 04:05:00,Titan Esports Club,JDG Esports,Lotus,7,6,6,4,False,3
+70,2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,Sunset,2,7,5,8,False,-4
+70,2024-02-26 07:40:00,Wolves Esports,Bilibili Gaming,Icebox,3,7,4,9,False,-3
+71,2024-02-27 02:00:00,Trace Esports,Titan Esports Club,Breeze,7,5,7,5,True,-2
+71,2024-02-27 02:00:00,Trace Esports,Titan Esports Club,Lotus,10,3,4,2,False,7
+71,2024-02-27 02:00:00,Trace Esports,Titan Esports Club,Split,9,4,5,3,False,5
+72,2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,Lotus,4,9,3,0,False,10
+72,2024-02-27 05:35:00,Bilibili Gaming,Titan Esports Club,Ascent,7,6,3,5,False,5
+73,2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,Lotus,4,9,3,8,False,2
+73,2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,Sunset,6,6,6,6,True,-2
+73,2024-02-27 07:35:00,Bilibili Gaming,Trace Esports,Bind,4,8,4,8,True,-2
+74,2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,Ascent,5,8,4,6,False,3
+74,2024-03-01 04:00:00,FunPlus Phoenix,Dragon Ranger Gaming,Breeze,4,9,3,3,False,7
+75,2024-03-01 06:15:00,EDward Gaming,Trace Esports,Sunset,7,5,7,5,True,2
+75,2024-03-01 06:15:00,EDward Gaming,Trace Esports,Bind,8,5,2,4,False,7
+76,2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,Breeze,5,7,5,7,True,-2
+76,2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,Split,1,5,7,6,False,-7
+76,2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,Icebox,7,6,6,2,False,5
+76,2024-03-02 04:00:00,FunPlus Phoenix,EDward Gaming,Ascent,6,6,6,6,True,-2
+77,2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,Icebox,6,7,5,3,False,5
+77,2024-03-14 11:00:00,Karmine Corp,FunPlus Phoenix,Lotus,9,4,8,2,False,3
+78,2024-03-14 13:25:00,Gen.G,LOUD,Icebox,6,7,5,6,False,2
+78,2024-03-14 13:25:00,Gen.G,LOUD,Breeze,5,3,9,4,False,-5
+78,2024-03-14 13:25:00,Gen.G,LOUD,Ascent,9,4,2,3,False,8
+79,2024-03-15 11:00:00,EDward Gaming,Paper Rex,Sunset,5,3,9,4,False,-5
+79,2024-03-15 11:00:00,EDward Gaming,Paper Rex,Bind,5,8,4,5,False,4
+79,2024-03-15 11:00:00,EDward Gaming,Paper Rex,Split,5,8,4,5,False,4
+80,2024-03-15 14:15:00,Sentinels,Team Heretics,Lotus,9,4,8,1,False,4
+80,2024-03-15 14:15:00,Sentinels,Team Heretics,Sunset,4,1,5,8,False,-8
+80,2024-03-15 14:15:00,Sentinels,Team Heretics,Bind,6,7,5,6,False,2
+81,2024-03-16 11:00:00,Sentinels,Karmine Corp,Split,6,7,2,6,False,5
+81,2024-03-16 11:00:00,Sentinels,Karmine Corp,Lotus,7,6,6,5,False,2
+82,2024-03-16 13:25:00,EDward Gaming,Gen.G,Icebox,8,5,4,4,False,5
+82,2024-03-16 13:25:00,EDward Gaming,Gen.G,Split,0,5,7,6,False,-8
+82,2024-03-16 13:25:00,EDward Gaming,Gen.G,Breeze,5,1,11,2,False,-7
+83,2024-03-17 11:00:00,FunPlus Phoenix,LOUD,Sunset,4,1,5,8,False,-8
+83,2024-03-17 11:00:00,FunPlus Phoenix,LOUD,Breeze,4,7,5,8,False,-2
+84,2024-03-17 13:20:00,Team Heretics,Paper Rex,Sunset,4,6,6,7,False,-3
+84,2024-03-17 13:20:00,Team Heretics,Paper Rex,Lotus,6,7,5,5,False,3
+84,2024-03-17 13:20:00,Team Heretics,Paper Rex,Split,1,6,6,7,False,-6
+85,2024-03-18 11:00:00,LOUD,EDward Gaming,Icebox,11,2,1,1,False,11
+85,2024-03-18 11:00:00,LOUD,EDward Gaming,Sunset,4,9,3,0,False,10
+86,2024-03-18 12:55:00,Karmine Corp,Paper Rex,Bind,6,4,8,5,False,-3
+86,2024-03-18 12:55:00,Karmine Corp,Paper Rex,Lotus,5,8,4,2,False,7
+86,2024-03-18 12:55:00,Karmine Corp,Paper Rex,Ascent,5,7,5,7,True,-2
+87,2024-03-21 11:00:00,Gen.G,Paper Rex,Split,8,5,4,4,False,5
+87,2024-03-21 11:00:00,Gen.G,Paper Rex,Lotus,5,8,4,5,False,4
+88,2024-03-21 13:10:00,Sentinels,LOUD,Split,9,4,1,3,False,9
+88,2024-03-21 13:10:00,Sentinels,LOUD,Icebox,5,7,5,7,True,-2
+88,2024-03-21 13:10:00,Sentinels,LOUD,Sunset,7,5,7,5,True,2
+89,2024-03-22 11:00:00,Gen.G,Sentinels,Split,8,5,1,4,False,8
+89,2024-03-22 11:00:00,Gen.G,Sentinels,Lotus,2,5,7,6,False,-6
+89,2024-03-22 11:00:00,Gen.G,Sentinels,Breeze,4,9,3,0,False,10
+90,2024-03-22 13:55:00,Paper Rex,LOUD,Ascent,6,7,5,6,False,2
+90,2024-03-22 13:55:00,Paper Rex,LOUD,Sunset,6,7,5,3,False,5
+91,2024-03-23 11:00:00,Sentinels,Paper Rex,Lotus,6,6,6,6,True,2
+91,2024-03-23 11:00:00,Sentinels,Paper Rex,Ascent,7,6,6,0,False,7
+91,2024-03-23 11:00:00,Sentinels,Paper Rex,Split,4,1,5,8,False,-8
+91,2024-03-23 11:00:00,Sentinels,Paper Rex,Sunset,4,9,3,0,False,10
+92,2024-03-24 12:15:00,Gen.G,Sentinels,Breeze,7,6,3,5,False,5
+92,2024-03-24 12:15:00,Gen.G,Sentinels,Bind,6,6,6,6,True,-2
+92,2024-03-24 12:15:00,Gen.G,Sentinels,Ascent,6,7,2,6,False,5
+92,2024-03-24 12:15:00,Gen.G,Sentinels,Split,4,6,5,8,False,-3
+92,2024-03-24 12:15:00,Gen.G,Sentinels,Icebox,5,1,6,7,False,-7
+93,2024-04-03 11:00:00,Karmine Corp,GIANTX,Breeze,4,9,3,1,False,9
+93,2024-04-03 11:00:00,Karmine Corp,GIANTX,Sunset,6,7,3,6,False,4
+94,2024-04-03 13:05:00,KOI,Team Liquid,Split,8,1,9,4,False,-4
+94,2024-04-03 13:05:00,KOI,Team Liquid,Ascent,3,4,8,5,False,-6
+95,2024-04-04 11:00:00,Team Vitality,Natus Vincere,Bind,4,5,7,6,False,-4
+95,2024-04-04 11:00:00,Team Vitality,Natus Vincere,Lotus,1,3,9,4,False,-9
+96,2024-04-04 13:10:00,FNATIC,Team Heretics,Icebox,1,3,9,4,False,-9
+96,2024-04-04 13:10:00,FNATIC,Team Heretics,Lotus,7,5,7,5,True,-2
+97,2024-04-05 11:00:00,Team Liquid,FUT Esports,Split,3,2,10,3,False,-8
+97,2024-04-05 11:00:00,Team Liquid,FUT Esports,Icebox,4,4,5,8,False,-5
+98,2024-04-05 13:00:00,BBL Esports,Gentle Mates,Ascent,3,4,8,5,False,-6
+98,2024-04-05 13:00:00,BBL Esports,Gentle Mates,Sunset,5,6,6,7,False,-2
+99,2024-04-10 11:00:00,Karmine Corp,FUT Esports,Bind,7,6,6,5,False,2
+99,2024-04-10 11:00:00,Karmine Corp,FUT Esports,Lotus,5,3,9,4,False,-5
+99,2024-04-10 11:00:00,Karmine Corp,FUT Esports,Breeze,1,6,6,7,False,-6
+100,2024-04-10 14:10:00,Team Vitality,Team Heretics,Breeze,7,6,6,3,False,4
+100,2024-04-10 14:10:00,Team Vitality,Team Heretics,Sunset,5,6,6,7,False,-2
+100,2024-04-10 14:10:00,Team Vitality,Team Heretics,Icebox,8,5,5,4,False,4
+101,2024-04-11 11:00:00,Team Liquid,Natus Vincere,Lotus,5,8,4,6,False,3
+101,2024-04-11 11:00:00,Team Liquid,Natus Vincere,Split,10,1,11,2,False,-2
+101,2024-04-11 11:00:00,Team Liquid,Natus Vincere,Ascent,2,3,9,4,False,-8
+102,2024-04-11 14:20:00,BBL Esports,KOI,Breeze,4,9,3,1,False,9
+102,2024-04-11 14:20:00,BBL Esports,KOI,Icebox,4,9,3,0,False,10
+103,2024-04-12 11:00:00,FNATIC,GIANTX,Bind,7,6,0,5,False,8
+103,2024-04-12 11:00:00,FNATIC,GIANTX,Breeze,4,1,5,8,False,-8
+103,2024-04-12 11:00:00,FNATIC,GIANTX,Split,9,4,4,3,False,6
+104,2024-04-12 13:45:00,Karmine Corp,Gentle Mates,Split,4,9,3,3,False,7
+104,2024-04-12 13:45:00,Karmine Corp,Gentle Mates,Icebox,3,10,2,4,False,7
+105,2024-04-17 11:00:00,Gentle Mates,FNATIC,Breeze,3,3,4,9,False,-7
+105,2024-04-17 11:00:00,Gentle Mates,FNATIC,Lotus,4,0,5,8,False,-9
+106,2024-04-17 13:00:00,Karmine Corp,Natus Vincere,Bind,8,5,3,4,False,6
+106,2024-04-17 13:00:00,Karmine Corp,Natus Vincere,Sunset,2,5,7,6,False,-6
+106,2024-04-17 13:00:00,Karmine Corp,Natus Vincere,Split,3,3,4,9,False,-7
+107,2024-04-18 11:00:00,BBL Esports,Team Heretics,Split,7,6,2,5,False,6
+107,2024-04-18 11:00:00,BBL Esports,Team Heretics,Sunset,7,6,6,4,False,3
+108,2024-04-18 13:15:00,Team Vitality,FUT Esports,Ascent,3,4,8,5,False,-6
+108,2024-04-18 13:15:00,Team Vitality,FUT Esports,Icebox,7,6,6,3,False,4
+108,2024-04-18 13:15:00,Team Vitality,FUT Esports,Sunset,6,7,3,6,False,4
+109,2024-04-19 11:00:00,Team Liquid,GIANTX,Lotus,7,5,7,5,True,-2
+109,2024-04-19 11:00:00,Team Liquid,GIANTX,Icebox,9,4,4,3,False,6
+109,2024-04-19 11:00:00,Team Liquid,GIANTX,Ascent,4,9,3,8,False,2
+110,2024-04-19 14:55:00,FNATIC,KOI,Bind,10,3,9,2,False,2
+110,2024-04-19 14:55:00,FNATIC,KOI,Icebox,8,5,0,4,False,9
+111,2024-04-24 11:00:00,Team Liquid,Team Heretics,Sunset,0,2,10,3,False,-11
+111,2024-04-24 11:00:00,Team Liquid,Team Heretics,Bind,5,2,6,7,False,-6
+112,2024-04-24 13:00:00,Team Vitality,Gentle Mates,Icebox,4,1,5,8,False,-8
+112,2024-04-24 13:00:00,Team Vitality,Gentle Mates,Sunset,2,3,3,10,False,-8
+113,2024-04-25 11:00:00,FNATIC,FUT Esports,Split,5,2,6,7,False,-6
+113,2024-04-25 11:00:00,FNATIC,FUT Esports,Lotus,6,6,6,6,True,-2
+114,2024-04-25 13:30:00,BBL Esports,Natus Vincere,Ascent,3,5,7,6,False,-5
+114,2024-04-25 13:30:00,BBL Esports,Natus Vincere,Sunset,5,8,4,4,False,5
+114,2024-04-25 13:30:00,BBL Esports,Natus Vincere,Split,6,7,3,6,False,4
+115,2024-04-26 11:00:00,Team Vitality,GIANTX,Lotus,7,5,7,5,True,-2
+115,2024-04-26 11:00:00,Team Vitality,GIANTX,Breeze,9,4,4,3,False,6
+115,2024-04-26 11:00:00,Team Vitality,GIANTX,Sunset,7,6,1,5,False,7
+116,2024-04-26 14:10:00,Karmine Corp,KOI,Sunset,8,5,3,4,False,6
+116,2024-04-26 14:10:00,Karmine Corp,KOI,Icebox,4,3,9,4,False,-6
+116,2024-04-26 14:10:00,Karmine Corp,KOI,Bind,4,8,4,8,True,2
+117,2024-05-01 11:00:00,BBL Esports,GIANTX,Bind,1,5,7,6,False,-7
+117,2024-05-01 11:00:00,BBL Esports,GIANTX,Sunset,5,6,6,7,False,-2
+118,2024-05-01 13:00:00,Karmine Corp,Team Heretics,Icebox,6,6,6,6,True,-2
+118,2024-05-01 13:00:00,Karmine Corp,Team Heretics,Lotus,10,3,3,2,False,8
+118,2024-05-01 13:00:00,Karmine Corp,Team Heretics,Bind,8,1,9,4,False,-4
+119,2024-05-02 11:00:00,Team Vitality,KOI,Split,5,0,6,7,False,-8
+119,2024-05-02 11:00:00,Team Vitality,KOI,Breeze,6,7,1,6,False,6
+119,2024-05-02 11:00:00,Team Vitality,KOI,Icebox,3,1,4,9,False,-9
+120,2024-05-02 13:55:00,Natus Vincere,FNATIC,Breeze,5,1,6,7,False,-7
+120,2024-05-02 13:55:00,Natus Vincere,FNATIC,Ascent,9,4,5,3,False,5
+120,2024-05-02 13:55:00,Natus Vincere,FNATIC,Bind,4,9,3,0,False,10
+121,2024-05-03 11:00:00,Team Liquid,Gentle Mates,Lotus,8,5,0,4,False,9
+121,2024-05-03 11:00:00,Team Liquid,Gentle Mates,Icebox,10,3,0,2,False,11
+122,2024-05-03 12:50:00,BBL Esports,FUT Esports,Bind,4,5,5,8,False,-4
+122,2024-05-03 12:50:00,BBL Esports,FUT Esports,Icebox,3,3,9,4,False,-7
+123,2024-05-08 11:00:00,FNATIC,Team Liquid,Ascent,3,10,2,9,False,2
+123,2024-05-08 11:00:00,FNATIC,Team Liquid,Icebox,5,7,5,7,True,-2
+123,2024-05-08 11:00:00,FNATIC,Team Liquid,Lotus,2,11,1,4,False,8
+124,2024-05-08 14:20:00,Natus Vincere,Team Heretics,Lotus,7,4,8,5,False,-2
+124,2024-05-08 14:20:00,Natus Vincere,Team Heretics,Split,6,3,7,6,False,-4
+125,2024-05-09 11:00:00,Karmine Corp,FNATIC,Breeze,9,2,10,3,False,-2
+125,2024-05-09 11:00:00,Karmine Corp,FNATIC,Bind,8,1,9,4,False,-4
+126,2024-05-09 13:30:00,FUT Esports,Team Heretics,Lotus,6,4,7,6,False,-3
+126,2024-05-09 13:30:00,FUT Esports,Team Heretics,Split,5,7,5,7,True,-2
+127,2024-05-10 11:00:00,FNATIC,Team Heretics,Lotus,6,6,6,6,True,-2
+127,2024-05-10 11:00:00,FNATIC,Team Heretics,Breeze,4,0,5,8,False,-9
+128,2024-05-10 13:30:00,Karmine Corp,FUT Esports,Icebox,1,2,10,3,False,-10
+128,2024-05-10 13:30:00,Karmine Corp,FUT Esports,Sunset,4,6,5,8,False,-3
+129,2024-05-11 11:00:00,FNATIC,FUT Esports,Icebox,8,3,9,4,False,-2
+129,2024-05-11 11:00:00,FNATIC,FUT Esports,Bind,7,6,6,0,False,7
+129,2024-05-11 11:00:00,FNATIC,FUT Esports,Breeze,7,6,6,5,False,2
+129,2024-05-11 11:00:00,FNATIC,FUT Esports,Split,4,8,4,8,True,2
+130,2024-05-12 11:00:00,Team Heretics,FNATIC,Sunset,5,8,4,3,False,6
+130,2024-05-12 11:00:00,Team Heretics,FNATIC,Bind,6,6,6,6,True,2
+130,2024-05-12 11:00:00,Team Heretics,FNATIC,Lotus,7,1,8,5,False,-5
+130,2024-05-12 11:00:00,Team Heretics,FNATIC,Split,0,5,7,6,False,-8
+130,2024-05-12 11:00:00,Team Heretics,FNATIC,Breeze,4,4,5,8,False,-5
+131,2024-04-05 05:00:00,Bilibili Gaming,TYLOO,Bind,0,3,9,4,False,-10
+131,2024-04-05 05:00:00,Bilibili Gaming,TYLOO,Icebox,6,7,5,1,False,7
+131,2024-04-05 05:00:00,Bilibili Gaming,TYLOO,Lotus,7,6,1,5,False,7
+132,2024-04-05 08:10:00,Wolves Esports,Titan Esports Club,Split,3,10,2,3,False,8
+132,2024-04-05 08:10:00,Wolves Esports,Titan Esports Club,Bind,8,4,8,4,True,-2
+132,2024-04-05 08:10:00,Wolves Esports,Titan Esports Club,Lotus,4,6,6,7,False,-3
+133,2024-04-06 05:00:00,Dragon Ranger Gaming,All Gamers,Icebox,5,8,4,7,False,2
+133,2024-04-06 05:00:00,Dragon Ranger Gaming,All Gamers,Sunset,5,6,6,7,False,-2
+133,2024-04-06 05:00:00,Dragon Ranger Gaming,All Gamers,Breeze,2,6,6,7,False,-5
+134,2024-04-06 08:45:00,EDward Gaming,JDG Esports,Ascent,7,6,0,5,False,8
+134,2024-04-06 08:45:00,EDward Gaming,JDG Esports,Bind,4,5,5,8,False,-4
+134,2024-04-06 08:45:00,EDward Gaming,JDG Esports,Split,8,5,7,4,False,2
+135,2024-04-07 05:00:00,Nova Esports,Trace Esports,Lotus,5,0,6,7,False,-8
+135,2024-04-07 05:00:00,Nova Esports,Trace Esports,Ascent,6,3,7,6,False,-4
+136,2024-04-07 07:15:00,FunPlus Phoenix,Wolves Esports,Ascent,6,7,5,3,False,5
+136,2024-04-07 07:15:00,FunPlus Phoenix,Wolves Esports,Lotus,5,8,4,3,False,6
+137,2024-04-12 05:00:00,JDG Esports,Nova Esports,Sunset,7,6,6,2,False,5
+137,2024-04-12 05:00:00,JDG Esports,Nova Esports,Bind,5,4,6,7,False,-4
+137,2024-04-12 05:00:00,JDG Esports,Nova Esports,Ascent,2,2,3,10,False,-9
+138,2024-04-12 08:15:00,FunPlus Phoenix,Dragon Ranger Gaming,Breeze,5,8,4,7,False,2
+138,2024-04-12 08:15:00,FunPlus Phoenix,Dragon Ranger Gaming,Icebox,6,3,9,4,False,-4
+138,2024-04-12 08:15:00,FunPlus Phoenix,Dragon Ranger Gaming,Sunset,11,2,2,1,False,10
+139,2024-04-13 05:00:00,All Gamers,Wolves Esports,Breeze,5,4,6,7,False,-4
+139,2024-04-13 05:00:00,All Gamers,Wolves Esports,Icebox,9,3,9,3,True,-2
+140,2024-04-13 07:45:00,Trace Esports,Bilibili Gaming,Split,4,7,5,8,False,-2
+140,2024-04-13 07:45:00,Trace Esports,Bilibili Gaming,Breeze,9,4,4,3,False,6
+140,2024-04-13 07:45:00,Trace Esports,Bilibili Gaming,Bind,6,7,5,2,False,6
+141,2024-04-14 05:00:00,Dragon Ranger Gaming,Titan Esports Club,Breeze,3,1,4,9,False,-9
+141,2024-04-14 05:00:00,Dragon Ranger Gaming,Titan Esports Club,Split,7,6,2,5,False,6
+141,2024-04-14 05:00:00,Dragon Ranger Gaming,Titan Esports Club,Icebox,11,2,4,1,False,8
+142,2024-04-14 07:50:00,TYLOO,EDward Gaming,Sunset,5,0,6,7,False,-8
+142,2024-04-14 07:50:00,TYLOO,EDward Gaming,Bind,4,6,6,7,False,-3
+143,2024-04-19 05:00:00,Wolves Esports,Trace Esports,Ascent,2,7,3,10,False,-4
+143,2024-04-19 05:00:00,Wolves Esports,Trace Esports,Lotus,4,5,5,8,False,-4
+144,2024-04-19 07:25:00,Nova Esports,FunPlus Phoenix,Ascent,6,0,7,6,False,-7
+144,2024-04-19 07:25:00,Nova Esports,FunPlus Phoenix,Lotus,0,4,8,5,False,-9
+145,2024-04-20 05:00:00,Bilibili Gaming,All Gamers,Lotus,5,6,6,7,False,-2
+145,2024-04-20 05:00:00,Bilibili Gaming,All Gamers,Bind,6,1,7,6,False,-6
+146,2024-04-20 07:40:00,Dragon Ranger Gaming,JDG Esports,Breeze,4,9,3,4,False,6
+146,2024-04-20 07:40:00,Dragon Ranger Gaming,JDG Esports,Icebox,3,2,10,3,False,-8
+146,2024-04-20 07:40:00,Dragon Ranger Gaming,JDG Esports,Bind,4,8,4,8,True,2
+147,2024-04-21 05:00:00,TYLOO,Nova Esports,Icebox,6,4,7,6,False,-3
+147,2024-04-21 05:00:00,TYLOO,Nova Esports,Ascent,5,7,5,7,True,2
+147,2024-04-21 05:00:00,TYLOO,Nova Esports,Split,8,5,7,2,False,4
+148,2024-04-21 09:00:00,EDward Gaming,Titan Esports Club,Ascent,8,5,1,4,False,8
+148,2024-04-21 09:00:00,EDward Gaming,Titan Esports Club,Sunset,10,3,3,2,False,8
+149,2024-04-26 05:00:00,Titan Esports Club,Bilibili Gaming,Sunset,7,6,6,5,False,2
+149,2024-04-26 05:00:00,Titan Esports Club,Bilibili Gaming,Bind,4,4,8,5,False,-5
+149,2024-04-26 05:00:00,Titan Esports Club,Bilibili Gaming,Icebox,5,8,4,2,False,7
+150,2024-04-26 08:05:00,Trace Esports,Dragon Ranger Gaming,Breeze,6,1,7,6,False,-6
+150,2024-04-26 08:05:00,Trace Esports,Dragon Ranger Gaming,Sunset,6,4,7,6,False,-3
+151,2024-04-27 05:00:00,TYLOO,Wolves Esports,Sunset,6,5,7,6,False,-2
+151,2024-04-27 05:00:00,TYLOO,Wolves Esports,Split,6,7,1,6,False,6
+151,2024-04-27 05:00:00,TYLOO,Wolves Esports,Ascent,5,5,6,7,False,-3
+152,2024-04-27 08:30:00,FunPlus Phoenix,EDward Gaming,Breeze,1,3,9,4,False,-9
+152,2024-04-27 08:30:00,FunPlus Phoenix,EDward Gaming,Bind,5,8,4,7,False,2
+152,2024-04-27 08:30:00,FunPlus Phoenix,EDward Gaming,Ascent,5,8,4,0,False,9
+153,2024-04-28 05:00:00,All Gamers,Nova Esports,Lotus,8,4,8,4,True,2
+153,2024-04-28 05:00:00,All Gamers,Nova Esports,Bind,6,4,7,6,False,-3
+153,2024-04-28 05:00:00,All Gamers,Nova Esports,Split,5,8,4,3,False,6
+154,2024-04-28 08:40:00,Bilibili Gaming,JDG Esports,Icebox,7,6,6,2,False,5
+154,2024-04-28 08:40:00,Bilibili Gaming,JDG Esports,Lotus,8,5,7,3,False,3
+155,2024-05-02 07:00:00,EDward Gaming,All Gamers,Sunset,9,4,3,3,False,7
+155,2024-05-02 07:00:00,EDward Gaming,All Gamers,Icebox,5,8,4,1,False,8
+156,2024-05-03 07:00:00,Wolves Esports,JDG Esports,Lotus,6,2,7,6,False,-5
+156,2024-05-03 07:00:00,Wolves Esports,JDG Esports,Ascent,1,0,2,11,False,-12
+157,2024-05-04 05:00:00,Dragon Ranger Gaming,TYLOO,Bind,4,6,5,8,False,-3
+157,2024-05-04 05:00:00,Dragon Ranger Gaming,TYLOO,Breeze,5,3,6,7,False,-5
+158,2024-05-04 07:30:00,Bilibili Gaming,FunPlus Phoenix,Icebox,1,1,11,2,False,-11
+158,2024-05-04 07:30:00,Bilibili Gaming,FunPlus Phoenix,Lotus,5,1,11,2,False,-7
+159,2024-05-05 05:00:00,Nova Esports,Titan Esports Club,Split,9,4,3,3,False,7
+159,2024-05-05 05:00:00,Nova Esports,Titan Esports Club,Lotus,4,9,3,3,False,7
+160,2024-05-05 07:05:00,Trace Esports,EDward Gaming,Sunset,8,4,8,4,True,-2
+160,2024-05-05 07:05:00,Trace Esports,EDward Gaming,Breeze,7,5,7,5,True,-2
+161,2024-05-08 05:00:00,Trace Esports,All Gamers,Sunset,5,8,4,5,False,4
+161,2024-05-08 05:00:00,Trace Esports,All Gamers,Breeze,9,4,4,3,False,6
+162,2024-05-08 07:15:00,Dragon Ranger Gaming,Nova Esports,Bind,7,6,6,2,False,5
+162,2024-05-08 07:15:00,Dragon Ranger Gaming,Nova Esports,Ascent,7,6,2,5,False,6
+163,2024-05-09 05:00:00,FunPlus Phoenix,Trace Esports,Bind,9,4,8,2,False,3
+163,2024-05-09 05:00:00,FunPlus Phoenix,Trace Esports,Lotus,6,7,5,3,False,5
+164,2024-05-09 07:30:00,EDward Gaming,Dragon Ranger Gaming,Ascent,9,4,0,3,False,10
+164,2024-05-09 07:30:00,EDward Gaming,Dragon Ranger Gaming,Split,5,8,2,7,False,4
+165,2024-05-10 05:00:00,FunPlus Phoenix,EDward Gaming,Icebox,6,7,5,5,False,3
+165,2024-05-10 05:00:00,FunPlus Phoenix,EDward Gaming,Breeze,9,3,9,3,True,2
+166,2024-05-10 07:45:00,Trace Esports,Dragon Ranger Gaming,Sunset,8,5,2,4,False,7
+166,2024-05-10 07:45:00,Trace Esports,Dragon Ranger Gaming,Split,3,5,7,6,False,-5
+166,2024-05-10 07:45:00,Trace Esports,Dragon Ranger Gaming,Bind,5,2,6,7,False,-6
+167,2024-05-11 05:00:00,EDward Gaming,Dragon Ranger Gaming,Breeze,8,5,6,4,False,3
+167,2024-05-11 05:00:00,EDward Gaming,Dragon Ranger Gaming,Split,3,10,2,1,False,10
+167,2024-05-11 05:00:00,EDward Gaming,Dragon Ranger Gaming,Ascent,2,0,3,10,False,-11
+167,2024-05-11 05:00:00,EDward Gaming,Dragon Ranger Gaming,Bind,7,6,1,5,False,7
+168,2024-05-12 05:00:00,FunPlus Phoenix,EDward Gaming,Lotus,4,9,3,3,False,7
+168,2024-05-12 05:00:00,FunPlus Phoenix,EDward Gaming,Bind,7,2,8,5,False,-4
+168,2024-05-12 05:00:00,FunPlus Phoenix,EDward Gaming,Icebox,8,4,8,4,True,-2
+168,2024-05-12 05:00:00,FunPlus Phoenix,EDward Gaming,Breeze,3,5,7,6,False,-5
+169,2024-04-06 04:00:00,Global Esports,ZETA DIVISION,Sunset,1,0,2,11,False,-12
+169,2024-04-06 04:00:00,Global Esports,ZETA DIVISION,Icebox,5,8,4,6,False,3
+169,2024-04-06 04:00:00,Global Esports,ZETA DIVISION,Ascent,6,2,7,6,False,-5
+170,2024-04-06 07:00:00,Team Secret,DRX,Sunset,5,3,9,4,False,-5
+170,2024-04-06 07:00:00,Team Secret,DRX,Lotus,5,3,6,7,False,-5
+171,2024-04-07 04:00:00,BLEED,Talon Esports,Lotus,7,6,4,5,False,4
+171,2024-04-07 04:00:00,BLEED,Talon Esports,Bind,2,5,7,6,False,-6
+171,2024-04-07 04:00:00,BLEED,Talon Esports,Icebox,4,2,10,3,False,-7
+172,2024-04-07 07:15:00,T1,Paper Rex,Lotus,2,8,4,9,False,-3
+172,2024-04-07 07:15:00,T1,Paper Rex,Bind,6,6,6,6,True,-2
+173,2024-04-08 04:00:00,Team Secret,Rex Regum Qeon,Breeze,7,3,9,4,False,-3
+173,2024-04-08 04:00:00,Team Secret,Rex Regum Qeon,Split,6,7,0,6,False,7
+173,2024-04-08 04:00:00,Team Secret,Rex Regum Qeon,Icebox,5,7,5,7,True,-2
+174,2024-04-08 07:20:00,Global Esports,DRX,Ascent,5,3,9,4,False,-5
+174,2024-04-08 07:20:00,Global Esports,DRX,Lotus,3,3,4,9,False,-7
+175,2024-04-09 04:00:00,Gen.G,Talon Esports,Lotus,4,9,3,6,False,4
+175,2024-04-09 04:00:00,Gen.G,Talon Esports,Ascent,3,10,2,6,False,5
+176,2024-04-09 06:10:00,T1,DetonatioN FocusMe,Ascent,3,7,5,8,False,-3
+176,2024-04-09 06:10:00,T1,DetonatioN FocusMe,Lotus,4,9,3,2,False,8
+176,2024-04-09 06:10:00,T1,DetonatioN FocusMe,Sunset,6,5,7,6,False,-2
+177,2024-04-13 04:00:00,Gen.G,Paper Rex,Lotus,9,4,8,3,False,2
+177,2024-04-13 04:00:00,Gen.G,Paper Rex,Icebox,3,8,4,9,False,-2
+177,2024-04-13 04:00:00,Gen.G,Paper Rex,Bind,2,4,3,10,False,-7
+178,2024-04-13 07:10:00,T1,DRX,Breeze,8,5,7,2,False,4
+178,2024-04-13 07:10:00,T1,DRX,Split,2,3,3,10,False,-8
+178,2024-04-13 07:10:00,T1,DRX,Bind,3,3,4,9,False,-7
+179,2024-04-14 04:00:00,Team Secret,ZETA DIVISION,Icebox,6,7,5,3,False,5
+179,2024-04-14 04:00:00,Team Secret,ZETA DIVISION,Lotus,5,1,6,7,False,-7
+179,2024-04-14 04:00:00,Team Secret,ZETA DIVISION,Sunset,9,4,4,3,False,6
+180,2024-04-14 07:00:00,BLEED,Rex Regum Qeon,Lotus,0,2,10,3,False,-11
+180,2024-04-14 07:00:00,BLEED,Rex Regum Qeon,Icebox,4,1,5,8,False,-8
+181,2024-04-15 04:00:00,Gen.G,DetonatioN FocusMe,Split,7,6,6,2,False,5
+181,2024-04-15 04:00:00,Gen.G,DetonatioN FocusMe,Lotus,7,6,6,1,False,6
+182,2024-04-15 06:10:00,Global Esports,Talon Esports,Icebox,9,4,1,3,False,9
+182,2024-04-15 06:10:00,Global Esports,Talon Esports,Breeze,6,6,6,6,True,-2
+182,2024-04-15 06:10:00,Global Esports,Talon Esports,Lotus,1,5,7,6,False,-7
+183,2024-04-16 04:00:00,T1,Rex Regum Qeon,Ascent,7,6,6,0,False,7
+183,2024-04-16 04:00:00,T1,Rex Regum Qeon,Lotus,7,6,6,2,False,5
+184,2024-04-16 06:00:00,BLEED,ZETA DIVISION,Sunset,3,6,6,7,False,-4
+184,2024-04-16 06:00:00,BLEED,ZETA DIVISION,Ascent,6,7,5,4,False,4
+184,2024-04-16 06:00:00,BLEED,ZETA DIVISION,Lotus,3,5,4,9,False,-5
+185,2024-04-20 04:00:00,Gen.G,DRX,Bind,6,4,8,5,False,-3
+185,2024-04-20 04:00:00,Gen.G,DRX,Ascent,8,5,7,2,False,4
+185,2024-04-20 04:00:00,Gen.G,DRX,Split,6,1,7,6,False,-6
+186,2024-04-20 07:15:00,BLEED,DetonatioN FocusMe,Lotus,2,7,5,8,False,-4
+186,2024-04-20 07:15:00,BLEED,DetonatioN FocusMe,Split,10,3,5,2,False,6
+186,2024-04-20 07:15:00,BLEED,DetonatioN FocusMe,Ascent,3,10,2,2,False,9
+187,2024-04-21 04:00:00,Global Esports,Rex Regum Qeon,Lotus,7,6,5,5,False,3
+187,2024-04-21 04:00:00,Global Esports,Rex Regum Qeon,Icebox,8,5,0,4,False,9
+188,2024-04-21 07:00:00,Team Secret,Paper Rex,Icebox,5,8,4,5,False,4
+188,2024-04-21 07:00:00,Team Secret,Paper Rex,Sunset,7,6,3,5,False,5
+189,2024-04-22 04:00:00,T1,Talon Esports,Lotus,6,5,7,6,False,-2
+189,2024-04-22 04:00:00,T1,Talon Esports,Bind,5,5,6,7,False,-3
+190,2024-04-22 06:15:00,Gen.G,ZETA DIVISION,Split,6,7,5,3,False,5
+190,2024-04-22 06:15:00,Gen.G,ZETA DIVISION,Ascent,7,5,7,5,True,2
+191,2024-04-23 04:00:00,Team Secret,DetonatioN FocusMe,Lotus,10,3,2,2,False,9
+191,2024-04-23 04:00:00,Team Secret,DetonatioN FocusMe,Breeze,1,8,4,9,False,-4
+191,2024-04-23 04:00:00,Team Secret,DetonatioN FocusMe,Sunset,1,12,0,2,False,11
+192,2024-04-23 06:50:00,Global Esports,Paper Rex,Sunset,2,2,10,3,False,-9
+192,2024-04-23 06:50:00,Global Esports,Paper Rex,Icebox,2,5,7,6,False,-6
+193,2024-04-27 04:00:00,BLEED,Paper Rex,Ascent,3,2,4,9,False,-8
+193,2024-04-27 04:00:00,BLEED,Paper Rex,Bind,5,1,6,7,False,-7
+194,2024-04-27 06:00:00,Global Esports,DetonatioN FocusMe,Split,6,4,7,6,False,-3
+194,2024-04-27 06:00:00,Global Esports,DetonatioN FocusMe,Lotus,11,2,4,1,False,8
+194,2024-04-27 06:00:00,Global Esports,DetonatioN FocusMe,Ascent,7,6,6,5,False,2
+195,2024-04-28 04:00:00,T1,ZETA DIVISION,Bind,6,5,7,6,False,-2
+195,2024-04-28 04:00:00,T1,ZETA DIVISION,Lotus,8,5,5,4,False,4
+195,2024-04-28 04:00:00,T1,ZETA DIVISION,Sunset,6,7,4,6,False,3
+196,2024-04-28 07:10:00,Team Secret,Talon Esports,Sunset,3,10,2,9,False,2
+196,2024-04-28 07:10:00,Team Secret,Talon Esports,Lotus,5,6,6,7,False,-2
+196,2024-04-28 07:10:00,Team Secret,Talon Esports,Breeze,7,3,8,5,False,-3
+197,2024-04-29 04:00:00,BLEED,DRX,Bind,5,4,6,7,False,-4
+197,2024-04-29 04:00:00,BLEED,DRX,Breeze,2,2,10,3,False,-9
+198,2024-04-29 06:05:00,Gen.G,Rex Regum Qeon,Breeze,2,11,1,2,False,10
+198,2024-04-29 06:05:00,Gen.G,Rex Regum Qeon,Ascent,5,6,6,7,False,-2
+198,2024-04-29 06:05:00,Gen.G,Rex Regum Qeon,Split,5,5,6,7,False,-3
+199,2024-05-03 04:00:00,Team Secret,T1,Lotus,5,2,6,7,False,-6
+199,2024-05-03 04:00:00,Team Secret,T1,Sunset,2,9,3,10,False,-2
+200,2024-05-03 06:10:00,Paper Rex,Talon Esports,Lotus,12,1,0,0,False,13
+200,2024-05-03 06:10:00,Paper Rex,Talon Esports,Sunset,3,10,2,7,False,4
+200,2024-05-03 06:10:00,Paper Rex,Talon Esports,Bind,4,3,9,4,False,-6
+201,2024-05-04 04:00:00,Gen.G,T1,Ascent,3,6,4,9,False,-4
+201,2024-05-04 04:00:00,Gen.G,T1,Sunset,7,6,6,2,False,5
+201,2024-05-04 04:00:00,Gen.G,T1,Breeze,3,4,8,5,False,-6
+202,2024-05-04 07:10:00,DRX,Paper Rex,Lotus,4,2,5,8,False,-7
+202,2024-05-04 07:10:00,DRX,Paper Rex,Ascent,5,8,3,7,False,3
+202,2024-05-04 07:10:00,DRX,Paper Rex,Bind,2,4,8,5,False,-7
+203,2024-05-05 04:00:00,T1,Paper Rex,Lotus,2,1,11,2,False,-10
+203,2024-05-05 04:00:00,T1,Paper Rex,Sunset,2,3,3,10,False,-8
+204,2024-05-05 06:00:00,Gen.G,DRX,Bind,2,6,6,7,False,-5
+204,2024-05-05 06:00:00,Gen.G,DRX,Sunset,9,4,8,3,False,2
+204,2024-05-05 06:00:00,Gen.G,DRX,Ascent,8,5,4,4,False,5
+205,2024-05-11 04:00:00,T1,Gen.G,Lotus,2,0,3,10,False,-11
+205,2024-05-11 04:00:00,T1,Gen.G,Icebox,4,7,5,8,False,-2
+205,2024-05-11 04:00:00,T1,Gen.G,Bind,5,4,6,7,False,-4
+206,2024-05-12 04:00:00,Paper Rex,Gen.G,Lotus,6,3,7,6,False,-4
+206,2024-05-12 04:00:00,Paper Rex,Gen.G,Sunset,6,7,5,4,False,4
+206,2024-05-12 04:00:00,Paper Rex,Gen.G,Icebox,7,6,6,5,False,2
+206,2024-05-12 04:00:00,Paper Rex,Gen.G,Bind,6,3,7,6,False,-4
+206,2024-05-12 04:00:00,Paper Rex,Gen.G,Split,5,8,1,7,False,5
+207,2024-04-06 17:00:00,Cloud9,LEVIATÁN,Icebox,4,3,9,4,False,-6
+207,2024-04-06 17:00:00,Cloud9,LEVIATÁN,Sunset,7,6,6,1,False,6
+207,2024-04-06 17:00:00,Cloud9,LEVIATÁN,Ascent,7,5,7,5,True,2
+208,2024-04-06 21:00:00,NRG Esports,LOUD,Breeze,8,5,7,3,False,3
+208,2024-04-06 21:00:00,NRG Esports,LOUD,Sunset,10,3,0,2,False,11
+209,2024-04-07 17:00:00,G2 Esports,Evil Geniuses,Lotus,7,6,6,2,False,5
+209,2024-04-07 17:00:00,G2 Esports,Evil Geniuses,Icebox,4,9,3,0,False,10
+210,2024-04-07 19:10:00,Sentinels,100 Thieves,Icebox,8,5,7,3,False,3
+210,2024-04-07 19:10:00,Sentinels,100 Thieves,Split,7,6,1,5,False,7
+211,2024-04-08 17:00:00,KRÜ Esports,FURIA,Lotus,10,3,5,2,False,6
+211,2024-04-08 17:00:00,KRÜ Esports,FURIA,Icebox,7,4,8,5,False,-2
+211,2024-04-08 17:00:00,KRÜ Esports,FURIA,Breeze,6,7,5,2,False,6
+212,2024-04-13 17:00:00,G2 Esports,100 Thieves,Bind,5,4,8,5,False,-4
+212,2024-04-13 17:00:00,G2 Esports,100 Thieves,Split,4,4,5,8,False,-5
+213,2024-04-13 19:25:00,Sentinels,LEVIATÁN,Lotus,9,3,9,3,True,-2
+213,2024-04-13 19:25:00,Sentinels,LEVIATÁN,Icebox,6,5,7,6,False,-2
+214,2024-04-14 17:00:00,KRÜ Esports,MIBR,Icebox,7,6,1,5,False,7
+214,2024-04-14 17:00:00,KRÜ Esports,MIBR,Sunset,6,7,5,3,False,5
+215,2024-04-14 19:20:00,NRG Esports,FURIA,Split,10,3,0,2,False,11
+215,2024-04-14 19:20:00,NRG Esports,FURIA,Breeze,7,6,6,2,False,5
+216,2024-04-15 17:00:00,Cloud9,Evil Geniuses,Lotus,2,7,5,8,False,-4
+216,2024-04-15 17:00:00,Cloud9,Evil Geniuses,Sunset,8,5,4,4,False,5
+216,2024-04-15 17:00:00,Cloud9,Evil Geniuses,Split,3,10,2,2,False,9
+217,2024-04-20 17:00:00,Sentinels,MIBR,Lotus,4,9,3,0,False,10
+217,2024-04-20 17:00:00,Sentinels,MIBR,Bind,9,4,4,3,False,6
+218,2024-04-20 19:30:00,Cloud9,LOUD,Bind,5,6,6,7,False,-2
+218,2024-04-20 19:30:00,Cloud9,LOUD,Icebox,9,4,1,3,False,9
+218,2024-04-20 19:30:00,Cloud9,LOUD,Lotus,6,7,3,6,False,4
+219,2024-04-21 17:00:00,KRÜ Esports,Evil Geniuses,Lotus,10,3,3,2,False,8
+219,2024-04-21 17:00:00,KRÜ Esports,Evil Geniuses,Breeze,5,8,4,5,False,4
+220,2024-04-21 19:15:00,NRG Esports,LEVIATÁN,Sunset,2,2,3,10,False,-9
+220,2024-04-21 19:15:00,NRG Esports,LEVIATÁN,Bind,1,3,2,11,False,-9
+221,2024-04-22 17:00:00,G2 Esports,FURIA,Lotus,9,4,0,3,False,10
+221,2024-04-22 17:00:00,G2 Esports,FURIA,Icebox,4,9,3,0,False,10
+222,2024-04-22 19:00:00,Cloud9,100 Thieves,Bind,4,3,5,8,False,-6
+222,2024-04-22 19:00:00,Cloud9,100 Thieves,Ascent,1,5,2,11,False,-7
+223,2024-04-23 17:00:00,Sentinels,Evil Geniuses,Lotus,10,3,9,1,False,3
+223,2024-04-23 17:00:00,Sentinels,Evil Geniuses,Bind,10,1,11,2,False,-2
+223,2024-04-23 17:00:00,Sentinels,Evil Geniuses,Sunset,6,4,7,6,False,-3
+224,2024-04-23 20:30:00,NRG Esports,MIBR,Split,7,6,4,5,False,4
+224,2024-04-23 20:30:00,NRG Esports,MIBR,Breeze,4,9,3,0,False,10
+225,2024-04-24 17:00:00,G2 Esports,LEVIATÁN,Breeze,2,4,3,10,False,-7
+225,2024-04-24 17:00:00,G2 Esports,LEVIATÁN,Icebox,7,6,6,2,False,5
+225,2024-04-24 17:00:00,G2 Esports,LEVIATÁN,Lotus,4,5,7,6,False,-4
+226,2024-04-24 20:15:00,KRÜ Esports,LOUD,Split,8,5,7,1,False,5
+226,2024-04-24 20:15:00,KRÜ Esports,LOUD,Ascent,6,7,5,3,False,5
+227,2024-04-27 17:00:00,G2 Esports,MIBR,Icebox,6,7,5,4,False,4
+227,2024-04-27 17:00:00,G2 Esports,MIBR,Bind,11,2,2,1,False,10
+228,2024-04-27 19:05:00,Sentinels,LOUD,Lotus,5,2,10,3,False,-6
+228,2024-04-27 19:05:00,Sentinels,LOUD,Icebox,3,5,7,6,False,-5
+229,2024-04-28 17:00:00,Cloud9,FURIA,Ascent,2,0,12,1,False,-11
+229,2024-04-28 17:00:00,Cloud9,FURIA,Lotus,4,9,3,0,False,10
+229,2024-04-28 17:00:00,Cloud9,FURIA,Bind,5,8,4,4,False,5
+230,2024-04-28 19:55:00,NRG Esports,Evil Geniuses,Ascent,2,4,3,10,False,-7
+230,2024-04-28 19:55:00,NRG Esports,Evil Geniuses,Lotus,6,6,6,6,True,2
+230,2024-04-28 19:55:00,NRG Esports,Evil Geniuses,Sunset,6,5,7,6,False,-2
+231,2024-04-29 17:00:00,KRÜ Esports,100 Thieves,Sunset,7,6,2,5,False,6
+231,2024-04-29 17:00:00,KRÜ Esports,100 Thieves,Breeze,4,7,5,8,False,-2
+231,2024-04-29 17:00:00,KRÜ Esports,100 Thieves,Split,6,7,2,6,False,5
+232,2024-05-03 20:00:00,Sentinels,FURIA,Split,5,8,4,1,False,8
+232,2024-05-03 20:00:00,Sentinels,FURIA,Icebox,5,8,4,5,False,4
+233,2024-05-04 17:00:00,NRG Esports,100 Thieves,Split,7,1,8,5,False,-5
+233,2024-05-04 17:00:00,NRG Esports,100 Thieves,Bind,4,3,5,8,False,-6
+234,2024-05-04 19:20:00,KRÜ Esports,LEVIATÁN,Ascent,3,1,4,9,False,-9
+234,2024-05-04 19:20:00,KRÜ Esports,LEVIATÁN,Breeze,4,8,4,8,True,2
+234,2024-05-04 19:20:00,KRÜ Esports,LEVIATÁN,Lotus,6,4,7,6,False,-3
+235,2024-05-05 17:00:00,Cloud9,MIBR,Icebox,3,9,3,9,True,2
+235,2024-05-05 17:00:00,Cloud9,MIBR,Sunset,8,5,5,4,False,4
+236,2024-05-05 19:35:00,G2 Esports,LOUD,Bind,6,5,7,6,False,-2
+236,2024-05-05 19:35:00,G2 Esports,LOUD,Icebox,3,1,4,9,False,-9
+237,2024-05-08 17:00:00,Cloud9,G2 Esports,Lotus,1,5,7,6,False,-7
+237,2024-05-08 17:00:00,Cloud9,G2 Esports,Ascent,7,5,7,5,True,-2
+238,2024-05-08 19:25:00,100 Thieves,LOUD,Bind,5,8,4,2,False,7
+238,2024-05-08 19:25:00,100 Thieves,LOUD,Icebox,3,10,2,2,False,9
+239,2024-05-09 17:00:00,KRÜ Esports,G2 Esports,Icebox,4,1,5,8,False,-8
+239,2024-05-09 17:00:00,KRÜ Esports,G2 Esports,Ascent,2,6,6,7,False,-5
+240,2024-05-09 19:05:00,LEVIATÁN,100 Thieves,Bind,3,0,4,9,False,-10
+240,2024-05-09 19:05:00,LEVIATÁN,100 Thieves,Sunset,8,4,8,4,True,2
+240,2024-05-09 19:05:00,LEVIATÁN,100 Thieves,Icebox,6,4,7,6,False,-3
+241,2024-05-10 17:00:00,G2 Esports,100 Thieves,Ascent,5,0,6,7,False,-8
+241,2024-05-10 17:00:00,G2 Esports,100 Thieves,Bind,7,6,6,2,False,5
+241,2024-05-10 17:00:00,G2 Esports,100 Thieves,Split,3,8,4,9,False,-2
+242,2024-05-10 20:00:00,KRÜ Esports,LEVIATÁN,Lotus,7,6,1,5,False,7
+242,2024-05-10 20:00:00,KRÜ Esports,LEVIATÁN,Icebox,4,7,5,8,False,-2
+242,2024-05-10 20:00:00,KRÜ Esports,LEVIATÁN,Sunset,7,1,8,5,False,-5
+243,2024-05-11 17:00:00,G2 Esports,LEVIATÁN,Bind,6,6,6,6,True,-2
+243,2024-05-11 17:00:00,G2 Esports,LEVIATÁN,Breeze,4,9,3,4,False,6
+243,2024-05-11 17:00:00,G2 Esports,LEVIATÁN,Icebox,6,6,6,6,True,-2
+243,2024-05-11 17:00:00,G2 Esports,LEVIATÁN,Lotus,8,5,6,4,False,3
+243,2024-05-11 17:00:00,G2 Esports,LEVIATÁN,Ascent,5,8,4,7,False,2
+244,2024-05-12 17:00:00,100 Thieves,G2 Esports,Bind,4,9,1,8,False,4
+244,2024-05-12 17:00:00,100 Thieves,G2 Esports,Breeze,7,6,6,1,False,6
+244,2024-05-12 17:00:00,100 Thieves,G2 Esports,Sunset,5,8,4,4,False,5
+245,2024-05-23 04:00:00,G2 Esports,T1,Breeze,6,7,5,3,False,5
+245,2024-05-23 04:00:00,G2 Esports,T1,Icebox,0,1,11,2,False,-12
+245,2024-05-23 04:00:00,G2 Esports,T1,Lotus,3,9,3,9,True,2
+246,2024-05-23 07:10:00,FunPlus Phoenix,FUT Esports,Sunset,9,4,4,3,False,6
+246,2024-05-23 07:10:00,FunPlus Phoenix,FUT Esports,Lotus,8,4,8,4,True,-2
+246,2024-05-23 07:10:00,FunPlus Phoenix,FUT Esports,Icebox,9,4,8,2,False,3
+247,2024-05-24 04:00:00,Gen.G,LEVIATÁN,Icebox,2,5,7,6,False,-6
+247,2024-05-24 04:00:00,Gen.G,LEVIATÁN,Lotus,6,7,5,0,False,8
+247,2024-05-24 04:00:00,Gen.G,LEVIATÁN,Breeze,8,5,3,4,False,6
+248,2024-05-24 07:00:00,Team Heretics,Dragon Ranger Gaming,Icebox,5,8,4,1,False,8
+248,2024-05-24 07:00:00,Team Heretics,Dragon Ranger Gaming,Sunset,7,6,0,5,False,8
+249,2024-05-25 04:00:00,FunPlus Phoenix,Gen.G,Lotus,10,2,10,2,True,2
+249,2024-05-25 04:00:00,FunPlus Phoenix,Gen.G,Sunset,1,6,6,7,False,-6
+249,2024-05-25 04:00:00,FunPlus Phoenix,Gen.G,Ascent,4,7,5,8,False,-2
+250,2024-05-25 07:40:00,G2 Esports,Team Heretics,Lotus,4,5,5,8,False,-4
+250,2024-05-25 07:40:00,G2 Esports,Team Heretics,Bind,9,4,3,3,False,7
+250,2024-05-25 07:40:00,G2 Esports,Team Heretics,Split,9,4,5,3,False,5
+251,2024-05-26 04:00:00,LEVIATÁN,T1,Breeze,4,9,3,6,False,4
+251,2024-05-26 04:00:00,LEVIATÁN,T1,Sunset,3,10,2,5,False,6
+252,2024-05-26 06:10:00,Dragon Ranger Gaming,FUT Esports,Bind,6,4,8,5,False,-3
+252,2024-05-26 06:10:00,Dragon Ranger Gaming,FUT Esports,Ascent,5,7,5,7,True,-2
+253,2024-05-27 04:00:00,FunPlus Phoenix,Team Heretics,Sunset,2,2,10,3,False,-9
+253,2024-05-27 04:00:00,FunPlus Phoenix,Team Heretics,Lotus,8,5,2,4,False,7
+253,2024-05-27 04:00:00,FunPlus Phoenix,Team Heretics,Icebox,10,2,10,2,True,-2
+254,2024-05-27 07:35:00,FUT Esports,LEVIATÁN,Sunset,11,2,0,1,False,12
+254,2024-05-27 07:35:00,FUT Esports,LEVIATÁN,Lotus,6,5,7,6,False,-2
+254,2024-05-27 07:35:00,FUT Esports,LEVIATÁN,Bind,6,7,5,6,False,2
+255,2024-05-30 04:00:00,100 Thieves,FUT Esports,Icebox,2,11,1,1,False,11
+255,2024-05-30 04:00:00,100 Thieves,FUT Esports,Bind,5,8,4,1,False,8
+256,2024-05-30 06:00:00,FNATIC,Gen.G,Lotus,4,9,3,7,False,3
+256,2024-05-30 06:00:00,FNATIC,Gen.G,Bind,6,4,7,6,False,-3
+256,2024-05-30 06:00:00,FNATIC,Gen.G,Breeze,7,4,8,5,False,-2
+257,2024-05-31 04:00:00,Paper Rex,G2 Esports,Split,11,2,6,1,False,6
+257,2024-05-31 04:00:00,Paper Rex,G2 Esports,Lotus,4,6,6,7,False,-3
+257,2024-05-31 04:00:00,Paper Rex,G2 Esports,Bind,3,2,10,3,False,-8
+258,2024-05-31 07:00:00,EDward Gaming,Team Heretics,Sunset,4,2,5,8,False,-7
+258,2024-05-31 07:00:00,EDward Gaming,Team Heretics,Split,2,1,3,10,False,-10
+259,2024-06-01 04:00:00,FUT Esports,FNATIC,Split,5,0,6,7,False,-8
+259,2024-06-01 04:00:00,FUT Esports,FNATIC,Lotus,9,4,5,3,False,5
+259,2024-06-01 04:00:00,FUT Esports,FNATIC,Ascent,4,9,3,0,False,10
+260,2024-06-01 07:00:00,Paper Rex,EDward Gaming,Bind,6,7,5,6,False,2
+260,2024-06-01 07:00:00,Paper Rex,EDward Gaming,Sunset,5,8,4,2,False,7
+261,2024-06-02 04:00:00,100 Thieves,Gen.G,Icebox,3,7,4,9,False,-3
+261,2024-06-02 04:00:00,100 Thieves,Gen.G,Ascent,4,6,6,7,False,-3
+262,2024-06-02 06:15:00,G2 Esports,Team Heretics,Icebox,2,5,3,10,False,-6
+262,2024-06-02 06:15:00,G2 Esports,Team Heretics,Ascent,2,11,1,10,False,2
+262,2024-06-02 06:15:00,G2 Esports,Team Heretics,Lotus,5,8,4,0,False,9
+263,2024-06-03 04:00:00,100 Thieves,Paper Rex,Breeze,8,5,1,4,False,8
+263,2024-06-03 04:00:00,100 Thieves,Paper Rex,Sunset,6,4,8,5,False,-3
+263,2024-06-03 04:00:00,100 Thieves,Paper Rex,Icebox,5,7,5,7,True,2
+264,2024-06-03 07:10:00,Team Heretics,FUT Esports,Bind,7,6,6,1,False,6
+264,2024-06-03 07:10:00,Team Heretics,FUT Esports,Sunset,4,9,3,1,False,9
+265,2024-06-07 03:00:00,G2 Esports,Gen.G,Lotus,5,3,6,7,False,-5
+265,2024-06-07 03:00:00,G2 Esports,Gen.G,Ascent,6,4,8,5,False,-3
+266,2024-06-07 05:25:00,100 Thieves,Team Heretics,Bind,8,4,8,4,True,-2
+266,2024-06-07 05:25:00,100 Thieves,Team Heretics,Sunset,1,0,2,11,False,-12
+267,2024-06-08 03:00:00,G2 Esports,Team Heretics,Bind,0,2,10,3,False,-11
+267,2024-06-08 03:00:00,G2 Esports,Team Heretics,Icebox,4,2,5,8,False,-7
+267,2024-06-08 03:00:00,G2 Esports,Team Heretics,Lotus,5,3,9,4,False,-5
+268,2024-06-09 04:15:00,Gen.G,Team Heretics,Breeze,3,10,2,4,False,7
+268,2024-06-09 04:15:00,Gen.G,Team Heretics,Icebox,2,7,5,8,False,-4
+268,2024-06-09 04:15:00,Gen.G,Team Heretics,Ascent,6,3,7,6,False,-4
+268,2024-06-09 04:15:00,Gen.G,Team Heretics,Lotus,4,9,3,1,False,9
+268,2024-06-09 04:15:00,Gen.G,Team Heretics,Split,9,4,0,3,False,10
+269,2024-06-15 04:00:00,ZETA DIVISION,DRX,Icebox,0,0,12,1,False,-13
+269,2024-06-15 04:00:00,ZETA DIVISION,DRX,Sunset,5,8,4,7,False,2
+269,2024-06-15 04:00:00,ZETA DIVISION,DRX,Breeze,2,2,10,3,False,-9
+270,2024-06-15 06:40:00,Team Secret,BLEED,Ascent,0,10,2,11,False,-3
+270,2024-06-15 06:40:00,Team Secret,BLEED,Sunset,8,5,7,1,False,5
+270,2024-06-15 06:40:00,Team Secret,BLEED,Split,5,8,4,4,False,5
+271,2024-06-16 04:00:00,T1,Gen.G,Split,7,5,7,5,True,-2
+271,2024-06-16 04:00:00,T1,Gen.G,Lotus,4,9,3,2,False,8
+271,2024-06-16 04:00:00,T1,Gen.G,Sunset,4,5,7,6,False,-4
+272,2024-06-16 07:30:00,Paper Rex,Talon Esports,Icebox,9,4,1,3,False,9
+272,2024-06-16 07:30:00,Paper Rex,Talon Esports,Sunset,9,4,4,3,False,6
+273,2024-06-17 04:00:00,Rex Regum Qeon,DetonatioN FocusMe,Icebox,8,4,8,4,True,2
+273,2024-06-17 04:00:00,Rex Regum Qeon,DetonatioN FocusMe,Ascent,6,7,3,6,False,4
+274,2024-06-17 06:35:00,Team Secret,Global Esports,Sunset,2,11,1,7,False,5
+274,2024-06-17 06:35:00,Team Secret,Global Esports,Ascent,8,5,7,3,False,3
+275,2024-06-22 04:00:00,Talon Esports,Rex Regum Qeon,Lotus,6,6,6,6,True,2
+275,2024-06-22 04:00:00,Talon Esports,Rex Regum Qeon,Ascent,5,5,7,6,False,-3
+275,2024-06-22 04:00:00,Talon Esports,Rex Regum Qeon,Icebox,10,3,8,2,False,3
+276,2024-06-22 07:50:00,Paper Rex,DRX,Split,9,4,1,3,False,9
+276,2024-06-22 07:50:00,Paper Rex,DRX,Haven,7,1,8,5,False,-5
+276,2024-06-22 07:50:00,Paper Rex,DRX,Icebox,10,3,3,2,False,8
+277,2024-06-23 04:00:00,Global Esports,BLEED,Lotus,9,4,3,3,False,7
+277,2024-06-23 04:00:00,Global Esports,BLEED,Sunset,6,7,5,1,False,7
+278,2024-06-23 06:05:00,DetonatioN FocusMe,ZETA DIVISION,Haven,3,4,8,5,False,-6
+278,2024-06-23 06:05:00,DetonatioN FocusMe,ZETA DIVISION,Sunset,7,6,4,5,False,4
+278,2024-06-23 06:05:00,DetonatioN FocusMe,ZETA DIVISION,Ascent,7,6,6,4,False,3
+279,2024-06-24 04:00:00,DRX,Rex Regum Qeon,Split,3,9,3,9,True,-2
+279,2024-06-24 04:00:00,DRX,Rex Regum Qeon,Sunset,4,8,4,8,True,-2
+280,2024-06-24 06:20:00,Team Secret,T1,Haven,4,6,6,7,False,-3
+280,2024-06-24 06:20:00,Team Secret,T1,Split,7,6,1,5,False,7
+280,2024-06-24 06:20:00,Team Secret,T1,Icebox,8,4,8,4,True,2
+281,2024-06-29 04:00:00,Talon Esports,DetonatioN FocusMe,Lotus,7,6,2,5,False,6
+281,2024-06-29 04:00:00,Talon Esports,DetonatioN FocusMe,Sunset,6,7,4,6,False,3
+282,2024-06-29 06:10:00,ZETA DIVISION,Rex Regum Qeon,Split,6,2,7,6,False,-5
+282,2024-06-29 06:10:00,ZETA DIVISION,Rex Regum Qeon,Sunset,7,3,9,4,False,-3
+283,2024-06-30 04:00:00,Global Esports,T1,Icebox,6,7,5,5,False,3
+283,2024-06-30 04:00:00,Global Esports,T1,Lotus,4,4,5,8,False,-5
+283,2024-06-30 04:00:00,Global Esports,T1,Ascent,6,2,7,6,False,-5
+284,2024-06-30 07:15:00,BLEED,Gen.G,Ascent,6,0,7,6,False,-7
+284,2024-06-30 07:15:00,BLEED,Gen.G,Sunset,8,5,7,3,False,3
+284,2024-06-30 07:15:00,BLEED,Gen.G,Icebox,7,4,8,5,False,-2
+285,2024-07-01 04:00:00,Paper Rex,DetonatioN FocusMe,Icebox,10,3,2,2,False,9
+285,2024-07-01 04:00:00,Paper Rex,DetonatioN FocusMe,Sunset,5,8,4,4,False,5
+286,2024-07-01 06:00:00,DRX,Talon Esports,Ascent,8,3,9,4,False,-2
+286,2024-07-01 06:00:00,DRX,Talon Esports,Haven,7,6,5,5,False,3
+286,2024-07-01 06:00:00,DRX,Talon Esports,Icebox,12,1,5,0,False,8
+287,2024-07-05 04:00:00,Paper Rex,Rex Regum Qeon,Lotus,5,8,4,3,False,6
+287,2024-07-05 04:00:00,Paper Rex,Rex Regum Qeon,Ascent,5,2,6,7,False,-6
+287,2024-07-05 04:00:00,Paper Rex,Rex Regum Qeon,Sunset,7,6,5,5,False,3
+288,2024-07-05 07:00:00,Gen.G,Global Esports,Lotus,2,11,1,0,False,12
+288,2024-07-05 07:00:00,Gen.G,Global Esports,Ascent,6,7,5,1,False,7
+289,2024-07-06 04:00:00,DRX,DetonatioN FocusMe,Icebox,6,7,5,2,False,6
+289,2024-07-06 04:00:00,DRX,DetonatioN FocusMe,Ascent,5,1,6,7,False,-7
+289,2024-07-06 04:00:00,DRX,DetonatioN FocusMe,Haven,10,3,0,2,False,11
+290,2024-07-06 06:45:00,ZETA DIVISION,Talon Esports,Ascent,4,9,3,3,False,7
+290,2024-07-06 06:45:00,ZETA DIVISION,Talon Esports,Lotus,2,6,6,7,False,-5
+290,2024-07-06 06:45:00,ZETA DIVISION,Talon Esports,Haven,7,6,3,5,False,5
+291,2024-07-07 04:00:00,Gen.G,Team Secret,Sunset,4,2,10,3,False,-7
+291,2024-07-07 04:00:00,Gen.G,Team Secret,Lotus,6,7,5,2,False,6
+291,2024-07-07 04:00:00,Gen.G,Team Secret,Split,3,9,3,9,True,-2
+292,2024-07-07 07:00:00,Paper Rex,ZETA DIVISION,Ascent,7,2,8,5,False,-4
+292,2024-07-07 07:00:00,Paper Rex,ZETA DIVISION,Lotus,11,2,7,1,False,5
+292,2024-07-07 07:00:00,Paper Rex,ZETA DIVISION,Sunset,5,8,4,0,False,9
+293,2024-07-08 04:00:00,T1,BLEED,Bind,3,10,2,9,False,2
+293,2024-07-08 04:00:00,T1,BLEED,Lotus,3,6,6,7,False,-4
+293,2024-07-08 04:00:00,T1,BLEED,Ascent,7,6,3,5,False,5
+294,2024-07-12 04:00:00,Gen.G,Rex Regum Qeon,Haven,6,7,5,3,False,5
+294,2024-07-12 04:00:00,Gen.G,Rex Regum Qeon,Bind,7,6,6,5,False,2
+295,2024-07-12 06:15:00,Team Secret,Talon Esports,Lotus,5,6,6,7,False,-2
+295,2024-07-12 06:15:00,Team Secret,Talon Esports,Abyss,5,6,6,7,False,-2
+296,2024-07-13 04:00:00,Paper Rex,Gen.G,Ascent,3,7,4,9,False,-3
+296,2024-07-13 04:00:00,Paper Rex,Gen.G,Icebox,4,1,5,8,False,-8
+297,2024-07-13 06:05:00,DRX,Talon Esports,Ascent,7,6,3,5,False,5
+297,2024-07-13 06:05:00,DRX,Talon Esports,Abyss,5,8,4,0,False,9
+298,2024-07-14 04:00:00,Gen.G,DRX,Haven,4,9,3,6,False,4
+298,2024-07-14 04:00:00,Gen.G,DRX,Sunset,4,6,6,7,False,-3
+298,2024-07-14 04:00:00,Gen.G,DRX,Bind,6,7,5,1,False,7
+299,2024-07-14 07:15:00,Paper Rex,Talon Esports,Ascent,3,10,2,1,False,10
+299,2024-07-14 07:15:00,Paper Rex,Talon Esports,Sunset,9,4,0,3,False,10
+300,2024-07-20 04:00:00,DRX,Paper Rex,Abyss,1,6,6,7,False,-6
+300,2024-07-20 04:00:00,DRX,Paper Rex,Lotus,5,5,6,7,False,-3
+300,2024-07-20 04:00:00,DRX,Paper Rex,Bind,5,8,4,6,False,3
+300,2024-07-20 04:00:00,DRX,Paper Rex,Icebox,6,7,4,6,False,3
+300,2024-07-20 04:00:00,DRX,Paper Rex,Ascent,7,6,2,5,False,6
+301,2024-07-21 04:00:00,Gen.G,DRX,Haven,4,2,10,3,False,-7
+301,2024-07-21 04:00:00,Gen.G,DRX,Bind,5,7,5,7,True,2
+301,2024-07-21 04:00:00,Gen.G,DRX,Lotus,7,5,7,5,True,2
+301,2024-07-21 04:00:00,Gen.G,DRX,Icebox,6,7,5,1,False,7
+302,2024-06-15 07:00:00,Titan Esports Club,JDG Esports,Icebox,4,8,4,8,True,-2
+302,2024-06-15 07:00:00,Titan Esports Club,JDG Esports,Lotus,8,3,9,4,False,-2
+303,2024-06-16 05:00:00,All Gamers,TYLOO,Sunset,7,6,5,5,False,3
+303,2024-06-16 05:00:00,All Gamers,TYLOO,Icebox,8,5,0,4,False,9
+304,2024-06-16 07:05:00,Bilibili Gaming,Wolves Esports,Sunset,4,9,3,2,False,8
+304,2024-06-16 07:05:00,Bilibili Gaming,Wolves Esports,Bind,4,9,3,4,False,6
+305,2024-06-21 05:00:00,Dragon Ranger Gaming,Nova Esports,Ascent,6,7,1,6,False,6
+305,2024-06-21 05:00:00,Dragon Ranger Gaming,Nova Esports,Lotus,8,4,8,4,True,-2
+305,2024-06-21 05:00:00,Dragon Ranger Gaming,Nova Esports,Sunset,2,3,9,4,False,-8
+306,2024-06-21 08:15:00,FunPlus Phoenix,Trace Esports,Haven,10,3,3,2,False,8
+306,2024-06-21 08:15:00,FunPlus Phoenix,Trace Esports,Lotus,3,9,3,9,True,-2
+306,2024-06-21 08:15:00,FunPlus Phoenix,Trace Esports,Sunset,1,5,7,6,False,-7
+307,2024-06-22 05:00:00,Titan Esports Club,All Gamers,Sunset,8,2,9,4,False,-3
+307,2024-06-22 05:00:00,Titan Esports Club,All Gamers,Icebox,3,3,9,4,False,-7
+308,2024-06-22 07:00:00,EDward Gaming,Wolves Esports,Split,4,9,3,4,False,6
+308,2024-06-22 07:00:00,EDward Gaming,Wolves Esports,Bind,5,7,5,7,True,-2
+308,2024-06-22 07:00:00,EDward Gaming,Wolves Esports,Icebox,5,2,6,7,False,-6
+309,2024-06-23 05:00:00,TYLOO,Trace Esports,Split,7,4,8,5,False,-2
+309,2024-06-23 05:00:00,TYLOO,Trace Esports,Sunset,7,6,2,5,False,6
+309,2024-06-23 05:00:00,TYLOO,Trace Esports,Haven,4,0,5,8,False,-9
+310,2024-06-23 08:05:00,Nova Esports,Bilibili Gaming,Split,4,8,4,8,True,2
+310,2024-06-23 08:05:00,Nova Esports,Bilibili Gaming,Bind,4,5,5,8,False,-4
+310,2024-06-23 08:05:00,Nova Esports,Bilibili Gaming,Ascent,3,3,4,9,False,-7
+311,2024-06-26 07:00:00,JDG Esports,FunPlus Phoenix,Sunset,4,4,8,5,False,-5
+311,2024-06-26 07:00:00,JDG Esports,FunPlus Phoenix,Haven,5,7,5,7,True,-2
+312,2024-06-27 07:00:00,EDward Gaming,Dragon Ranger Gaming,Lotus,4,7,5,8,False,-2
+312,2024-06-27 07:00:00,EDward Gaming,Dragon Ranger Gaming,Haven,3,2,4,9,False,-8
+313,2024-06-28 05:00:00,Nova Esports,Wolves Esports,Icebox,10,2,10,2,True,2
+313,2024-06-28 05:00:00,Nova Esports,Wolves Esports,Sunset,4,8,4,8,True,2
+314,2024-06-28 07:35:00,JDG Esports,Trace Esports,Bind,3,10,2,0,False,11
+314,2024-06-28 07:35:00,JDG Esports,Trace Esports,Sunset,5,3,9,4,False,-5
+314,2024-06-28 07:35:00,JDG Esports,Trace Esports,Haven,6,7,5,1,False,7
+315,2024-06-29 05:00:00,Titan Esports Club,TYLOO,Bind,2,9,3,10,False,-2
+315,2024-06-29 05:00:00,Titan Esports Club,TYLOO,Ascent,6,7,3,6,False,4
+315,2024-06-29 05:00:00,Titan Esports Club,TYLOO,Icebox,6,3,7,6,False,-4
+316,2024-06-29 08:30:00,All Gamers,FunPlus Phoenix,Sunset,5,6,6,7,False,-2
+316,2024-06-29 08:30:00,All Gamers,FunPlus Phoenix,Haven,6,7,2,6,False,5
+316,2024-06-29 08:30:00,All Gamers,FunPlus Phoenix,Ascent,2,5,7,6,False,-6
+317,2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,Lotus,7,6,6,5,False,2
+317,2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,Ascent,5,8,4,7,False,2
+318,2024-06-30 07:20:00,EDward Gaming,Nova Esports,Lotus,6,7,5,4,False,4
+318,2024-06-30 07:20:00,EDward Gaming,Nova Esports,Bind,8,5,2,4,False,7
+319,2024-07-03 07:00:00,All Gamers,Trace Esports,Haven,4,2,10,3,False,-7
+319,2024-07-03 07:00:00,All Gamers,Trace Esports,Sunset,3,1,4,9,False,-9
+320,2024-07-04 07:00:00,Titan Esports Club,FunPlus Phoenix,Lotus,6,7,3,6,False,4
+320,2024-07-04 07:00:00,Titan Esports Club,FunPlus Phoenix,Sunset,5,8,4,2,False,7
+321,2024-07-05 05:00:00,TYLOO,JDG Esports,Haven,1,0,2,11,False,-12
+321,2024-07-05 05:00:00,TYLOO,JDG Esports,Icebox,7,2,8,5,False,-4
+322,2024-07-05 07:00:00,Dragon Ranger Gaming,Wolves Esports,Icebox,2,5,7,6,False,-6
+322,2024-07-05 07:00:00,Dragon Ranger Gaming,Wolves Esports,Ascent,4,2,5,8,False,-7
+323,2024-07-06 05:00:00,Trace Esports,Titan Esports Club,Lotus,6,7,5,6,False,2
+323,2024-07-06 05:00:00,Trace Esports,Titan Esports Club,Bind,4,4,8,5,False,-5
+323,2024-07-06 05:00:00,Trace Esports,Titan Esports Club,Haven,7,6,5,5,False,3
+324,2024-07-06 08:20:00,EDward Gaming,Bilibili Gaming,Icebox,7,6,6,5,False,2
+324,2024-07-06 08:20:00,EDward Gaming,Bilibili Gaming,Haven,5,8,4,4,False,5
+325,2024-07-07 05:00:00,JDG Esports,All Gamers,Haven,7,6,3,5,False,5
+325,2024-07-07 05:00:00,JDG Esports,All Gamers,Icebox,3,10,2,1,False,10
+326,2024-07-07 07:00:00,TYLOO,FunPlus Phoenix,Icebox,1,4,8,5,False,-8
+326,2024-07-07 07:00:00,TYLOO,FunPlus Phoenix,Haven,6,6,6,6,True,2
+326,2024-07-07 07:00:00,TYLOO,FunPlus Phoenix,Ascent,4,9,3,1,False,9
+327,2024-07-16 04:00:00,Trace Esports,All Gamers,Lotus,9,4,4,3,False,6
+327,2024-07-16 04:00:00,Trace Esports,All Gamers,Sunset,8,5,7,3,False,3
+328,2024-07-16 06:25:00,JDG Esports,Bilibili Gaming,Sunset,4,5,7,6,False,-4
+328,2024-07-16 06:25:00,JDG Esports,Bilibili Gaming,Icebox,2,5,7,6,False,-6
+329,2024-07-17 04:00:00,FunPlus Phoenix,Trace Esports,Ascent,3,0,4,9,False,-10
+329,2024-07-17 04:00:00,FunPlus Phoenix,Trace Esports,Haven,8,3,9,4,False,-2
+330,2024-07-17 06:10:00,EDward Gaming,Bilibili Gaming,Sunset,7,6,0,5,False,8
+330,2024-07-17 06:10:00,EDward Gaming,Bilibili Gaming,Bind,4,3,5,8,False,-6
+330,2024-07-17 06:10:00,EDward Gaming,Bilibili Gaming,Lotus,9,4,7,3,False,3
+331,2024-07-18 04:00:00,Trace Esports,EDward Gaming,Sunset,0,2,10,3,False,-11
+331,2024-07-18 04:00:00,Trace Esports,EDward Gaming,Abyss,5,0,6,7,False,-8
+332,2024-07-18 05:50:00,FunPlus Phoenix,Bilibili Gaming,Ascent,4,9,3,0,False,10
+332,2024-07-18 05:50:00,FunPlus Phoenix,Bilibili Gaming,Icebox,7,5,7,5,True,-2
+332,2024-07-18 05:50:00,FunPlus Phoenix,Bilibili Gaming,Lotus,7,6,6,4,False,3
+333,2024-07-19 04:00:00,Trace Esports,FunPlus Phoenix,Lotus,7,6,6,5,False,2
+333,2024-07-19 04:00:00,Trace Esports,FunPlus Phoenix,Ascent,6,7,2,6,False,5
+333,2024-07-19 04:00:00,Trace Esports,FunPlus Phoenix,Abyss,5,3,6,7,False,-5
+333,2024-07-19 04:00:00,Trace Esports,FunPlus Phoenix,Bind,6,3,7,6,False,-4
+333,2024-07-19 04:00:00,Trace Esports,FunPlus Phoenix,Haven,6,2,7,6,False,-5
+334,2024-07-20 04:30:00,EDward Gaming,FunPlus Phoenix,Sunset,9,4,6,3,False,4
+334,2024-07-20 04:30:00,EDward Gaming,FunPlus Phoenix,Abyss,5,3,6,7,False,-5
+334,2024-07-20 04:30:00,EDward Gaming,FunPlus Phoenix,Haven,4,9,3,4,False,6
+334,2024-07-20 04:30:00,EDward Gaming,FunPlus Phoenix,Icebox,7,2,8,5,False,-4
+334,2024-07-20 04:30:00,EDward Gaming,FunPlus Phoenix,Bind,10,3,6,2,False,5
+335,2024-06-18 14:00:00,FUT Esports,KOI,Split,5,8,4,3,False,6
+335,2024-06-18 14:00:00,FUT Esports,KOI,Lotus,4,3,9,4,False,-6
+335,2024-06-18 14:00:00,FUT Esports,KOI,Sunset,10,3,4,2,False,7
+336,2024-06-19 12:00:00,BBL Esports,FNATIC,Ascent,6,3,7,6,False,-4
+336,2024-06-19 12:00:00,BBL Esports,FNATIC,Bind,5,8,4,7,False,2
+336,2024-06-19 12:00:00,BBL Esports,FNATIC,Lotus,3,8,4,9,False,-2
+337,2024-06-19 15:30:00,Team Heretics,Natus Vincere,Sunset,2,11,1,2,False,10
+337,2024-06-19 15:30:00,Team Heretics,Natus Vincere,Bind,9,4,2,3,False,8
+338,2024-06-20 12:00:00,GIANTX,Gentle Mates,Split,0,1,11,2,False,-12
+338,2024-06-20 12:00:00,GIANTX,Gentle Mates,Sunset,6,7,5,6,False,2
+338,2024-06-20 12:00:00,GIANTX,Gentle Mates,Breeze,5,8,4,7,False,2
+339,2024-06-20 15:10:00,Team Vitality,Team Liquid,Lotus,8,5,6,4,False,3
+339,2024-06-20 15:10:00,Team Vitality,Team Liquid,Icebox,10,2,10,2,True,2
+340,2024-06-21 12:00:00,BBL Esports,Karmine Corp,Lotus,0,6,6,7,False,-7
+340,2024-06-21 12:00:00,BBL Esports,Karmine Corp,Sunset,3,2,10,3,False,-8
+341,2024-06-21 13:50:00,Natus Vincere,FUT Esports,Ascent,7,4,8,5,False,-2
+341,2024-06-21 13:50:00,Natus Vincere,FUT Esports,Lotus,5,0,6,7,False,-8
+342,2024-06-25 14:00:00,KOI,GIANTX,Sunset,7,6,0,5,False,8
+342,2024-06-25 14:00:00,KOI,GIANTX,Icebox,8,4,8,4,True,2
+343,2024-06-26 12:00:00,Team Heretics,FUT Esports,Sunset,7,6,6,4,False,3
+343,2024-06-26 12:00:00,Team Heretics,FUT Esports,Split,4,9,3,3,False,7
+344,2024-06-26 14:15:00,FNATIC,Team Vitality,Haven,9,4,3,3,False,7
+344,2024-06-26 14:15:00,FNATIC,Team Vitality,Icebox,3,3,4,9,False,-7
+344,2024-06-26 14:15:00,FNATIC,Team Vitality,Lotus,8,5,3,4,False,6
+345,2024-06-27 12:00:00,BBL Esports,Team Liquid,Lotus,6,7,5,1,False,7
+345,2024-06-27 12:00:00,BBL Esports,Team Liquid,Ascent,7,6,0,5,False,8
+346,2024-06-27 14:00:00,Natus Vincere,GIANTX,Lotus,4,5,5,8,False,-4
+346,2024-06-27 14:00:00,Natus Vincere,GIANTX,Ascent,3,5,7,6,False,-5
+347,2024-06-28 12:00:00,KOI,Gentle Mates,Sunset,7,4,8,5,False,-2
+347,2024-06-28 12:00:00,KOI,Gentle Mates,Split,6,5,7,6,False,-2
+348,2024-06-28 14:30:00,FNATIC,Karmine Corp,Haven,4,9,3,0,False,10
+348,2024-06-28 14:30:00,FNATIC,Karmine Corp,Lotus,8,5,4,4,False,5
+349,2024-07-03 12:00:00,Team Heretics,GIANTX,Bind,7,6,6,3,False,4
+349,2024-07-03 12:00:00,Team Heretics,GIANTX,Split,8,4,8,4,True,-2
+349,2024-07-03 12:00:00,Team Heretics,GIANTX,Haven,9,4,8,1,False,4
+350,2024-07-03 15:25:00,FUT Esports,Gentle Mates,Sunset,8,5,4,4,False,5
+350,2024-07-03 15:25:00,FUT Esports,Gentle Mates,Split,3,10,2,2,False,9
+351,2024-07-04 12:00:00,KOI,Natus Vincere,Split,9,4,7,3,False,3
+351,2024-07-04 12:00:00,KOI,Natus Vincere,Icebox,7,6,1,5,False,7
+352,2024-07-04 14:05:00,Team Liquid,Karmine Corp,Bind,6,7,5,6,False,2
+352,2024-07-04 14:05:00,Team Liquid,Karmine Corp,Sunset,10,3,0,2,False,11
+353,2024-07-05 12:00:00,BBL Esports,Team Vitality,Ascent,5,2,6,7,False,-6
+353,2024-07-05 12:00:00,BBL Esports,Team Vitality,Sunset,3,10,2,4,False,7
+353,2024-07-05 12:00:00,BBL Esports,Team Vitality,Lotus,2,9,3,10,False,-2
+354,2024-07-05 15:00:00,Team Heretics,Gentle Mates,Sunset,8,5,3,4,False,6
+354,2024-07-05 15:00:00,Team Heretics,Gentle Mates,Icebox,2,8,4,9,False,-3
+354,2024-07-05 15:00:00,Team Heretics,Gentle Mates,Lotus,4,9,3,2,False,8
+355,2024-07-09 14:00:00,FUT Esports,GIANTX,Split,2,11,1,3,False,9
+355,2024-07-09 14:00:00,FUT Esports,GIANTX,Lotus,7,6,1,5,False,7
+356,2024-07-10 12:00:00,Team Heretics,KOI,Icebox,6,5,7,6,False,-2
+356,2024-07-10 12:00:00,Team Heretics,KOI,Bind,7,6,6,3,False,4
+356,2024-07-10 12:00:00,Team Heretics,KOI,Haven,8,5,7,3,False,3
+357,2024-07-10 15:20:00,FNATIC,Team Liquid,Icebox,3,10,2,0,False,11
+357,2024-07-10 15:20:00,FNATIC,Team Liquid,Haven,6,7,5,4,False,4
+358,2024-07-11 12:00:00,Natus Vincere,Gentle Mates,Sunset,8,5,7,0,False,6
+358,2024-07-11 12:00:00,Natus Vincere,Gentle Mates,Ascent,6,2,7,6,False,-5
+358,2024-07-11 12:00:00,Natus Vincere,Gentle Mates,Split,6,7,5,6,False,2
+359,2024-07-11 15:10:00,Team Vitality,Karmine Corp,Icebox,4,9,3,1,False,9
+359,2024-07-11 15:10:00,Team Vitality,Karmine Corp,Lotus,6,3,7,6,False,-4
+359,2024-07-11 15:10:00,Team Vitality,Karmine Corp,Sunset,5,7,5,7,True,2
+360,2024-07-15 12:00:00,Team Vitality,Natus Vincere,Haven,6,2,7,6,False,-5
+360,2024-07-15 12:00:00,Team Vitality,Natus Vincere,Sunset,10,3,3,2,False,8
+360,2024-07-15 12:00:00,Team Vitality,Natus Vincere,Ascent,5,8,0,7,False,6
+361,2024-07-15 14:50:00,FNATIC,Karmine Corp,Icebox,5,2,6,7,False,-6
+361,2024-07-15 14:50:00,FNATIC,Karmine Corp,Sunset,6,6,6,6,True,2
+361,2024-07-15 14:50:00,FNATIC,Karmine Corp,Lotus,8,5,2,4,False,7
+362,2024-07-16 12:00:00,Team Heretics,Team Vitality,Icebox,3,9,3,9,True,2
+362,2024-07-16 12:00:00,Team Heretics,Team Vitality,Sunset,5,5,6,7,False,-3
+362,2024-07-16 12:00:00,Team Heretics,Team Vitality,Bind,7,5,7,5,True,-2
+363,2024-07-16 15:45:00,FUT Esports,FNATIC,Sunset,7,5,7,5,True,-2
+363,2024-07-16 15:45:00,FUT Esports,FNATIC,Haven,1,4,8,5,False,-8
+364,2024-07-17 12:00:00,Team Vitality,FNATIC,Lotus,7,4,8,5,False,-2
+364,2024-07-17 12:00:00,Team Vitality,FNATIC,Sunset,3,3,4,9,False,-7
+365,2024-07-17 14:15:00,Team Heretics,FUT Esports,Abyss,6,7,4,6,False,3
+365,2024-07-17 14:15:00,Team Heretics,FUT Esports,Sunset,8,5,7,4,False,2
+366,2024-07-19 12:00:00,Team Vitality,Team Heretics,Icebox,3,3,4,9,False,-7
+366,2024-07-19 12:00:00,Team Vitality,Team Heretics,Sunset,5,8,4,0,False,9
+366,2024-07-19 12:00:00,Team Vitality,Team Heretics,Lotus,4,9,3,0,False,10
+366,2024-07-19 12:00:00,Team Vitality,Team Heretics,Haven,8,5,5,4,False,4
+367,2024-07-20 12:00:00,FNATIC,Team Vitality,Haven,4,9,3,5,False,5
+367,2024-07-20 12:00:00,FNATIC,Team Vitality,Ascent,5,4,8,5,False,-4
+367,2024-07-20 12:00:00,FNATIC,Team Vitality,Lotus,5,8,4,5,False,4
+367,2024-07-20 12:00:00,FNATIC,Team Vitality,Bind,3,10,2,1,False,10
+368,2024-06-22 17:00:00,MIBR,LEVIATÁN,Ascent,6,3,7,6,False,-4
+368,2024-06-22 17:00:00,MIBR,LEVIATÁN,Icebox,3,4,4,9,False,-6
+369,2024-06-22 19:15:00,Sentinels,NRG Esports,Lotus,8,5,4,4,False,5
+369,2024-06-22 19:15:00,Sentinels,NRG Esports,Sunset,9,3,9,3,True,2
+370,2024-06-23 17:00:00,FURIA,100 Thieves,Icebox,6,6,6,6,True,2
+370,2024-06-23 17:00:00,FURIA,100 Thieves,Haven,9,3,9,3,True,2
+371,2024-06-23 19:45:00,LOUD,Evil Geniuses,Lotus,7,6,6,1,False,6
+371,2024-06-23 19:45:00,LOUD,Evil Geniuses,Sunset,0,6,6,7,False,-7
+371,2024-06-23 19:45:00,LOUD,Evil Geniuses,Icebox,5,6,6,7,False,-2
+372,2024-06-24 17:00:00,G2 Esports,Cloud9,Ascent,4,9,3,8,False,2
+372,2024-06-24 17:00:00,G2 Esports,Cloud9,Icebox,3,2,10,3,False,-8
+372,2024-06-24 17:00:00,G2 Esports,Cloud9,Lotus,4,9,0,8,False,5
+373,2024-06-29 17:00:00,Evil Geniuses,FURIA,Bind,9,4,2,3,False,8
+373,2024-06-29 17:00:00,Evil Geniuses,FURIA,Lotus,3,10,2,2,False,9
+374,2024-06-29 19:00:00,Sentinels,KRÜ Esports,Lotus,8,5,7,4,False,2
+374,2024-06-29 19:00:00,Sentinels,KRÜ Esports,Split,8,5,6,4,False,3
+375,2024-06-30 17:00:00,LOUD,MIBR,Ascent,5,8,4,3,False,6
+375,2024-06-30 17:00:00,LOUD,MIBR,Lotus,6,5,7,6,False,-2
+375,2024-06-30 17:00:00,LOUD,MIBR,Sunset,7,6,6,3,False,4
+376,2024-06-30 20:20:00,LEVIATÁN,100 Thieves,Bind,5,8,4,6,False,3
+376,2024-06-30 20:20:00,LEVIATÁN,100 Thieves,Haven,3,10,2,2,False,9
+377,2024-07-01 17:00:00,NRG Esports,G2 Esports,Haven,3,4,8,5,False,-6
+377,2024-07-01 17:00:00,NRG Esports,G2 Esports,Bind,5,3,9,4,False,-5
+378,2024-07-01 19:25:00,Sentinels,Cloud9,Haven,7,6,0,5,False,8
+378,2024-07-01 19:25:00,Sentinels,Cloud9,Split,6,7,2,6,False,5
+379,2024-07-02 17:00:00,Evil Geniuses,LEVIATÁN,Icebox,5,0,6,7,False,-8
+379,2024-07-02 17:00:00,Evil Geniuses,LEVIATÁN,Sunset,6,4,7,6,False,-3
+380,2024-07-02 19:15:00,LOUD,FURIA,Haven,8,5,7,4,False,2
+380,2024-07-02 19:15:00,LOUD,FURIA,Icebox,5,5,6,7,False,-3
+380,2024-07-02 19:15:00,LOUD,FURIA,Bind,4,5,7,6,False,-4
+381,2024-07-03 17:00:00,MIBR,100 Thieves,Icebox,3,2,4,9,False,-8
+381,2024-07-03 17:00:00,MIBR,100 Thieves,Split,2,4,3,10,False,-7
+382,2024-07-03 19:05:00,NRG Esports,KRÜ Esports,Split,3,5,7,6,False,-5
+382,2024-07-03 19:05:00,NRG Esports,KRÜ Esports,Ascent,7,6,3,5,False,5
+382,2024-07-03 19:05:00,NRG Esports,KRÜ Esports,Sunset,9,4,4,3,False,6
+383,2024-07-06 17:00:00,G2 Esports,KRÜ Esports,Lotus,1,3,9,4,False,-9
+383,2024-07-06 17:00:00,G2 Esports,KRÜ Esports,Ascent,7,5,7,5,True,2
+383,2024-07-06 17:00:00,G2 Esports,KRÜ Esports,Split,9,4,2,3,False,8
+384,2024-07-06 20:35:00,LOUD,LEVIATÁN,Lotus,3,8,4,9,False,-2
+384,2024-07-06 20:35:00,LOUD,LEVIATÁN,Icebox,4,2,5,8,False,-7
+385,2024-07-07 17:00:00,MIBR,FURIA,Sunset,6,4,7,6,False,-3
+385,2024-07-07 17:00:00,MIBR,FURIA,Icebox,3,4,4,9,False,-6
+386,2024-07-07 19:15:00,NRG Esports,Cloud9,Ascent,9,4,0,3,False,10
+386,2024-07-07 19:15:00,NRG Esports,Cloud9,Icebox,7,3,8,5,False,-3
+386,2024-07-07 19:15:00,NRG Esports,Cloud9,Sunset,7,5,7,5,True,-2
+387,2024-07-08 17:00:00,Evil Geniuses,100 Thieves,Lotus,6,4,8,5,False,-3
+387,2024-07-08 17:00:00,Evil Geniuses,100 Thieves,Bind,8,5,6,4,False,3
+387,2024-07-08 17:00:00,Evil Geniuses,100 Thieves,Ascent,4,3,9,4,False,-6
+388,2024-07-12 20:00:00,Cloud9,KRÜ Esports,Icebox,2,5,7,6,False,-6
+388,2024-07-12 20:00:00,Cloud9,KRÜ Esports,Split,5,5,7,6,False,-3
+389,2024-07-13 17:00:00,Evil Geniuses,MIBR,Bind,4,5,7,6,False,-4
+389,2024-07-13 17:00:00,Evil Geniuses,MIBR,Lotus,0,2,10,3,False,-11
+390,2024-07-13 19:10:00,LEVIATÁN,FURIA,Sunset,8,5,2,4,False,7
+390,2024-07-13 19:10:00,LEVIATÁN,FURIA,Icebox,6,7,5,1,False,7
+391,2024-07-14 17:00:00,LOUD,100 Thieves,Ascent,1,0,2,11,False,-12
+391,2024-07-14 17:00:00,LOUD,100 Thieves,Bind,6,7,2,6,False,5
+391,2024-07-14 17:00:00,LOUD,100 Thieves,Lotus,6,7,5,5,False,3
+392,2024-07-14 20:00:00,Sentinels,G2 Esports,Bind,6,0,7,6,False,-7
+392,2024-07-14 20:00:00,Sentinels,G2 Esports,Lotus,4,5,5,8,False,-4
+393,2024-07-17 17:00:00,KRÜ Esports,Cloud9,Abyss,6,7,5,6,False,2
+393,2024-07-17 17:00:00,KRÜ Esports,Cloud9,Lotus,10,1,11,2,False,-2
+393,2024-07-17 17:00:00,KRÜ Esports,Cloud9,Haven,4,9,3,3,False,7
+394,2024-07-17 20:30:00,Sentinels,100 Thieves,Haven,4,3,9,4,False,-6
+394,2024-07-17 20:30:00,Sentinels,100 Thieves,Ascent,6,4,8,5,False,-3
+395,2024-07-18 17:00:00,LEVIATÁN,KRÜ Esports,Icebox,3,10,2,0,False,11
+395,2024-07-18 17:00:00,LEVIATÁN,KRÜ Esports,Sunset,3,10,2,2,False,9
+396,2024-07-18 18:55:00,G2 Esports,100 Thieves,Lotus,6,7,5,0,False,8
+396,2024-07-18 18:55:00,G2 Esports,100 Thieves,Abyss,6,7,5,5,False,3
+397,2024-07-19 17:00:00,LEVIATÁN,G2 Esports,Icebox,6,2,10,3,False,-5
+397,2024-07-19 17:00:00,LEVIATÁN,G2 Esports,Bind,2,4,8,5,False,-7
+398,2024-07-19 19:10:00,KRÜ Esports,100 Thieves,Icebox,3,6,6,7,False,-4
+398,2024-07-19 19:10:00,KRÜ Esports,100 Thieves,Lotus,7,6,6,5,False,2
+398,2024-07-19 19:10:00,KRÜ Esports,100 Thieves,Ascent,5,8,4,7,False,2
+399,2024-07-20 17:00:00,LEVIATÁN,KRÜ Esports,Icebox,11,2,2,1,False,10
+399,2024-07-20 17:00:00,LEVIATÁN,KRÜ Esports,Haven,4,7,5,8,False,-2
+399,2024-07-20 17:00:00,LEVIATÁN,KRÜ Esports,Sunset,4,3,9,4,False,-6
+399,2024-07-20 17:00:00,LEVIATÁN,KRÜ Esports,Abyss,5,8,4,6,False,3
+399,2024-07-20 17:00:00,LEVIATÁN,KRÜ Esports,Ascent,8,5,6,4,False,3
+400,2024-07-21 17:00:00,G2 Esports,LEVIATÁN,Lotus,6,6,6,6,True,-2
+400,2024-07-21 17:00:00,G2 Esports,LEVIATÁN,Haven,5,7,5,7,True,-2
+400,2024-07-21 17:00:00,G2 Esports,LEVIATÁN,Bind,4,9,1,8,False,4
+400,2024-07-21 17:00:00,G2 Esports,LEVIATÁN,Ascent,0,4,8,5,False,-9
+401,2024-08-01 04:00:00,Gen.G,Sentinels,Haven,6,7,5,3,False,5
+401,2024-08-01 04:00:00,Gen.G,Sentinels,Ascent,8,5,3,4,False,6
+402,2024-08-01 06:25:00,FunPlus Phoenix,Team Heretics,Abyss,8,4,8,4,True,-2
+402,2024-08-01 06:25:00,FunPlus Phoenix,Team Heretics,Bind,5,8,4,5,False,4
+402,2024-08-01 06:25:00,FunPlus Phoenix,Team Heretics,Lotus,6,6,6,6,True,-2
+403,2024-08-02 04:00:00,DRX,KRÜ Esports,Haven,2,0,3,10,False,-11
+403,2024-08-02 04:00:00,DRX,KRÜ Esports,Abyss,5,8,4,2,False,7
+403,2024-08-02 04:00:00,DRX,KRÜ Esports,Bind,4,9,3,3,False,7
+404,2024-08-02 07:00:00,FNATIC,Bilibili Gaming,Bind,6,7,5,4,False,4
+404,2024-08-02 07:00:00,FNATIC,Bilibili Gaming,Lotus,3,10,2,2,False,9
+405,2024-08-03 04:00:00,LEVIATÁN,Talon Esports,Bind,6,7,5,6,False,2
+405,2024-08-03 04:00:00,LEVIATÁN,Talon Esports,Ascent,5,8,4,4,False,5
+406,2024-08-03 06:30:00,Team Vitality,Trace Esports,Ascent,7,5,7,5,True,-2
+406,2024-08-03 06:30:00,Team Vitality,Trace Esports,Sunset,5,8,4,3,False,6
+406,2024-08-03 06:30:00,Team Vitality,Trace Esports,Bind,6,1,7,6,False,-6
+407,2024-08-04 04:00:00,G2 Esports,Paper Rex,Icebox,8,5,4,4,False,5
+407,2024-08-04 04:00:00,G2 Esports,Paper Rex,Lotus,4,9,3,6,False,4
+408,2024-08-04 06:15:00,EDward Gaming,FUT Esports,Lotus,8,5,5,4,False,4
+408,2024-08-04 06:15:00,EDward Gaming,FUT Esports,Bind,8,5,6,4,False,3
+409,2024-08-06 04:00:00,Gen.G,Team Heretics,Abyss,7,6,6,5,False,2
+409,2024-08-06 04:00:00,Gen.G,Team Heretics,Lotus,8,3,9,4,False,-2
+409,2024-08-06 04:00:00,Gen.G,Team Heretics,Bind,6,4,8,5,False,-3
+410,2024-08-06 07:35:00,FNATIC,DRX,Abyss,5,6,6,7,False,-2
+410,2024-08-06 07:35:00,FNATIC,DRX,Lotus,1,5,7,6,False,-7
+411,2024-08-07 04:00:00,LEVIATÁN,Trace Esports,Bind,5,5,7,6,False,-3
+411,2024-08-07 04:00:00,LEVIATÁN,Trace Esports,Sunset,6,7,5,4,False,4
+411,2024-08-07 04:00:00,LEVIATÁN,Trace Esports,Ascent,2,3,3,10,False,-8
+412,2024-08-07 07:15:00,EDward Gaming,G2 Esports,Icebox,9,4,5,3,False,5
+412,2024-08-07 07:15:00,EDward Gaming,G2 Esports,Haven,5,6,6,7,False,-2
+412,2024-08-07 07:15:00,EDward Gaming,G2 Esports,Bind,8,3,9,4,False,-2
+413,2024-08-08 04:00:00,Sentinels,FunPlus Phoenix,Bind,4,9,0,8,False,5
+413,2024-08-08 04:00:00,Sentinels,FunPlus Phoenix,Lotus,4,9,3,2,False,8
+414,2024-08-08 06:10:00,Bilibili Gaming,KRÜ Esports,Lotus,7,2,8,5,False,-4
+414,2024-08-08 06:10:00,Bilibili Gaming,KRÜ Esports,Icebox,3,1,4,9,False,-9
+415,2024-08-09 04:00:00,Talon Esports,Team Vitality,Lotus,4,2,10,3,False,-7
+415,2024-08-09 04:00:00,Talon Esports,Team Vitality,Sunset,2,6,6,7,False,-5
+416,2024-08-09 06:25:00,FUT Esports,Paper Rex,Sunset,6,5,7,6,False,-2
+416,2024-08-09 06:25:00,FUT Esports,Paper Rex,Bind,3,3,4,9,False,-7
+417,2024-08-10 04:00:00,Gen.G,Sentinels,Lotus,4,5,7,6,False,-4
+417,2024-08-10 04:00:00,Gen.G,Sentinels,Icebox,5,1,6,7,False,-7
+418,2024-08-10 06:15:00,FNATIC,KRÜ Esports,Sunset,7,4,8,5,False,-2
+418,2024-08-10 06:15:00,FNATIC,KRÜ Esports,Haven,7,6,6,3,False,4
+418,2024-08-10 06:15:00,FNATIC,KRÜ Esports,Lotus,5,8,4,1,False,8
+419,2024-08-11 04:00:00,LEVIATÁN,Team Vitality,Icebox,5,7,5,7,True,2
+419,2024-08-11 04:00:00,LEVIATÁN,Team Vitality,Sunset,3,10,2,2,False,9
+420,2024-08-11 06:15:00,EDward Gaming,Paper Rex,Icebox,0,3,9,4,False,-10
+420,2024-08-11 06:15:00,EDward Gaming,Paper Rex,Sunset,6,7,2,6,False,5
+420,2024-08-11 06:15:00,EDward Gaming,Paper Rex,Lotus,9,4,1,3,False,9
+421,2024-08-14 04:00:00,DRX,Sentinels,Sunset,6,6,6,6,True,-2
+421,2024-08-14 04:00:00,DRX,Sentinels,Haven,2,6,6,7,False,-5
+422,2024-08-14 06:25:00,Trace Esports,EDward Gaming,Bind,5,2,10,3,False,-6
+422,2024-08-14 06:25:00,Trace Esports,EDward Gaming,Sunset,2,8,3,10,False,-3
+423,2024-08-15 04:00:00,G2 Esports,LEVIATÁN,Icebox,8,4,8,4,True,-2
+423,2024-08-15 04:00:00,G2 Esports,LEVIATÁN,Abyss,4,1,5,8,False,-8
+424,2024-08-15 06:35:00,Team Heretics,FNATIC,Lotus,4,9,3,0,False,10
+424,2024-08-15 06:35:00,Team Heretics,FNATIC,Abyss,9,3,9,3,True,2
+425,2024-08-16 04:00:00,DRX,Trace Esports,Lotus,10,3,1,2,False,10
+425,2024-08-16 04:00:00,DRX,Trace Esports,Abyss,4,9,3,2,False,8
+426,2024-08-16 05:50:00,G2 Esports,FNATIC,Haven,3,0,4,9,False,-10
+426,2024-08-16 05:50:00,G2 Esports,FNATIC,Bind,7,4,8,5,False,-2
+427,2024-08-17 04:00:00,Sentinels,EDward Gaming,Haven,8,5,5,4,False,4
+427,2024-08-17 04:00:00,Sentinels,EDward Gaming,Lotus,3,6,6,7,False,-4
+427,2024-08-17 04:00:00,Sentinels,EDward Gaming,Sunset,4,2,10,3,False,-7
+428,2024-08-17 07:15:00,LEVIATÁN,Team Heretics,Icebox,7,5,7,5,True,2
+428,2024-08-17 07:15:00,LEVIATÁN,Team Heretics,Lotus,9,4,8,2,False,3
+429,2024-08-18 04:00:00,Sentinels,FNATIC,Sunset,9,4,8,3,False,2
+429,2024-08-18 04:00:00,Sentinels,FNATIC,Bind,7,2,8,5,False,-4
+429,2024-08-18 04:00:00,Sentinels,FNATIC,Lotus,8,5,2,4,False,7
+430,2024-08-18 07:25:00,Team Heretics,DRX,Abyss,0,5,7,6,False,-8
+430,2024-08-18 07:25:00,Team Heretics,DRX,Sunset,6,7,5,0,False,8
+430,2024-08-18 07:25:00,Team Heretics,DRX,Icebox,8,5,7,3,False,3
+431,2024-08-23 03:00:00,EDward Gaming,LEVIATÁN,Icebox,3,9,3,9,True,-2
+431,2024-08-23 03:00:00,EDward Gaming,LEVIATÁN,Lotus,8,5,0,4,False,9
+431,2024-08-23 03:00:00,EDward Gaming,LEVIATÁN,Abyss,6,7,5,6,False,2
+432,2024-08-23 06:45:00,Team Heretics,Sentinels,Haven,5,3,6,7,False,-5
+432,2024-08-23 06:45:00,Team Heretics,Sentinels,Icebox,5,8,2,7,False,4
+432,2024-08-23 06:45:00,Team Heretics,Sentinels,Abyss,5,8,4,3,False,6
+433,2024-08-24 03:00:00,LEVIATÁN,Team Heretics,Icebox,5,2,6,7,False,-6
+433,2024-08-24 03:00:00,LEVIATÁN,Team Heretics,Sunset,8,4,8,4,True,-2
+433,2024-08-24 03:00:00,LEVIATÁN,Team Heretics,Abyss,5,8,2,7,False,4
+433,2024-08-24 03:00:00,LEVIATÁN,Team Heretics,Lotus,2,1,11,2,False,-10
+434,2024-08-25 03:00:00,EDward Gaming,Team Heretics,Haven,3,3,4,9,False,-7
+434,2024-08-25 03:00:00,EDward Gaming,Team Heretics,Sunset,11,2,3,1,False,9
+434,2024-08-25 03:00:00,EDward Gaming,Team Heretics,Lotus,7,6,6,3,False,4
+434,2024-08-25 03:00:00,EDward Gaming,Team Heretics,Bind,6,5,7,6,False,-2
+434,2024-08-25 03:00:00,EDward Gaming,Team Heretics,Abyss,8,5,5,4,False,4

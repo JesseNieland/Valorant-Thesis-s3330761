@@ -1,0 +1,1899 @@
+Match ID,Team 1 Score,Team 2 Score,Team 1 Attack Rounds,Team 1 Defense Rounds,Team 1 Overtime Rounds,Team 2 Attack Rounds,Team 2 Defense Rounds,Team 2 Overtime Rounds,Team 1 Halftime Score,Team 2 Halftime Score,Halftime Lead,Side Picker,Side Picked,Team 1,Team 2
+1,11,13,9,2,0,10,3,0,9,3,6,KOI,Attack,KOI,NRG Esports
+1,9,13,5,4,0,8,5,0,4,8,-4,NRG Esports,Attack,KOI,NRG Esports
+2,4,13,4,0,0,5,8,0,4,8,-4,GIANTX,Defense,DetonatioN FocusMe,GIANTX
+2,7,13,3,4,0,8,5,0,4,8,-4,DetonatioN FocusMe,Defense,DetonatioN FocusMe,GIANTX
+3,6,13,4,2,0,5,8,0,4,8,-4,Karmine Corp,Defense,FunPlus Phoenix,Karmine Corp
+3,13,8,7,6,0,6,2,0,6,6,0,FunPlus Phoenix,Defense,FunPlus Phoenix,Karmine Corp
+3,6,13,1,5,0,7,6,0,5,7,-2,FunPlus Phoenix,Defense,FunPlus Phoenix,Karmine Corp
+4,3,13,0,3,0,9,4,0,3,9,-6,BBL Esports,Defense,BBL Esports,DRX
+4,13,11,4,9,0,3,8,0,4,8,-4,DRX,Defense,BBL Esports,DRX
+4,7,13,6,1,0,11,2,0,1,11,-10,DRX,Attack,BBL Esports,DRX
+5,13,8,6,7,0,5,3,0,7,5,2,Cloud9,Defense,Cloud9,Paper Rex
+5,13,4,10,3,0,2,2,0,10,2,8,Paper Rex,Defense,Cloud9,Paper Rex
+6,8,13,2,6,0,6,7,0,6,6,0,Team Heretics,Defense,Team Heretics,Evil Geniuses
+6,8,13,5,3,0,6,7,0,5,7,-2,Evil Geniuses,Defense,Team Heretics,Evil Geniuses
+7,8,13,4,4,0,5,8,0,4,8,-4,TALON,Defense,MIBR,TALON
+7,11,13,5,6,0,6,7,0,5,7,-2,MIBR,Attack,MIBR,TALON
+8,9,13,7,2,0,8,5,0,7,5,2,Gen.G,Attack,Gen.G,LOUD
+8,12,14,8,4,0,8,4,2,4,8,-4,LOUD,Attack,Gen.G,LOUD
+9,12,14,8,4,0,8,4,2,4,8,-4,GIANTX,Attack,NRG Esports,GIANTX
+9,13,1,11,2,0,0,1,0,11,1,10,NRG Esports,Attack,NRG Esports,GIANTX
+9,13,7,4,9,0,3,4,0,9,3,6,NRG Esports,Defense,NRG Esports,GIANTX
+10,13,10,8,5,0,6,4,0,8,4,4,Karmine Corp,Defense,LOUD,Karmine Corp
+10,13,8,8,5,0,4,4,0,8,4,4,LOUD,Attack,LOUD,Karmine Corp
+11,3,13,3,0,0,4,9,0,3,9,-6,DRX,Attack,DRX,Cloud9
+11,13,7,9,4,0,4,3,0,9,3,6,Cloud9,Defense,DRX,Cloud9
+11,13,2,11,2,0,1,1,0,11,1,10,Cloud9,Defense,DRX,Cloud9
+12,11,13,2,9,0,3,10,0,9,3,6,TALON,Attack,Evil Geniuses,TALON
+12,10,13,2,8,0,4,9,0,8,4,4,Evil Geniuses,Defense,Evil Geniuses,TALON
+13,3,13,0,3,0,9,4,0,3,9,-6,LOUD,Attack,NRG Esports,LOUD
+13,15,13,7,5,3,7,5,1,7,5,2,NRG Esports,Attack,NRG Esports,LOUD
+13,16,18,7,5,4,7,5,6,5,7,-2,NRG Esports,Defense,NRG Esports,LOUD
+14,10,13,4,6,0,5,8,0,4,8,-4,DRX,Attack,DRX,TALON
+14,13,6,6,7,0,0,6,0,6,6,0,TALON,Defense,DRX,TALON
+14,13,10,7,6,0,5,5,0,7,5,2,TALON,Defense,DRX,TALON
+15,8,13,2,6,0,3,10,0,2,10,-8,Team Liquid,Attack,Team Liquid,Team Secret
+15,7,13,3,4,0,4,9,0,3,9,-6,Team Secret,Defense,Team Liquid,Team Secret
+16,13,5,9,4,0,2,3,0,9,3,6,Natus Vincere,Attack,Natus Vincere,KRÜ Esports
+16,13,10,10,3,0,9,1,0,3,9,-6,KRÜ Esports,Attack,Natus Vincere,KRÜ Esports
+17,4,13,2,2,0,10,3,0,2,10,-8,ZETA DIVISION,Defense,ZETA DIVISION,LEVIATÁN
+17,11,13,6,5,0,7,6,0,6,6,0,LEVIATÁN,Defense,ZETA DIVISION,LEVIATÁN
+18,13,4,9,4,0,1,3,0,9,3,6,Team Vitality,Attack,Team Vitality,Global Esports
+18,9,13,2,7,0,5,8,0,7,5,2,Global Esports,Attack,Team Vitality,Global Esports
+18,13,6,8,5,0,2,4,0,8,4,4,Global Esports,Defense,Team Vitality,Global Esports
+19,13,3,3,10,0,2,1,0,10,2,8,FUT Esports,Defense,FUT Esports,Rex Regum Qeon
+19,13,11,8,5,0,7,4,0,5,7,-2,Rex Regum Qeon,Attack,FUT Esports,Rex Regum Qeon
+20,13,10,5,8,0,4,6,0,8,4,4,EDward Gaming,Attack,100 Thieves,EDward Gaming
+20,9,13,7,2,0,8,5,0,7,5,2,100 Thieves,Attack,100 Thieves,EDward Gaming
+20,14,12,5,7,2,5,7,0,5,7,-2,100 Thieves,Attack,100 Thieves,EDward Gaming
+21,6,13,3,3,0,4,9,0,3,9,-6,Sentinels,Attack,Sentinels,FNATIC
+21,7,13,6,1,0,7,6,0,6,6,0,FNATIC,Defense,Sentinels,FNATIC
+22,7,13,1,6,0,6,7,0,6,6,0,FURIA,Attack,T1,FURIA
+22,5,13,5,0,0,6,7,0,5,7,-2,T1,Attack,T1,FURIA
+23,8,13,6,2,0,7,6,0,6,6,0,Natus Vincere,Defense,Team Secret,Natus Vincere
+23,4,13,3,1,0,4,9,0,3,9,-6,Team Secret,Attack,Team Secret,Natus Vincere
+24,16,14,7,5,4,7,5,2,5,7,-2,Team Vitality,Attack,LEVIATÁN,Team Vitality
+24,13,3,3,10,0,2,1,0,10,2,8,LEVIATÁN,Defense,LEVIATÁN,Team Vitality
+25,13,9,8,5,0,7,2,0,5,7,-2,100 Thieves,Attack,FUT Esports,100 Thieves
+25,11,13,6,5,0,7,6,0,5,7,-2,FUT Esports,Defense,FUT Esports,100 Thieves
+25,8,13,4,4,0,5,8,0,4,8,-4,FUT Esports,Attack,FUT Esports,100 Thieves
+26,18,16,8,4,6,8,4,4,8,4,4,FURIA,Defense,FNATIC,FURIA
+26,13,9,5,8,0,4,5,0,8,4,4,FNATIC,Defense,FNATIC,FURIA
+27,13,10,7,6,0,6,4,0,6,6,0,Natus Vincere,Defense,Natus Vincere,LEVIATÁN
+27,13,2,11,2,0,1,1,0,11,1,10,LEVIATÁN,Defense,Natus Vincere,LEVIATÁN
+28,1,13,0,1,0,11,2,0,1,11,-10,FNATIC,Attack,100 Thieves,FNATIC
+28,10,13,2,8,0,3,10,0,2,10,-8,100 Thieves,Attack,100 Thieves,FNATIC
+29,13,5,4,9,0,3,2,0,9,3,6,DRX,Attack,LOUD,DRX
+29,13,8,9,4,0,5,3,0,9,3,6,LOUD,Attack,LOUD,DRX
+29,7,13,3,4,0,4,9,0,3,9,-6,DRX,Defense,LOUD,DRX
+29,7,13,6,1,0,7,6,0,6,6,0,LOUD,Attack,LOUD,DRX
+29,13,8,7,6,0,3,5,0,7,5,2,DRX,Defense,LOUD,DRX
+30,11,13,5,6,0,6,7,0,5,7,-2,Natus Vincere,Attack,Natus Vincere,FNATIC
+30,4,13,2,2,0,10,3,0,2,10,-8,FNATIC,Attack,Natus Vincere,FNATIC
+30,11,13,5,6,0,6,7,0,6,6,0,Natus Vincere,Defense,Natus Vincere,FNATIC
+31,8,13,4,4,0,5,8,0,4,8,-4,FNATIC,Defense,LOUD,FNATIC
+31,7,13,1,6,0,6,7,0,6,6,0,LOUD,Defense,LOUD,FNATIC
+31,13,9,7,6,0,4,5,0,7,5,2,FNATIC,Defense,LOUD,FNATIC
+31,13,8,7,6,0,3,5,0,7,5,2,LOUD,Attack,LOUD,FNATIC
+31,12,14,9,3,0,9,3,2,9,3,6,FNATIC,Defense,LOUD,FNATIC
+32,5,13,1,4,0,8,5,0,4,8,-4,ZETA DIVISION,Defense,ZETA DIVISION,DRX
+32,5,13,4,1,0,11,2,0,1,11,-10,DRX,Attack,ZETA DIVISION,DRX
+33,13,8,4,9,0,3,5,0,9,3,6,T1,Defense,T1,Global Esports
+33,4,13,2,2,0,10,3,0,2,10,-8,Global Esports,Attack,T1,Global Esports
+33,13,7,5,8,0,4,3,0,8,4,4,Global Esports,Attack,T1,Global Esports
+34,13,5,4,9,0,3,2,0,9,3,6,DetonatioN FocusMe,Attack,Paper Rex,DetonatioN FocusMe
+34,13,11,7,6,0,6,5,0,7,5,2,Paper Rex,Attack,Paper Rex,DetonatioN FocusMe
+35,13,5,5,8,0,4,1,0,8,4,4,Team Secret,Defense,Team Secret,TALON
+35,8,13,3,5,0,4,9,0,3,9,-6,TALON,Defense,Team Secret,TALON
+35,13,3,10,3,0,1,2,0,10,2,8,TALON,Defense,Team Secret,TALON
+36,9,13,5,4,0,8,5,0,4,8,-4,Rex Regum Qeon,Defense,Rex Regum Qeon,Gen.G
+36,6,13,2,4,0,8,5,0,4,8,-4,Gen.G,Attack,Rex Regum Qeon,Gen.G
+37,10,13,3,7,0,4,9,0,3,9,-6,Rex Regum Qeon,Defense,ZETA DIVISION,Rex Regum Qeon
+37,13,10,6,7,0,4,6,0,6,6,0,ZETA DIVISION,Attack,ZETA DIVISION,Rex Regum Qeon
+37,13,5,7,6,0,0,5,0,7,5,2,ZETA DIVISION,Attack,ZETA DIVISION,Rex Regum Qeon
+38,8,13,4,4,0,8,5,0,4,8,-4,TALON,Defense,TALON,T1
+38,6,13,3,3,0,9,4,0,3,9,-6,T1,Attack,TALON,T1
+39,11,13,5,6,0,6,7,0,6,6,0,Paper Rex,Attack,Team Secret,Paper Rex
+39,13,11,5,8,0,4,7,0,8,4,4,Team Secret,Defense,Team Secret,Paper Rex
+39,13,10,8,5,0,7,3,0,5,7,-2,Team Secret,Defense,Team Secret,Paper Rex
+40,13,8,5,8,0,1,7,0,5,7,-2,Gen.G,Attack,Gen.G,DetonatioN FocusMe
+40,4,13,0,4,0,8,5,0,4,8,-4,DetonatioN FocusMe,Attack,Gen.G,DetonatioN FocusMe
+40,13,8,8,5,0,7,1,0,5,7,-2,DetonatioN FocusMe,Attack,Gen.G,DetonatioN FocusMe
+41,11,13,5,6,0,6,7,0,5,7,-2,Global Esports,Attack,Global Esports,DRX
+41,15,17,6,6,3,6,6,5,6,6,0,DRX,Defense,Global Esports,DRX
+42,13,4,3,10,0,2,2,0,10,2,8,DetonatioN FocusMe,Attack,Rex Regum Qeon,DetonatioN FocusMe
+42,13,7,4,9,0,3,4,0,9,3,6,Rex Regum Qeon,Defense,Rex Regum Qeon,DetonatioN FocusMe
+43,3,13,2,1,0,11,2,0,1,11,-10,Paper Rex,Attack,T1,Paper Rex
+43,6,13,1,5,0,7,6,0,5,7,-2,T1,Defense,T1,Paper Rex
+44,9,13,3,6,0,4,9,0,3,9,-6,ZETA DIVISION,Attack,ZETA DIVISION,Global Esports
+44,14,12,5,7,2,5,7,0,5,7,-2,Global Esports,Defense,ZETA DIVISION,Global Esports
+44,13,8,5,8,0,4,4,0,8,4,4,Global Esports,Attack,ZETA DIVISION,Global Esports
+45,3,13,1,2,0,2,11,0,1,11,-10,DRX,Defense,TALON,DRX
+45,10,13,5,5,0,6,7,0,5,7,-2,TALON,Attack,TALON,DRX
+46,8,13,3,5,0,7,6,0,5,7,-2,Team Secret,Defense,Team Secret,Gen.G
+46,11,13,5,6,0,6,7,0,6,6,0,Gen.G,Attack,Team Secret,Gen.G
+47,5,13,2,3,0,9,4,0,3,9,-6,Paper Rex,Defense,Paper Rex,DRX
+47,10,13,5,5,0,6,7,0,5,7,-2,DRX,Defense,Paper Rex,DRX
+48,10,13,5,5,0,6,7,0,5,7,-2,Rex Regum Qeon,Defense,Team Secret,Rex Regum Qeon
+48,7,13,5,2,0,10,3,0,2,10,-8,Team Secret,Defense,Team Secret,Rex Regum Qeon
+49,5,13,3,2,0,4,9,0,3,9,-6,Gen.G,Defense,T1,Gen.G
+49,5,13,0,5,0,7,6,0,5,7,-2,T1,Defense,T1,Gen.G
+50,13,9,10,3,0,7,2,0,10,2,8,DetonatioN FocusMe,Defense,ZETA DIVISION,DetonatioN FocusMe
+50,13,5,9,4,0,2,3,0,9,3,6,ZETA DIVISION,Attack,ZETA DIVISION,DetonatioN FocusMe
+51,6,13,3,3,0,4,9,0,3,9,-6,TALON,Attack,TALON,Global Esports
+51,11,13,6,5,0,7,6,0,6,6,0,Global Esports,Defense,TALON,Global Esports
+52,7,13,6,1,0,7,6,0,6,6,0,Global Esports,Defense,Paper Rex,Global Esports
+52,13,6,9,4,0,3,3,0,9,3,6,Paper Rex,Attack,Paper Rex,Global Esports
+52,13,7,8,5,0,3,4,0,8,4,4,Paper Rex,Attack,Paper Rex,Global Esports
+53,7,13,6,1,0,11,2,0,1,11,-10,DRX,Attack,Gen.G,DRX
+53,13,10,6,7,0,4,6,0,6,6,0,Gen.G,Attack,Gen.G,DRX
+53,4,13,3,1,0,4,9,0,3,9,-6,Gen.G,Attack,Gen.G,DRX
+54,13,9,7,6,0,4,5,0,7,5,2,T1,Attack,T1,Rex Regum Qeon
+54,13,4,9,4,0,1,3,0,9,3,6,Rex Regum Qeon,Defense,T1,Rex Regum Qeon
+55,13,11,6,7,0,5,6,0,6,6,0,Team Secret,Attack,Team Secret,DetonatioN FocusMe
+55,13,8,4,9,0,3,5,0,9,3,6,DetonatioN FocusMe,Attack,Team Secret,DetonatioN FocusMe
+56,8,13,4,4,0,5,8,0,4,8,-4,ZETA DIVISION,Attack,ZETA DIVISION,TALON
+56,14,16,6,6,2,6,6,4,6,6,0,TALON,Attack,ZETA DIVISION,TALON
+57,13,9,6,7,0,5,4,0,7,5,2,DetonatioN FocusMe,Attack,T1,DetonatioN FocusMe
+57,9,13,4,5,0,7,6,0,5,7,-2,T1,Defense,T1,DetonatioN FocusMe
+57,13,10,6,7,0,4,6,0,6,6,0,T1,Attack,T1,DetonatioN FocusMe
+58,13,9,8,5,0,5,4,0,8,4,4,Team Secret,Defense,ZETA DIVISION,Team Secret
+58,10,13,6,4,0,7,6,0,6,6,0,ZETA DIVISION,Attack,ZETA DIVISION,Team Secret
+58,13,9,7,6,0,4,5,0,7,5,2,ZETA DIVISION,Attack,ZETA DIVISION,Team Secret
+59,13,8,8,5,0,7,1,0,5,7,-2,Gen.G,Attack,Global Esports,Gen.G
+59,13,8,7,6,0,3,5,0,7,5,2,Global Esports,Attack,Global Esports,Gen.G
+60,13,8,6,7,0,2,6,0,6,6,0,Rex Regum Qeon,Attack,Rex Regum Qeon,DRX
+60,10,13,6,4,0,7,6,0,6,6,0,DRX,Defense,Rex Regum Qeon,DRX
+60,2,13,0,2,0,10,3,0,2,10,-8,DRX,Attack,Rex Regum Qeon,DRX
+61,13,11,9,4,0,8,3,0,4,8,-4,Paper Rex,Attack,TALON,Paper Rex
+61,4,13,3,1,0,4,9,0,3,9,-6,TALON,Attack,TALON,Paper Rex
+61,10,13,6,4,0,7,6,0,6,6,0,TALON,Attack,TALON,Paper Rex
+62,13,8,7,6,0,3,5,0,7,5,2,TALON,Attack,TALON,Gen.G
+62,13,7,6,7,0,5,2,0,7,5,2,Gen.G,Attack,TALON,Gen.G
+63,6,13,1,5,0,7,6,0,5,7,-2,ZETA DIVISION,Defense,ZETA DIVISION,Paper Rex
+63,10,13,6,4,0,8,5,0,4,8,-4,Paper Rex,Attack,ZETA DIVISION,Paper Rex
+64,13,10,7,6,0,6,4,0,6,6,0,Global Esports,Attack,Rex Regum Qeon,Global Esports
+64,13,11,8,5,0,7,4,0,8,4,4,Rex Regum Qeon,Attack,Rex Regum Qeon,Global Esports
+65,4,13,2,2,0,3,10,0,2,10,-8,T1,Defense,Team Secret,T1
+65,8,13,3,5,0,7,6,0,5,7,-2,Team Secret,Defense,Team Secret,T1
+66,13,8,5,8,0,1,7,0,5,7,-2,DRX,Attack,DRX,DetonatioN FocusMe
+66,13,4,9,4,0,1,3,0,9,3,6,DetonatioN FocusMe,Defense,DRX,DetonatioN FocusMe
+67,13,7,9,4,0,4,3,0,9,3,6,Gen.G,Defense,Paper Rex,Gen.G
+67,13,2,10,3,0,0,2,0,10,2,8,Paper Rex,Attack,Paper Rex,Gen.G
+68,11,13,6,5,0,7,6,0,6,6,0,T1,Defense,ZETA DIVISION,T1
+68,13,10,3,10,0,1,9,0,3,9,-6,ZETA DIVISION,Attack,ZETA DIVISION,T1
+68,3,13,3,0,0,4,9,0,3,9,-6,ZETA DIVISION,Attack,ZETA DIVISION,T1
+69,13,8,5,8,0,4,4,0,8,4,4,DRX,Attack,Team Secret,DRX
+69,13,11,10,3,0,9,2,0,3,9,-6,Team Secret,Defense,Team Secret,DRX
+70,13,7,8,5,0,3,4,0,8,4,4,Global Esports,Attack,Global Esports,DetonatioN FocusMe
+70,13,6,11,2,0,5,1,0,11,1,10,DetonatioN FocusMe,Defense,Global Esports,DetonatioN FocusMe
+71,13,3,9,4,0,0,3,0,9,3,6,TALON,Attack,TALON,Rex Regum Qeon
+71,4,13,1,3,0,9,4,0,3,9,-6,Rex Regum Qeon,Attack,TALON,Rex Regum Qeon
+71,7,13,4,3,0,5,8,0,4,8,-4,Rex Regum Qeon,Defense,TALON,Rex Regum Qeon
+72,13,8,8,5,0,4,4,0,8,4,4,ZETA DIVISION,Attack,ZETA DIVISION,Gen.G
+72,4,13,1,3,0,9,4,0,3,9,-6,Gen.G,Attack,ZETA DIVISION,Gen.G
+72,13,4,5,8,0,4,0,0,8,4,4,Gen.G,Attack,ZETA DIVISION,Gen.G
+73,10,13,7,3,0,9,4,0,3,9,-6,DRX,Attack,T1,DRX
+73,9,13,3,6,0,4,9,0,3,9,-6,T1,Attack,T1,DRX
+74,13,9,7,6,0,6,3,0,6,6,0,Global Esports,Attack,Team Secret,Global Esports
+74,13,10,7,6,0,5,5,0,7,5,2,Team Secret,Attack,Team Secret,Global Esports
+75,13,11,7,6,0,6,5,0,6,6,0,DetonatioN FocusMe,Attack,TALON,DetonatioN FocusMe
+75,13,4,10,3,0,2,2,0,10,2,8,TALON,Attack,TALON,DetonatioN FocusMe
+76,9,13,4,5,0,7,6,0,5,7,-2,Paper Rex,Attack,Rex Regum Qeon,Paper Rex
+76,11,13,4,7,0,5,8,0,4,8,-4,Rex Regum Qeon,Attack,Rex Regum Qeon,Paper Rex
+77,13,15,3,9,1,3,9,3,3,9,-6,ZETA DIVISION,Attack,ZETA DIVISION,Team Secret
+77,12,14,5,7,0,5,7,2,5,7,-2,Team Secret,Defense,ZETA DIVISION,Team Secret
+78,13,8,6,7,0,5,3,0,7,5,2,Gen.G,Attack,T1,Gen.G
+78,11,13,3,8,0,4,9,0,8,4,4,T1,Defense,T1,Gen.G
+78,13,7,7,6,0,6,1,0,6,6,0,T1,Defense,T1,Gen.G
+79,9,13,5,4,0,8,5,0,4,8,-4,DRX,Defense,DRX,Team Secret
+79,13,5,10,3,0,3,2,0,10,2,8,Team Secret,Defense,DRX,Team Secret
+79,13,4,3,10,0,2,2,0,10,2,8,Team Secret,Attack,DRX,Team Secret
+80,13,10,6,7,0,4,6,0,6,6,0,Paper Rex,Attack,Paper Rex,T1
+80,13,10,5,8,0,4,6,0,8,4,4,T1,Attack,Paper Rex,T1
+81,13,8,7,6,0,6,2,0,6,6,0,Team Secret,Defense,Team Secret,Gen.G
+81,8,13,6,2,0,10,3,0,2,10,-8,Gen.G,Attack,Team Secret,Gen.G
+81,12,14,5,7,0,5,7,2,7,5,2,Gen.G,Attack,Team Secret,Gen.G
+82,13,10,5,8,0,4,6,0,8,4,4,T1,Defense,T1,ZETA DIVISION
+82,12,14,7,5,0,7,5,2,5,7,-2,ZETA DIVISION,Attack,T1,ZETA DIVISION
+82,13,10,8,5,0,7,3,0,5,7,-2,ZETA DIVISION,Attack,T1,ZETA DIVISION
+83,5,13,5,0,0,6,7,0,5,7,-2,DRX,Attack,DRX,Paper Rex
+83,6,13,2,4,0,8,5,0,4,8,-4,Paper Rex,Attack,DRX,Paper Rex
+84,13,10,8,5,0,7,3,0,5,7,-2,Gen.G,Attack,T1,Gen.G
+84,13,10,6,7,0,5,5,0,7,5,2,T1,Defense,T1,Gen.G
+85,11,13,9,2,0,10,3,0,9,3,6,T1,Defense,DRX,T1
+85,13,11,4,9,0,3,8,0,4,8,-4,DRX,Attack,DRX,T1
+85,13,11,9,4,0,8,3,0,9,3,6,T1,Defense,DRX,T1
+85,6,13,4,2,0,5,8,0,4,8,-4,DRX,Attack,DRX,T1
+85,13,9,8,5,0,5,4,0,8,4,4,T1,Defense,DRX,T1
+86,6,13,3,3,0,9,4,0,3,9,-6,DRX,Attack,Paper Rex,DRX
+86,14,16,6,6,2,6,6,4,6,6,0,Paper Rex,Attack,Paper Rex,DRX
+86,13,3,4,9,0,3,0,0,9,3,6,DRX,Attack,Paper Rex,DRX
+86,13,8,8,5,0,4,4,0,8,4,4,Paper Rex,Attack,Paper Rex,DRX
+86,13,6,4,9,0,3,3,0,9,3,6,DRX,Attack,Paper Rex,DRX
+87,13,7,5,8,0,4,3,0,8,4,4,KOI,Defense,KOI,Natus Vincere
+87,20,18,3,9,8,3,9,6,3,9,-6,Natus Vincere,Defense,KOI,Natus Vincere
+88,13,3,3,10,0,2,1,0,10,2,8,GIANTX,Attack,FNATIC,GIANTX
+88,13,11,7,6,0,6,5,0,6,6,0,FNATIC,Defense,FNATIC,GIANTX
+89,4,13,2,2,0,3,10,0,2,10,-8,FUT Esports,Defense,Team Heretics,FUT Esports
+89,9,13,8,1,0,9,4,0,8,4,4,Team Heretics,Attack,Team Heretics,FUT Esports
+90,6,13,3,3,0,9,4,0,3,9,-6,Team Liquid,Defense,Team Liquid,Team Vitality
+90,13,2,3,10,0,2,0,0,10,2,8,Team Vitality,Attack,Team Liquid,Team Vitality
+90,10,13,3,7,0,5,8,0,7,5,2,Team Vitality,Attack,Team Liquid,Team Vitality
+91,15,17,6,6,3,6,6,5,6,6,0,GIANTX,Defense,Natus Vincere,GIANTX
+91,15,13,5,7,3,5,7,1,7,5,2,Natus Vincere,Defense,Natus Vincere,GIANTX
+91,13,7,6,7,0,5,2,0,7,5,2,Natus Vincere,Defense,Natus Vincere,GIANTX
+92,19,17,6,6,7,6,6,5,6,6,0,Karmine Corp,Defense,Karmine Corp,BBL Esports
+92,13,11,9,4,0,8,3,0,9,3,6,BBL Esports,Defense,Karmine Corp,BBL Esports
+93,10,13,5,5,0,7,6,0,5,7,-2,Team Liquid,Defense,Team Liquid,FUT Esports
+93,13,6,7,6,0,1,5,0,7,5,2,FUT Esports,Defense,Team Liquid,FUT Esports
+93,13,6,6,7,0,0,6,0,6,6,0,FUT Esports,Defense,Team Liquid,FUT Esports
+94,9,13,7,2,0,8,5,0,7,5,2,KOI,Attack,KOI,Team Vitality
+94,13,15,4,8,1,4,8,3,4,8,-4,Team Vitality,Defense,KOI,Team Vitality
+95,6,13,3,3,0,9,4,0,3,9,-6,FNATIC,Defense,FNATIC,BBL Esports
+95,13,9,5,8,0,4,5,0,8,4,4,BBL Esports,Attack,FNATIC,BBL Esports
+95,13,11,6,7,0,5,6,0,6,6,0,BBL Esports,Defense,FNATIC,BBL Esports
+96,13,5,9,4,0,2,3,0,9,3,6,Karmine Corp,Defense,Team Heretics,Karmine Corp
+96,13,2,3,10,0,2,0,0,10,2,8,Team Heretics,Defense,Team Heretics,Karmine Corp
+97,4,13,1,3,0,9,4,0,3,9,-6,Team Vitality,Defense,Team Vitality,FUT Esports
+97,10,13,5,5,0,6,7,0,5,7,-2,FUT Esports,Defense,Team Vitality,FUT Esports
+98,13,10,7,6,0,6,4,0,6,6,0,Natus Vincere,Defense,Natus Vincere,BBL Esports
+98,13,8,6,7,0,2,6,0,6,6,0,BBL Esports,Defense,Natus Vincere,BBL Esports
+99,13,3,4,9,0,3,0,0,9,3,6,Team Heretics,Attack,FNATIC,Team Heretics
+99,13,6,7,6,0,1,5,0,7,5,2,FNATIC,Attack,FNATIC,Team Heretics
+100,13,5,8,5,0,1,4,0,8,4,4,Karmine Corp,Defense,Team Liquid,Karmine Corp
+100,13,2,1,12,0,0,2,0,12,0,12,Team Liquid,Defense,Team Liquid,Karmine Corp
+101,1,13,1,0,0,2,11,0,1,11,-10,KOI,Attack,KOI,GIANTX
+101,11,13,4,7,0,5,8,0,4,8,-4,GIANTX,Defense,KOI,GIANTX
+102,13,3,9,4,0,0,3,0,9,3,6,Team Heretics,Defense,Natus Vincere,Team Heretics
+102,9,13,7,2,0,10,3,0,2,10,-8,Natus Vincere,Defense,Natus Vincere,Team Heretics
+102,13,2,2,11,0,1,1,0,11,1,10,Natus Vincere,Defense,Natus Vincere,Team Heretics
+103,6,13,5,1,0,6,7,0,5,7,-2,KOI,Attack,KOI,FUT Esports
+103,9,13,6,3,0,7,6,0,6,6,0,FUT Esports,Defense,KOI,FUT Esports
+104,6,13,5,1,0,11,2,0,1,11,-10,FNATIC,Attack,Team Liquid,FNATIC
+104,6,13,0,6,0,6,7,0,6,6,0,Team Liquid,Defense,Team Liquid,FNATIC
+105,13,10,6,7,0,5,5,0,7,5,2,GIANTX,Defense,GIANTX,BBL Esports
+105,13,3,9,4,0,0,3,0,9,3,6,BBL Esports,Defense,GIANTX,BBL Esports
+106,13,2,3,10,0,2,0,0,10,2,8,Team Vitality,Defense,Team Vitality,Karmine Corp
+106,13,6,11,2,0,5,1,0,11,1,10,Karmine Corp,Defense,Team Vitality,Karmine Corp
+107,8,13,6,2,0,10,3,0,2,10,-8,Team Heretics,Defense,Team Heretics,Team Liquid
+107,15,17,5,7,3,5,7,5,5,7,-2,Team Liquid,Defense,Team Heretics,Team Liquid
+108,5,13,2,3,0,3,10,0,2,10,-8,GIANTX,Defense,FUT Esports,GIANTX
+108,11,13,7,4,0,8,5,0,4,8,-4,FUT Esports,Defense,FUT Esports,GIANTX
+109,11,13,5,6,0,6,7,0,6,6,0,Karmine Corp,Defense,Karmine Corp,Natus Vincere
+109,7,13,7,0,0,8,5,0,7,5,2,Natus Vincere,Defense,Karmine Corp,Natus Vincere
+110,13,8,5,8,0,1,7,0,5,7,-2,Team Vitality,Defense,BBL Esports,Team Vitality
+110,13,9,4,9,0,3,6,0,9,3,6,BBL Esports,Defense,BBL Esports,Team Vitality
+111,13,11,6,7,0,5,6,0,7,5,2,GIANTX,Defense,GIANTX,Team Liquid
+111,11,13,6,5,0,7,6,0,5,7,-2,Team Liquid,Attack,GIANTX,Team Liquid
+111,10,13,5,5,0,7,6,0,5,7,-2,Team Liquid,Attack,GIANTX,Team Liquid
+112,14,12,7,5,2,7,5,0,7,5,2,Team Heretics,Defense,BBL Esports,Team Heretics
+112,10,13,6,4,0,7,6,0,6,6,0,BBL Esports,Attack,BBL Esports,Team Heretics
+112,13,2,2,11,0,1,1,0,11,1,10,BBL Esports,Defense,BBL Esports,Team Heretics
+113,6,13,1,5,0,2,11,0,1,11,-10,KOI,Attack,KOI,Karmine Corp
+113,13,8,6,7,0,2,6,0,6,6,0,Karmine Corp,Defense,KOI,Karmine Corp
+113,11,13,4,7,0,5,8,0,7,5,2,Karmine Corp,Attack,KOI,Karmine Corp
+114,5,13,5,0,0,6,7,0,5,7,-2,FUT Esports,Attack,FUT Esports,FNATIC
+114,5,13,1,4,0,8,5,0,4,8,-4,FNATIC,Attack,FUT Esports,FNATIC
+115,10,13,3,7,0,4,9,0,3,9,-6,Natus Vincere,Defense,Team Vitality,Natus Vincere
+115,10,13,5,5,0,7,6,0,5,7,-2,Team Vitality,Defense,Team Vitality,Natus Vincere
+116,12,14,5,7,0,5,7,2,7,5,2,Team Vitality,Defense,Team Vitality,FNATIC
+116,8,13,2,6,0,6,7,0,6,6,0,FNATIC,Attack,Team Vitality,FNATIC
+117,13,8,6,7,0,5,3,0,7,5,2,Karmine Corp,Attack,FUT Esports,Karmine Corp
+117,13,5,5,8,0,4,1,0,8,4,4,FUT Esports,Defense,FUT Esports,Karmine Corp
+118,13,3,4,9,0,3,0,0,9,3,6,BBL Esports,Attack,KOI,BBL Esports
+118,4,13,1,3,0,9,4,0,3,9,-6,KOI,Defense,KOI,BBL Esports
+118,5,13,0,5,0,7,6,0,5,7,-2,KOI,Defense,KOI,BBL Esports
+119,13,11,7,6,0,6,5,0,6,6,0,Team Liquid,Attack,Natus Vincere,Team Liquid
+119,13,11,5,8,0,4,7,0,5,7,-2,Natus Vincere,Attack,Natus Vincere,Team Liquid
+120,9,13,6,3,0,9,4,0,3,9,-6,Team Heretics,Attack,GIANTX,Team Heretics
+120,14,16,5,7,2,5,7,4,7,5,2,GIANTX,Defense,GIANTX,Team Heretics
+121,4,13,2,2,0,10,3,0,2,10,-8,KOI,Defense,KOI,FNATIC
+121,9,13,1,8,0,4,9,0,8,4,4,FNATIC,Attack,KOI,FNATIC
+122,13,6,5,8,0,4,2,0,8,4,4,Team Vitality,Attack,GIANTX,Team Vitality
+122,10,13,5,5,0,7,6,0,5,7,-2,GIANTX,Defense,GIANTX,Team Vitality
+122,13,10,6,7,0,5,5,0,7,5,2,GIANTX,Defense,GIANTX,Team Vitality
+123,9,13,3,6,0,4,9,0,3,9,-6,Natus Vincere,Defense,FUT Esports,Natus Vincere
+123,11,13,3,8,0,4,9,0,3,9,-6,FUT Esports,Attack,FUT Esports,Natus Vincere
+124,2,13,2,0,0,3,10,0,2,10,-8,Karmine Corp,Attack,Karmine Corp,FNATIC
+124,10,13,4,6,0,6,7,0,6,6,0,FNATIC,Attack,Karmine Corp,FNATIC
+125,11,13,8,3,0,9,4,0,3,9,-6,BBL Esports,Defense,BBL Esports,Team Liquid
+125,13,7,8,5,0,3,4,0,8,4,4,Team Liquid,Defense,BBL Esports,Team Liquid
+125,7,13,2,5,0,7,6,0,5,7,-2,Team Liquid,Attack,BBL Esports,Team Liquid
+126,13,7,9,4,0,4,3,0,9,3,6,Team Heretics,Defense,KOI,Team Heretics
+126,9,13,7,2,0,8,5,0,7,5,2,KOI,Attack,KOI,Team Heretics
+126,13,11,8,5,0,7,4,0,5,7,-2,KOI,Defense,KOI,Team Heretics
+127,13,9,7,6,0,6,3,0,6,6,0,Natus Vincere,Attack,FNATIC,Natus Vincere
+127,13,8,5,8,0,4,4,0,8,4,4,FNATIC,Defense,FNATIC,Natus Vincere
+128,10,13,2,8,0,4,9,0,8,4,4,Team Heretics,Defense,Team Heretics,Team Vitality
+128,13,15,8,4,1,8,4,3,4,8,-4,Team Vitality,Attack,Team Heretics,Team Vitality
+129,14,16,9,3,2,9,3,4,9,3,6,GIANTX,Defense,Karmine Corp,GIANTX
+129,5,13,1,4,0,8,5,0,4,8,-4,Karmine Corp,Defense,Karmine Corp,GIANTX
+130,7,13,5,2,0,6,7,0,5,7,-2,KOI,Attack,KOI,Team Liquid
+130,13,11,8,5,0,7,4,0,5,7,-2,Team Liquid,Attack,KOI,Team Liquid
+130,8,13,5,3,0,6,7,0,5,7,-2,Team Liquid,Defense,KOI,Team Liquid
+131,5,13,0,5,0,7,6,0,5,7,-2,BBL Esports,Defense,BBL Esports,FUT Esports
+131,7,13,5,2,0,10,3,0,2,10,-8,FUT Esports,Attack,BBL Esports,FUT Esports
+132,5,13,3,2,0,4,9,0,3,9,-6,GIANTX,Attack,GIANTX,FUT Esports
+132,12,14,3,9,0,3,9,2,3,9,-6,FUT Esports,Defense,GIANTX,FUT Esports
+133,6,13,3,3,0,4,9,0,3,9,-6,Team Liquid,Attack,Team Liquid,Team Vitality
+133,13,11,5,8,0,4,7,0,8,4,4,Team Vitality,Attack,Team Liquid,Team Vitality
+133,13,11,6,7,0,5,6,0,6,6,0,Team Vitality,Defense,Team Liquid,Team Vitality
+134,9,13,8,1,0,9,4,0,8,4,4,FUT Esports,Defense,FNATIC,FUT Esports
+134,13,2,3,10,0,2,0,0,10,2,8,FNATIC,Defense,FNATIC,FUT Esports
+134,13,1,11,2,0,0,1,0,11,1,10,FNATIC,Attack,FNATIC,FUT Esports
+135,11,13,3,8,0,4,9,0,8,4,4,Natus Vincere,Defense,Natus Vincere,Team Liquid
+135,10,13,8,2,0,9,4,0,8,4,4,Team Liquid,Defense,Natus Vincere,Team Liquid
+136,13,9,9,4,0,8,1,0,4,8,-4,FUT Esports,Defense,FUT Esports,Team Vitality
+136,9,13,5,4,0,8,5,0,4,8,-4,Team Vitality,Attack,FUT Esports,Team Vitality
+136,13,6,4,9,0,3,3,0,9,3,6,Team Vitality,Attack,FUT Esports,Team Vitality
+137,13,9,6,7,0,3,6,0,6,6,0,GIANTX,Defense,Natus Vincere,GIANTX
+137,13,9,5,8,0,4,5,0,8,4,4,Natus Vincere,Defense,Natus Vincere,GIANTX
+138,14,12,7,5,2,7,5,0,7,5,2,Team Liquid,Defense,FNATIC,Team Liquid
+138,13,6,7,6,0,6,0,0,6,6,0,FNATIC,Defense,FNATIC,Team Liquid
+139,8,13,6,2,0,10,3,0,2,10,-8,Natus Vincere,Defense,Natus Vincere,FUT Esports
+139,7,13,3,4,0,8,5,0,4,8,-4,FUT Esports,Attack,Natus Vincere,FUT Esports
+140,13,5,9,4,0,2,3,0,9,3,6,FUT Esports,Defense,Team Liquid,FUT Esports
+140,17,15,10,2,5,10,2,3,2,10,-8,Team Liquid,Defense,Team Liquid,FUT Esports
+140,13,5,7,6,0,0,5,0,7,5,2,FUT Esports,Defense,Team Liquid,FUT Esports
+141,13,11,8,5,0,7,4,0,8,4,4,Team Liquid,Defense,FNATIC,Team Liquid
+141,12,14,4,8,0,4,8,2,4,8,-4,FNATIC,Attack,FNATIC,Team Liquid
+141,6,13,4,2,0,5,8,0,4,8,-4,Team Liquid,Defense,FNATIC,Team Liquid
+141,11,13,4,7,0,5,8,0,4,8,-4,FNATIC,Attack,FNATIC,Team Liquid
+142,13,11,6,7,0,5,6,0,7,5,2,100 Thieves,Attack,Sentinels,100 Thieves
+142,12,14,5,7,0,5,7,2,7,5,2,Sentinels,Defense,Sentinels,100 Thieves
+142,14,12,8,4,2,8,4,0,4,8,-4,Sentinels,Defense,Sentinels,100 Thieves
+143,11,13,6,5,0,7,6,0,6,6,0,FURIA,Defense,KRÜ Esports,FURIA
+143,5,13,0,5,0,7,6,0,5,7,-2,KRÜ Esports,Defense,KRÜ Esports,FURIA
+144,13,5,5,8,0,4,1,0,8,4,4,MIBR,Attack,LOUD,MIBR
+144,11,13,5,6,0,6,7,0,5,7,-2,LOUD,Attack,LOUD,MIBR
+144,13,11,8,5,0,7,4,0,8,4,4,LOUD,Attack,LOUD,MIBR
+145,11,13,2,9,0,3,10,0,9,3,6,Cloud9,Attack,Evil Geniuses,Cloud9
+145,9,13,5,4,0,8,5,0,4,8,-4,Evil Geniuses,Defense,Evil Geniuses,Cloud9
+146,13,11,7,6,0,6,5,0,6,6,0,NRG Esports,Attack,LEVIATÁN,NRG Esports
+146,13,4,5,8,0,4,0,0,8,4,4,LEVIATÁN,Defense,LEVIATÁN,NRG Esports
+147,13,7,8,5,0,3,4,0,8,4,4,LOUD,Defense,Cloud9,LOUD
+147,8,13,5,3,0,9,4,0,3,9,-6,Cloud9,Defense,Cloud9,LOUD
+147,7,13,4,3,0,5,8,0,4,8,-4,Cloud9,Attack,Cloud9,LOUD
+148,13,11,10,3,0,9,2,0,3,9,-6,FURIA,Attack,LEVIATÁN,FURIA
+148,5,13,3,2,0,10,3,0,2,10,-8,LEVIATÁN,Defense,LEVIATÁN,FURIA
+148,10,13,1,9,0,3,10,0,9,3,6,LEVIATÁN,Defense,LEVIATÁN,FURIA
+149,13,10,9,4,0,7,3,0,9,3,6,NRG Esports,Attack,NRG Esports,Sentinels
+149,13,2,3,10,0,2,0,0,10,2,8,Sentinels,Attack,NRG Esports,Sentinels
+150,9,13,2,7,0,5,8,0,7,5,2,MIBR,Defense,MIBR,KRÜ Esports
+150,13,11,9,4,0,8,3,0,4,8,-4,KRÜ Esports,Attack,MIBR,KRÜ Esports
+150,14,12,7,5,2,7,5,0,7,5,2,KRÜ Esports,Defense,MIBR,KRÜ Esports
+151,9,13,3,6,0,6,7,0,6,6,0,100 Thieves,Attack,Evil Geniuses,100 Thieves
+151,5,13,2,3,0,9,4,0,3,9,-6,Evil Geniuses,Defense,Evil Geniuses,100 Thieves
+152,13,7,5,8,0,4,3,0,8,4,4,100 Thieves,Attack,Cloud9,100 Thieves
+152,14,12,4,8,2,4,8,0,8,4,4,Cloud9,Defense,Cloud9,100 Thieves
+153,10,13,6,4,0,7,6,0,6,6,0,MIBR,Defense,NRG Esports,MIBR
+153,16,14,8,4,4,8,4,2,8,4,4,NRG Esports,Attack,NRG Esports,MIBR
+153,14,16,4,8,2,4,8,4,8,4,4,NRG Esports,Defense,NRG Esports,MIBR
+154,14,12,7,5,2,7,5,0,5,7,-2,LEVIATÁN,Defense,LEVIATÁN,Sentinels
+154,11,13,5,6,0,6,7,0,5,7,-2,Sentinels,Defense,LEVIATÁN,Sentinels
+154,13,4,3,10,0,2,2,0,10,2,8,Sentinels,Attack,LEVIATÁN,Sentinels
+155,13,11,10,3,0,9,2,0,3,9,-6,KRÜ Esports,Attack,Evil Geniuses,KRÜ Esports
+155,11,13,3,8,0,4,9,0,8,4,4,Evil Geniuses,Defense,Evil Geniuses,KRÜ Esports
+155,13,7,6,7,0,5,2,0,7,5,2,Evil Geniuses,Defense,Evil Geniuses,KRÜ Esports
+156,13,9,6,7,0,3,6,0,6,6,0,FURIA,Defense,LOUD,FURIA
+156,13,4,8,5,0,0,4,0,8,4,4,LOUD,Attack,LOUD,FURIA
+157,6,13,1,5,0,7,6,0,5,7,-2,Sentinels,Attack,LOUD,Sentinels
+157,13,11,7,6,0,6,5,0,7,5,2,LOUD,Attack,LOUD,Sentinels
+157,13,8,4,9,0,3,5,0,9,3,6,LOUD,Defense,LOUD,Sentinels
+158,13,4,3,10,0,2,2,0,10,2,8,MIBR,Attack,LEVIATÁN,MIBR
+158,13,3,3,10,0,2,1,0,10,2,8,LEVIATÁN,Defense,LEVIATÁN,MIBR
+159,13,4,4,9,0,3,1,0,9,3,6,100 Thieves,Attack,KRÜ Esports,100 Thieves
+159,11,13,3,8,0,4,9,0,8,4,4,KRÜ Esports,Defense,KRÜ Esports,100 Thieves
+159,5,13,4,1,0,5,8,0,4,8,-4,KRÜ Esports,Attack,KRÜ Esports,100 Thieves
+160,13,15,5,7,1,5,7,3,7,5,2,Evil Geniuses,Defense,Evil Geniuses,FURIA
+160,13,7,8,5,0,3,4,0,8,4,4,FURIA,Defense,Evil Geniuses,FURIA
+160,10,13,7,3,0,8,5,0,7,5,2,FURIA,Defense,Evil Geniuses,FURIA
+161,13,8,9,4,0,5,3,0,9,3,6,NRG Esports,Attack,NRG Esports,Cloud9
+161,9,13,2,7,0,5,8,0,7,5,2,Cloud9,Attack,NRG Esports,Cloud9
+161,7,13,4,3,0,5,8,0,4,8,-4,Cloud9,Defense,NRG Esports,Cloud9
+162,5,13,2,3,0,9,4,0,3,9,-6,MIBR,Defense,MIBR,Sentinels
+162,6,13,3,3,0,9,4,0,3,9,-6,Sentinels,Attack,MIBR,Sentinels
+163,15,13,5,7,3,5,7,1,7,5,2,LEVIATÁN,Defense,LEVIATÁN,100 Thieves
+163,11,13,5,6,0,6,7,0,6,6,0,100 Thieves,Attack,LEVIATÁN,100 Thieves
+163,11,13,7,4,0,8,5,0,7,5,2,100 Thieves,Defense,LEVIATÁN,100 Thieves
+164,13,3,9,4,0,0,3,0,9,3,6,Evil Geniuses,Attack,Evil Geniuses,LOUD
+164,10,13,6,4,0,8,5,0,4,8,-4,LOUD,Attack,Evil Geniuses,LOUD
+164,0,13,0,0,0,12,1,0,0,12,-12,LOUD,Attack,Evil Geniuses,LOUD
+165,13,8,5,8,0,4,4,0,8,4,4,Cloud9,Defense,Cloud9,FURIA
+165,13,9,7,6,0,6,3,0,6,6,0,FURIA,Attack,Cloud9,FURIA
+166,13,10,8,5,0,6,4,0,8,4,4,KRÜ Esports,Defense,NRG Esports,KRÜ Esports
+166,13,4,4,9,0,3,1,0,9,3,6,NRG Esports,Defense,NRG Esports,KRÜ Esports
+167,13,7,6,7,0,5,2,0,7,5,2,100 Thieves,Attack,NRG Esports,100 Thieves
+167,13,3,11,2,0,2,1,0,11,1,10,NRG Esports,Attack,NRG Esports,100 Thieves
+168,11,13,8,3,0,9,4,0,8,4,4,MIBR,Attack,MIBR,FURIA
+168,7,13,2,5,0,3,10,0,2,10,-8,FURIA,Defense,MIBR,FURIA
+169,13,4,4,9,0,3,1,0,9,3,6,Cloud9,Defense,Cloud9,Sentinels
+169,13,6,2,11,0,1,5,0,11,1,10,Sentinels,Attack,Cloud9,Sentinels
+170,10,13,2,8,0,4,9,0,8,4,4,LEVIATÁN,Defense,LEVIATÁN,Evil Geniuses
+170,13,10,7,6,0,6,4,0,6,6,0,Evil Geniuses,Attack,LEVIATÁN,Evil Geniuses
+170,10,13,3,7,0,4,9,0,3,9,-6,Evil Geniuses,Defense,LEVIATÁN,Evil Geniuses
+171,10,13,8,2,0,9,4,0,8,4,4,KRÜ Esports,Defense,LOUD,KRÜ Esports
+171,13,11,4,9,0,3,8,0,4,8,-4,LOUD,Attack,LOUD,KRÜ Esports
+171,13,10,8,5,0,6,4,0,8,4,4,LOUD,Attack,LOUD,KRÜ Esports
+172,13,6,4,9,0,3,3,0,9,3,6,Sentinels,Attack,Evil Geniuses,Sentinels
+172,13,5,10,3,0,3,2,0,10,2,8,Evil Geniuses,Attack,Evil Geniuses,Sentinels
+173,13,5,7,6,0,0,5,0,7,5,2,MIBR,Defense,Cloud9,MIBR
+173,13,4,5,8,0,4,0,0,8,4,4,Cloud9,Defense,Cloud9,MIBR
+174,13,5,8,5,0,1,4,0,8,4,4,100 Thieves,Defense,LOUD,100 Thieves
+174,15,13,6,6,3,6,6,1,6,6,0,LOUD,Attack,LOUD,100 Thieves
+175,13,4,11,2,0,3,1,0,11,1,10,KRÜ Esports,Defense,LEVIATÁN,KRÜ Esports
+175,13,4,4,9,0,3,1,0,9,3,6,LEVIATÁN,Defense,LEVIATÁN,KRÜ Esports
+176,13,11,10,3,0,9,2,0,3,9,-6,FURIA,Attack,NRG Esports,FURIA
+176,11,13,6,5,0,7,6,0,6,6,0,NRG Esports,Attack,NRG Esports,FURIA
+176,13,6,8,5,0,2,4,0,8,4,4,NRG Esports,Attack,NRG Esports,FURIA
+177,13,10,6,7,0,5,5,0,7,5,2,100 Thieves,Attack,FURIA,100 Thieves
+177,7,13,5,2,0,10,3,0,2,10,-8,FURIA,Defense,FURIA,100 Thieves
+177,11,13,5,6,0,6,7,0,6,6,0,FURIA,Defense,FURIA,100 Thieves
+178,13,2,3,10,0,2,0,0,10,2,8,Evil Geniuses,Defense,Evil Geniuses,MIBR
+178,13,5,5,8,0,4,1,0,8,4,4,MIBR,Attack,Evil Geniuses,MIBR
+179,12,14,6,6,0,6,6,2,6,6,0,KRÜ Esports,Attack,KRÜ Esports,Sentinels
+179,10,13,4,6,0,5,8,0,4,8,-4,Sentinels,Defense,KRÜ Esports,Sentinels
+180,13,5,9,4,0,2,3,0,9,3,6,NRG Esports,Attack,NRG Esports,LOUD
+180,13,9,7,6,0,6,3,0,6,6,0,LOUD,Attack,NRG Esports,LOUD
+181,7,13,4,3,0,9,4,0,3,9,-6,LEVIATÁN,Defense,LEVIATÁN,Cloud9
+181,4,13,2,2,0,10,3,0,2,10,-8,Cloud9,Attack,LEVIATÁN,Cloud9
+182,13,7,9,4,0,4,3,0,9,3,6,FURIA,Defense,Sentinels,FURIA
+182,5,13,1,4,0,8,5,0,4,8,-4,Sentinels,Defense,Sentinels,FURIA
+182,19,17,6,6,7,6,6,5,6,6,0,Sentinels,Defense,Sentinels,FURIA
+183,13,9,4,9,0,1,8,0,4,8,-4,Evil Geniuses,Defense,NRG Esports,Evil Geniuses
+183,13,7,7,6,0,2,5,0,7,5,2,NRG Esports,Attack,NRG Esports,Evil Geniuses
+184,15,13,9,3,3,9,3,1,3,9,-6,KRÜ Esports,Attack,Cloud9,KRÜ Esports
+184,6,13,0,6,0,6,7,0,6,6,0,Cloud9,Defense,Cloud9,KRÜ Esports
+184,13,9,8,5,0,5,4,0,8,4,4,Cloud9,Attack,Cloud9,KRÜ Esports
+185,7,13,3,4,0,8,5,0,4,8,-4,LOUD,Attack,LEVIATÁN,LOUD
+185,5,13,2,3,0,9,4,0,3,9,-6,LEVIATÁN,Defense,LEVIATÁN,LOUD
+186,13,6,8,5,0,2,4,0,8,4,4,MIBR,Attack,MIBR,100 Thieves
+186,12,14,4,8,0,4,8,2,8,4,4,100 Thieves,Attack,MIBR,100 Thieves
+186,13,7,6,7,0,5,2,0,7,5,2,100 Thieves,Attack,MIBR,100 Thieves
+187,5,13,1,4,0,8,5,0,4,8,-4,LEVIATÁN,Defense,LEVIATÁN,FURIA
+187,20,18,8,4,8,8,4,6,4,8,-4,FURIA,Attack,LEVIATÁN,FURIA
+187,6,13,1,5,0,7,6,0,5,7,-2,FURIA,Attack,LEVIATÁN,FURIA
+188,13,11,6,7,0,5,6,0,6,6,0,Evil Geniuses,Defense,NRG Esports,Evil Geniuses
+188,13,15,4,8,1,4,8,3,4,8,-4,NRG Esports,Attack,NRG Esports,Evil Geniuses
+188,7,13,2,5,0,7,6,0,5,7,-2,NRG Esports,Defense,NRG Esports,Evil Geniuses
+189,13,4,9,4,0,1,3,0,9,3,6,LOUD,Attack,LOUD,FURIA
+189,13,5,9,4,0,2,3,0,9,3,6,FURIA,Defense,LOUD,FURIA
+190,5,13,4,1,0,5,8,0,4,8,-4,Cloud9,Attack,Cloud9,Evil Geniuses
+190,2,13,2,0,0,3,10,0,2,10,-8,Evil Geniuses,Defense,Cloud9,Evil Geniuses
+191,9,13,2,7,0,3,10,0,2,10,-8,FURIA,Attack,FURIA,NRG Esports
+191,10,13,3,7,0,5,8,0,7,5,2,NRG Esports,Attack,FURIA,NRG Esports
+192,13,8,9,4,0,5,3,0,9,3,6,Cloud9,Attack,Cloud9,LEVIATÁN
+192,10,13,6,4,0,7,6,0,6,6,0,LEVIATÁN,Defense,Cloud9,LEVIATÁN
+192,13,4,8,5,0,0,4,0,8,4,4,LEVIATÁN,Defense,Cloud9,LEVIATÁN
+193,13,9,7,6,0,4,5,0,7,5,2,LOUD,Attack,LOUD,Evil Geniuses
+193,11,13,7,4,0,8,5,0,7,5,2,Evil Geniuses,Defense,LOUD,Evil Geniuses
+193,13,3,10,3,0,1,2,0,10,2,8,Evil Geniuses,Defense,LOUD,Evil Geniuses
+194,13,10,5,8,0,3,7,0,5,7,-2,Cloud9,Attack,Cloud9,NRG Esports
+194,9,13,4,5,0,7,6,0,5,7,-2,NRG Esports,Attack,Cloud9,NRG Esports
+194,12,14,6,6,0,6,6,2,6,6,0,NRG Esports,Attack,Cloud9,NRG Esports
+195,13,11,6,7,0,5,6,0,7,5,2,Evil Geniuses,Defense,Evil Geniuses,NRG Esports
+195,8,13,3,5,0,4,9,0,3,9,-6,NRG Esports,Defense,Evil Geniuses,NRG Esports
+195,10,13,3,7,0,5,8,0,7,5,2,Evil Geniuses,Defense,Evil Geniuses,NRG Esports
+195,4,13,3,1,0,11,2,0,1,11,-10,NRG Esports,Attack,Evil Geniuses,NRG Esports
+196,13,9,5,8,0,2,7,0,5,7,-2,NRG Esports,Defense,LOUD,NRG Esports
+196,13,11,7,6,0,6,5,0,6,6,0,LOUD,Defense,LOUD,NRG Esports
+196,13,11,8,5,0,7,4,0,5,7,-2,NRG Esports,Attack,LOUD,NRG Esports
+197,13,15,4,8,1,4,8,3,4,8,-4,Totoro Gaming,Defense,Weibo Gaming,Totoro Gaming
+197,11,13,8,3,0,9,4,0,3,9,-6,Weibo Gaming,Defense,Weibo Gaming,Totoro Gaming
+199,6,13,0,6,0,6,7,0,6,6,0,Gank Gaming,Defense,Gank Gaming,Royal Never Give Up
+199,13,10,5,8,0,4,6,0,8,4,4,Royal Never Give Up,Attack,Gank Gaming,Royal Never Give Up
+199,11,13,5,6,0,6,7,0,6,6,0,Royal Never Give Up,Attack,Gank Gaming,Royal Never Give Up
+202,16,14,7,5,4,7,5,2,7,5,2,Monarch Effect,Defense,TYLOO,Monarch Effect
+202,8,13,5,3,0,9,4,0,3,9,-6,TYLOO,Defense,TYLOO,Monarch Effect
+202,13,11,10,3,0,9,2,0,3,9,-6,TYLOO,Defense,TYLOO,Monarch Effect
+204,13,7,7,6,0,2,5,0,7,5,2,Dragon Ranger Gaming,Attack,Dragon Ranger Gaming,Rare Atom
+204,12,14,8,4,0,8,4,2,4,8,-4,Rare Atom,Attack,Dragon Ranger Gaming,Rare Atom
+204,13,11,7,6,0,6,5,0,7,5,2,Rare Atom,Defense,Dragon Ranger Gaming,Rare Atom
+205,13,4,9,4,0,1,3,0,9,3,6,Totoro Gaming,Attack,Totoro Gaming,Shenzhen NTER
+205,21,19,3,9,9,3,9,7,3,9,-6,Shenzhen NTER,Defense,Totoro Gaming,Shenzhen NTER
+207,7,13,6,1,0,7,6,0,6,6,0,TYLOO,Defense,Nova Esports,TYLOO
+207,5,13,2,3,0,9,4,0,3,9,-6,Nova Esports,Defense,Nova Esports,TYLOO
+209,16,14,5,7,4,5,7,2,7,5,2,Invincible Gaming,Attack,Gank Gaming,Invincible Gaming
+209,13,4,3,10,0,2,2,0,10,2,8,Gank Gaming,Defense,Gank Gaming,Invincible Gaming
+212,14,12,6,6,2,6,6,0,6,6,0,Monarch Effect,Defense,Rare Atom,Monarch Effect
+212,8,13,3,5,0,7,6,0,5,7,-2,Rare Atom,Defense,Rare Atom,Monarch Effect
+212,11,13,5,6,0,6,7,0,5,7,-2,Rare Atom,Attack,Rare Atom,Monarch Effect
+213,13,10,9,4,0,7,3,0,9,3,6,Weibo Gaming,Attack,Weibo Gaming,Shenzhen NTER
+213,13,11,8,5,0,7,4,0,5,7,-2,Shenzhen NTER,Attack,Weibo Gaming,Shenzhen NTER
+215,13,11,8,5,0,7,4,0,8,4,4,Gank Gaming,Defense,Night Wings Gaming,Gank Gaming
+215,14,12,7,5,2,7,5,0,5,7,-2,Night Wings Gaming,Defense,Night Wings Gaming,Gank Gaming
+217,13,4,3,10,0,2,2,0,10,2,8,Totoro Gaming,Defense,Totoro Gaming,Douyu Gaming
+217,13,10,5,8,0,3,7,0,5,7,-2,Douyu Gaming,Defense,Totoro Gaming,Douyu Gaming
+220,7,13,4,3,0,5,8,0,4,8,-4,Dragon Ranger Gaming,Attack,Dragon Ranger Gaming,TYLOO
+220,9,13,6,3,0,7,6,0,6,6,0,TYLOO,Defense,Dragon Ranger Gaming,TYLOO
+221,13,5,3,10,0,2,3,0,10,2,8,Night Wings Gaming,Attack,Weibo Gaming,Night Wings Gaming
+221,13,9,10,3,0,7,2,0,10,2,8,Weibo Gaming,Attack,Weibo Gaming,Night Wings Gaming
+223,12,14,10,2,0,10,2,2,2,10,-8,Douyu Gaming,Defense,Douyu Gaming,Royal Never Give Up
+223,11,13,3,8,0,4,9,0,8,4,4,Royal Never Give Up,Attack,Douyu Gaming,Royal Never Give Up
+225,8,13,4,4,0,8,5,0,4,8,-4,Dragon Ranger Gaming,Defense,Dragon Ranger Gaming,Monarch Effect
+225,13,7,7,6,0,2,5,0,7,5,2,Monarch Effect,Defense,Dragon Ranger Gaming,Monarch Effect
+225,9,13,5,4,0,6,7,0,5,7,-2,Monarch Effect,Defense,Dragon Ranger Gaming,Monarch Effect
+227,8,13,5,3,0,6,7,0,5,7,-2,Shenzhen NTER,Defense,Night Wings Gaming,Shenzhen NTER
+227,13,9,8,5,0,5,4,0,8,4,4,Night Wings Gaming,Attack,Night Wings Gaming,Shenzhen NTER
+227,13,15,6,6,1,6,6,3,6,6,0,Night Wings Gaming,Defense,Night Wings Gaming,Shenzhen NTER
+228,13,11,5,8,0,4,7,0,5,7,-2,Gank Gaming,Attack,Gank Gaming,Four Angry Men
+228,1,13,0,1,0,11,2,0,1,11,-10,Four Angry Men,Attack,Gank Gaming,Four Angry Men
+228,16,18,8,4,4,8,4,6,4,8,-4,Four Angry Men,Attack,Gank Gaming,Four Angry Men
+229,13,11,7,6,0,6,5,0,7,5,2,Dragon Ranger Gaming,Attack,Dragon Ranger Gaming,Douyu Gaming
+229,13,5,9,4,0,2,3,0,9,3,6,Douyu Gaming,Defense,Dragon Ranger Gaming,Douyu Gaming
+230,13,9,10,3,0,7,2,0,10,2,8,Trace Esports,Attack,Trace Esports,Four Angry Men
+230,18,16,6,6,6,6,6,4,6,6,0,Four Angry Men,Defense,Trace Esports,Four Angry Men
+231,13,11,5,8,0,4,7,0,8,4,4,Monarch Effect,Defense,Monarch Effect,Royal Never Give Up
+231,6,13,4,2,0,10,3,0,2,10,-8,Royal Never Give Up,Attack,Monarch Effect,Royal Never Give Up
+231,13,2,3,10,0,2,0,0,10,2,8,Royal Never Give Up,Attack,Monarch Effect,Royal Never Give Up
+232,13,4,4,9,0,3,1,0,9,3,6,Shenzhen NTER,Attack,TYLOO,Shenzhen NTER
+232,13,9,4,9,0,1,8,0,4,8,-4,TYLOO,Attack,TYLOO,Shenzhen NTER
+233,10,13,4,6,0,6,7,0,6,6,0,Dragon Ranger Gaming,Attack,Weibo Gaming,Dragon Ranger Gaming
+233,13,9,7,6,0,6,3,0,6,6,0,Weibo Gaming,Defense,Weibo Gaming,Dragon Ranger Gaming
+233,13,5,5,8,0,4,1,0,8,4,4,Weibo Gaming,Defense,Weibo Gaming,Dragon Ranger Gaming
+234,13,10,7,6,0,6,4,0,6,6,0,Trace Esports,Attack,Attacking Soul Esports,Trace Esports
+234,5,13,1,4,0,8,5,0,4,8,-4,Attacking Soul Esports,Defense,Attacking Soul Esports,Trace Esports
+234,11,13,9,2,0,10,3,0,2,10,-8,Attacking Soul Esports,Defense,Attacking Soul Esports,Trace Esports
+235,13,10,10,3,0,9,1,0,3,9,-6,Monarch Effect,Attack,Bilibili Gaming,Monarch Effect
+235,13,7,4,9,0,3,4,0,9,3,6,Bilibili Gaming,Defense,Bilibili Gaming,Monarch Effect
+236,9,13,4,5,0,7,6,0,5,7,-2,TYLOO,Attack,FunPlus Phoenix,TYLOO
+236,10,13,6,4,0,8,5,0,4,8,-4,FunPlus Phoenix,Defense,FunPlus Phoenix,TYLOO
+237,13,6,8,5,0,2,4,0,8,4,4,EDward Gaming,Attack,EDward Gaming,Weibo Gaming
+237,13,7,9,4,0,4,3,0,9,3,6,Weibo Gaming,Defense,EDward Gaming,Weibo Gaming
+238,13,5,8,5,0,1,4,0,8,4,4,Monarch Effect,Defense,Attacking Soul Esports,Monarch Effect
+238,13,5,4,9,0,3,2,0,9,3,6,Attacking Soul Esports,Defense,Attacking Soul Esports,Monarch Effect
+239,13,5,4,9,0,3,2,0,9,3,6,Weibo Gaming,Attack,FunPlus Phoenix,Weibo Gaming
+239,13,9,8,5,0,7,2,0,5,7,-2,FunPlus Phoenix,Defense,FunPlus Phoenix,Weibo Gaming
+240,10,13,6,4,0,7,6,0,6,6,0,Trace Esports,Attack,Trace Esports,Bilibili Gaming
+240,5,13,1,4,0,2,11,0,1,11,-10,Bilibili Gaming,Defense,Trace Esports,Bilibili Gaming
+240,2,13,0,2,0,10,3,0,2,10,-8,Trace Esports,Defense,Trace Esports,Bilibili Gaming
+241,6,13,4,2,0,5,8,0,4,8,-4,EDward Gaming,Defense,TYLOO,EDward Gaming
+241,2,13,2,0,0,3,10,0,2,10,-8,TYLOO,Attack,TYLOO,EDward Gaming
+241,2,13,0,2,0,10,3,0,2,10,-8,EDward Gaming,Attack,TYLOO,EDward Gaming
+242,9,13,5,4,0,6,7,0,5,7,-2,Trace Esports,Attack,Trace Esports,FunPlus Phoenix
+242,13,6,8,5,0,2,4,0,8,4,4,FunPlus Phoenix,Defense,Trace Esports,FunPlus Phoenix
+242,8,13,3,5,0,7,6,0,5,7,-2,FunPlus Phoenix,Attack,Trace Esports,FunPlus Phoenix
+243,3,13,2,1,0,3,10,0,2,10,-8,Attacking Soul Esports,Defense,TYLOO,Attacking Soul Esports
+243,13,10,7,6,0,5,5,0,7,5,2,TYLOO,Attack,TYLOO,Attacking Soul Esports
+243,14,12,5,7,2,5,7,0,7,5,2,TYLOO,Defense,TYLOO,Attacking Soul Esports
+244,3,13,0,3,0,9,4,0,3,9,-6,EDward Gaming,Attack,Bilibili Gaming,EDward Gaming
+244,10,13,4,6,0,6,7,0,6,6,0,Bilibili Gaming,Defense,Bilibili Gaming,EDward Gaming
+244,4,13,4,0,0,5,8,0,4,8,-4,EDward Gaming,Defense,Bilibili Gaming,EDward Gaming
+245,8,13,4,4,0,8,5,0,4,8,-4,TYLOO,Defense,TYLOO,FunPlus Phoenix
+245,13,7,5,8,0,4,3,0,8,4,4,FunPlus Phoenix,Attack,TYLOO,FunPlus Phoenix
+245,11,13,7,4,0,8,5,0,4,8,-4,TYLOO,Defense,TYLOO,FunPlus Phoenix
+245,10,13,4,6,0,6,7,0,6,6,0,FunPlus Phoenix,Attack,TYLOO,FunPlus Phoenix
+246,11,13,7,4,0,8,5,0,4,8,-4,Bilibili Gaming,Defense,Bilibili Gaming,FunPlus Phoenix
+246,13,9,5,8,0,4,5,0,8,4,4,FunPlus Phoenix,Attack,Bilibili Gaming,FunPlus Phoenix
+246,9,13,5,4,0,8,5,0,4,8,-4,Bilibili Gaming,Defense,Bilibili Gaming,FunPlus Phoenix
+246,13,6,4,9,0,3,3,0,9,3,6,FunPlus Phoenix,Attack,Bilibili Gaming,FunPlus Phoenix
+246,13,5,3,10,0,2,3,0,10,2,8,Bilibili Gaming,Defense,Bilibili Gaming,FunPlus Phoenix
+247,13,6,4,9,0,3,3,0,9,3,6,EDward Gaming,Defense,EDward Gaming,Bilibili Gaming
+247,13,4,5,8,0,4,0,0,8,4,4,Bilibili Gaming,Attack,EDward Gaming,Bilibili Gaming
+247,12,14,8,4,0,8,4,2,8,4,4,EDward Gaming,Attack,EDward Gaming,Bilibili Gaming
+247,14,12,4,8,2,4,8,0,4,8,-4,Bilibili Gaming,Defense,EDward Gaming,Bilibili Gaming
+248,5,13,0,5,0,7,6,0,5,7,-2,FUT Esports,Defense,FUT Esports,Evil Geniuses
+248,12,14,6,6,0,6,6,2,6,6,0,Evil Geniuses,Defense,FUT Esports,Evil Geniuses
+249,13,10,7,6,0,5,5,0,7,5,2,DRX,Attack,DRX,Attacking Soul Esports
+249,13,7,8,5,0,3,4,0,8,4,4,Attacking Soul Esports,Defense,DRX,Attacking Soul Esports
+250,10,13,6,4,0,7,6,0,6,6,0,EDward Gaming,Attack,EDward Gaming,T1
+250,13,7,6,7,0,1,6,0,6,6,0,T1,Defense,EDward Gaming,T1
+250,12,14,6,6,0,6,6,2,6,6,0,T1,Defense,EDward Gaming,T1
+251,13,8,7,6,0,6,2,0,6,6,0,NRG Esports,Defense,NRG Esports,Natus Vincere
+251,12,14,8,4,0,8,4,2,8,4,4,Natus Vincere,Defense,NRG Esports,Natus Vincere
+251,13,6,10,3,0,4,2,0,10,2,8,Natus Vincere,Defense,NRG Esports,Natus Vincere
+252,5,13,4,1,0,5,8,0,4,8,-4,DRX,Attack,DRX,Evil Geniuses
+252,9,13,5,4,0,6,7,0,5,7,-2,Evil Geniuses,Defense,DRX,Evil Geniuses
+253,11,13,6,5,0,7,6,0,6,6,0,NRG Esports,Attack,NRG Esports,T1
+253,13,7,6,7,0,1,6,0,6,6,0,T1,Defense,NRG Esports,T1
+253,13,11,7,6,0,6,5,0,7,5,2,T1,Defense,NRG Esports,T1
+254,13,8,4,9,0,3,5,0,9,3,6,Attacking Soul Esports,Defense,Attacking Soul Esports,FUT Esports
+254,5,13,5,0,0,6,7,0,5,7,-2,FUT Esports,Defense,Attacking Soul Esports,FUT Esports
+254,6,13,2,4,0,8,5,0,4,8,-4,FUT Esports,Attack,Attacking Soul Esports,FUT Esports
+255,15,17,7,5,3,7,5,5,5,7,-2,EDward Gaming,Attack,Natus Vincere,EDward Gaming
+255,12,14,6,6,0,6,6,2,6,6,0,Natus Vincere,Defense,Natus Vincere,EDward Gaming
+256,9,13,3,6,0,4,9,0,3,9,-6,DRX,Attack,DRX,FUT Esports
+256,13,8,7,6,0,6,2,0,6,6,0,FUT Esports,Attack,DRX,FUT Esports
+256,13,4,2,11,0,1,3,0,11,1,10,FUT Esports,Attack,DRX,FUT Esports
+257,4,13,0,4,0,8,5,0,4,8,-4,EDward Gaming,Attack,T1,EDward Gaming
+257,6,13,4,2,0,10,3,0,2,10,-8,T1,Defense,T1,EDward Gaming
+258,7,13,4,3,0,9,4,0,3,9,-6,LOUD,Defense,LOUD,Evil Geniuses
+258,5,13,5,0,0,6,7,0,5,7,-2,Evil Geniuses,Defense,LOUD,Evil Geniuses
+259,13,9,7,6,0,6,3,0,6,6,0,Team Liquid,Defense,Team Liquid,EDward Gaming
+259,8,13,2,6,0,6,7,0,6,6,0,EDward Gaming,Attack,Team Liquid,EDward Gaming
+259,13,11,8,5,0,7,4,0,5,7,-2,EDward Gaming,Attack,Team Liquid,EDward Gaming
+260,13,9,7,6,0,6,3,0,6,6,0,NRG Esports,Attack,FNATIC,NRG Esports
+260,13,4,10,3,0,2,2,0,10,2,8,FNATIC,Attack,FNATIC,NRG Esports
+261,13,10,9,4,0,7,3,0,9,3,6,Paper Rex,Attack,Paper Rex,DRX
+261,13,10,5,8,0,4,6,0,8,4,4,DRX,Attack,Paper Rex,DRX
+262,13,6,8,5,0,2,4,0,8,4,4,EDward Gaming,Attack,EDward Gaming,LOUD
+262,13,10,8,5,0,7,3,0,5,7,-2,LOUD,Attack,EDward Gaming,LOUD
+263,11,13,3,8,0,4,9,0,8,4,4,NRG Esports,Attack,DRX,NRG Esports
+263,5,13,4,1,0,5,8,0,4,8,-4,DRX,Attack,DRX,NRG Esports
+264,2,13,1,1,0,11,2,0,1,11,-10,Team Liquid,Defense,Team Liquid,Evil Geniuses
+264,9,13,5,4,0,6,7,0,5,7,-2,Evil Geniuses,Defense,Team Liquid,Evil Geniuses
+265,5,13,0,5,0,1,12,0,0,12,-12,Paper Rex,Attack,Paper Rex,FNATIC
+265,7,13,4,3,0,9,4,0,3,9,-6,FNATIC,Attack,Paper Rex,FNATIC
+266,12,14,4,8,0,4,8,2,8,4,4,Team Liquid,Defense,Team Liquid,NRG Esports
+266,13,8,7,6,0,3,5,0,7,5,2,NRG Esports,Defense,Team Liquid,NRG Esports
+266,5,13,1,4,0,8,5,0,4,8,-4,NRG Esports,Attack,Team Liquid,NRG Esports
+267,14,12,4,8,2,4,8,0,4,8,-4,Paper Rex,Attack,Paper Rex,EDward Gaming
+267,9,13,3,6,0,6,7,0,6,6,0,EDward Gaming,Attack,Paper Rex,EDward Gaming
+267,13,8,5,8,0,4,4,0,8,4,4,EDward Gaming,Attack,Paper Rex,EDward Gaming
+268,13,3,10,3,0,1,2,0,10,2,8,Evil Geniuses,Defense,FNATIC,Evil Geniuses
+268,9,13,3,6,0,4,9,0,3,9,-6,FNATIC,Attack,FNATIC,Evil Geniuses
+268,13,11,7,6,0,6,5,0,6,6,0,FNATIC,Defense,FNATIC,Evil Geniuses
+269,13,15,5,7,1,5,7,3,7,5,2,Paper Rex,Attack,NRG Esports,Paper Rex
+269,13,6,10,3,0,4,2,0,10,2,8,NRG Esports,Attack,NRG Esports,Paper Rex
+269,11,13,7,4,0,8,5,0,7,5,2,NRG Esports,Attack,NRG Esports,Paper Rex
+270,13,7,4,9,0,3,4,0,9,3,6,Paper Rex,Attack,Evil Geniuses,Paper Rex
+270,12,14,7,5,0,7,5,2,5,7,-2,Evil Geniuses,Defense,Evil Geniuses,Paper Rex
+270,10,13,2,8,0,4,9,0,8,4,4,Paper Rex,Attack,Evil Geniuses,Paper Rex
+270,13,6,6,7,0,5,1,0,7,5,2,Evil Geniuses,Defense,Evil Geniuses,Paper Rex
+270,13,8,8,5,0,4,4,0,8,4,4,Paper Rex,Defense,Evil Geniuses,Paper Rex
+271,13,8,6,7,0,2,6,0,6,6,0,Evil Geniuses,Defense,FNATIC,Evil Geniuses
+271,13,11,5,8,0,4,7,0,8,4,4,FNATIC,Defense,FNATIC,Evil Geniuses
+271,14,12,8,4,2,8,4,0,4,8,-4,Evil Geniuses,Attack,FNATIC,Evil Geniuses
+272,7,13,3,4,0,4,9,0,3,9,-6,MIBR,Attack,MIBR,KRÜ Esports
+272,8,13,5,3,0,9,4,0,3,9,-6,KRÜ Esports,Attack,MIBR,KRÜ Esports
+273,14,12,7,5,2,7,5,0,7,5,2,FURIA,Attack,FURIA,KRÜ Esports
+273,4,13,1,3,0,9,4,0,3,9,-6,KRÜ Esports,Attack,FURIA,KRÜ Esports
+273,11,13,4,7,0,5,8,0,7,5,2,KRÜ Esports,Attack,FURIA,KRÜ Esports
+274,12,14,3,9,0,3,9,2,9,3,6,Sentinels,Defense,Sentinels,100 Thieves
+274,13,7,5,8,0,0,7,0,5,7,-2,100 Thieves,Defense,Sentinels,100 Thieves
+274,13,7,10,3,0,5,2,0,10,2,8,100 Thieves,Defense,Sentinels,100 Thieves
+275,13,8,8,5,0,4,4,0,8,4,4,Cloud9,Attack,Cloud9,Sentinels
+275,5,13,3,2,0,4,9,0,3,9,-6,Sentinels,Defense,Cloud9,Sentinels
+275,13,8,8,5,0,4,4,0,8,4,4,Sentinels,Defense,Cloud9,Sentinels
+276,5,13,2,3,0,9,4,0,3,9,-6,LEVIATÁN,Defense,LEVIATÁN,KRÜ Esports
+276,7,13,5,2,0,6,7,0,5,7,-2,KRÜ Esports,Defense,LEVIATÁN,KRÜ Esports
+277,13,4,5,8,0,4,0,0,8,4,4,Cloud9,Defense,Cloud9,KRÜ Esports
+277,4,13,4,0,0,12,1,0,0,12,-12,KRÜ Esports,Attack,Cloud9,KRÜ Esports
+277,6,13,2,4,0,8,5,0,4,8,-4,KRÜ Esports,Attack,Cloud9,KRÜ Esports
+278,8,13,2,6,0,6,7,0,6,6,0,Sentinels,Defense,Sentinels,LEVIATÁN
+278,4,13,4,0,0,5,8,0,4,8,-4,LEVIATÁN,Defense,Sentinels,LEVIATÁN
+279,13,7,8,5,0,3,4,0,8,4,4,LEVIATÁN,Defense,Cloud9,LEVIATÁN
+279,13,9,6,7,0,3,6,0,6,6,0,Cloud9,Attack,Cloud9,LEVIATÁN
+279,11,13,6,5,0,7,6,0,6,6,0,LEVIATÁN,Defense,Cloud9,LEVIATÁN
+279,10,13,9,1,0,10,3,0,9,3,6,Cloud9,Attack,Cloud9,LEVIATÁN
+279,7,13,2,5,0,7,6,0,5,7,-2,LEVIATÁN,Attack,Cloud9,LEVIATÁN
+280,13,5,9,4,0,2,3,0,9,3,6,LEVIATÁN,Defense,KRÜ Esports,LEVIATÁN
+280,8,13,1,7,0,5,8,0,7,5,2,KRÜ Esports,Defense,KRÜ Esports,LEVIATÁN
+280,13,6,7,6,0,1,5,0,7,5,2,LEVIATÁN,Defense,KRÜ Esports,LEVIATÁN
+280,13,10,7,6,0,6,4,0,6,6,0,KRÜ Esports,Defense,KRÜ Esports,LEVIATÁN
+281,13,7,7,6,0,2,5,0,7,5,2,TALON,Attack,TALON,DetonatioN FocusMe
+281,13,8,7,6,0,3,5,0,7,5,2,DetonatioN FocusMe,Defense,TALON,DetonatioN FocusMe
+282,13,10,7,6,0,5,5,0,7,5,2,Rex Regum Qeon,Attack,Rex Regum Qeon,Global Esports
+282,13,10,6,7,0,4,6,0,6,6,0,Global Esports,Defense,Rex Regum Qeon,Global Esports
+283,11,13,2,9,0,3,10,0,9,3,6,Gen.G,Defense,Gen.G,TALON
+283,13,10,6,7,0,5,5,0,7,5,2,TALON,Attack,Gen.G,TALON
+283,15,13,8,4,3,8,4,1,4,8,-4,TALON,Attack,Gen.G,TALON
+284,2,13,2,0,0,3,10,0,2,10,-8,ZETA DIVISION,Attack,ZETA DIVISION,Rex Regum Qeon
+284,13,8,6,7,0,5,3,0,7,5,2,Rex Regum Qeon,Attack,ZETA DIVISION,Rex Regum Qeon
+284,21,19,4,8,9,4,8,7,8,4,4,Rex Regum Qeon,Attack,ZETA DIVISION,Rex Regum Qeon
+285,13,6,4,9,0,3,3,0,9,3,6,Gen.G,Attack,Team Secret,Gen.G
+285,13,8,5,8,0,4,4,0,8,4,4,Team Secret,Defense,Team Secret,Gen.G
+286,13,9,9,4,0,6,3,0,9,3,6,ZETA DIVISION,Attack,ZETA DIVISION,Team Secret
+286,13,7,7,6,0,6,1,0,6,6,0,Team Secret,Attack,ZETA DIVISION,Team Secret
+287,6,13,4,2,0,5,8,0,4,8,-4,Gen.G,Defense,Rex Regum Qeon,Gen.G
+287,13,2,10,3,0,0,2,0,10,2,8,Rex Regum Qeon,Attack,Rex Regum Qeon,Gen.G
+287,7,13,4,3,0,9,4,0,3,9,-6,Rex Regum Qeon,Defense,Rex Regum Qeon,Gen.G
+288,10,13,3,7,0,4,9,0,3,9,-6,Gen.G,Defense,Team Secret,Gen.G
+288,13,11,5,8,0,4,7,0,5,7,-2,Team Secret,Attack,Team Secret,Gen.G
+288,13,2,10,3,0,0,2,0,10,2,8,Gen.G,Defense,Team Secret,Gen.G
+288,13,6,10,3,0,4,2,0,10,2,8,Team Secret,Attack,Team Secret,Gen.G
+289,14,12,5,7,2,5,7,0,7,5,2,Team Secret,Attack,ZETA DIVISION,Team Secret
+289,9,13,3,6,0,6,7,0,6,6,0,ZETA DIVISION,Defense,ZETA DIVISION,Team Secret
+289,13,7,10,3,0,5,2,0,10,2,8,Team Secret,Defense,ZETA DIVISION,Team Secret
+289,13,6,7,6,0,1,5,0,7,5,2,ZETA DIVISION,Attack,ZETA DIVISION,Team Secret
+290,8,13,7,1,0,8,5,0,7,5,2,Team Heretics,Attack,Team Heretics,KOI
+290,13,10,4,9,0,2,8,0,4,8,-4,KOI,Defense,Team Heretics,KOI
+290,6,13,4,2,0,5,8,0,4,8,-4,KOI,Defense,Team Heretics,KOI
+291,14,12,4,8,2,4,8,0,4,8,-4,Karmine Corp,Defense,BBL Esports,Karmine Corp
+291,9,13,5,4,0,6,7,0,5,7,-2,BBL Esports,Attack,BBL Esports,Karmine Corp
+291,12,14,7,5,0,7,5,2,5,7,-2,BBL Esports,Defense,BBL Esports,Karmine Corp
+292,6,13,0,6,0,6,7,0,6,6,0,Natus Vincere,Defense,Natus Vincere,KOI
+292,3,13,3,0,0,4,9,0,3,9,-6,KOI,Defense,Natus Vincere,KOI
+293,13,11,4,9,0,3,8,0,9,3,6,GIANTX,Defense,GIANTX,Karmine Corp
+293,13,5,10,3,0,3,2,0,10,2,8,Karmine Corp,Defense,GIANTX,Karmine Corp
+294,12,14,5,7,0,5,7,2,5,7,-2,GIANTX,Defense,KOI,GIANTX
+294,5,13,0,5,0,7,6,0,5,7,-2,KOI,Defense,KOI,GIANTX
+295,13,6,6,7,0,5,1,0,7,5,2,Natus Vincere,Defense,Natus Vincere,Karmine Corp
+295,7,13,5,2,0,6,7,0,5,7,-2,Karmine Corp,Defense,Natus Vincere,Karmine Corp
+295,13,7,8,5,0,3,4,0,8,4,4,Karmine Corp,Defense,Natus Vincere,Karmine Corp
+296,12,14,5,7,0,5,7,2,7,5,2,Natus Vincere,Attack,KOI,Natus Vincere
+296,10,13,8,2,0,10,3,0,2,10,-8,KOI,Defense,KOI,Natus Vincere
+296,9,13,7,2,0,8,5,0,7,5,2,Natus Vincere,Defense,KOI,Natus Vincere
+297,13,11,6,7,0,5,6,0,6,6,0,Natus Vincere,Defense,GIANTX,Natus Vincere
+297,13,7,6,7,0,5,2,0,7,5,2,GIANTX,Defense,GIANTX,Natus Vincere
+297,13,9,7,6,0,4,5,0,7,5,2,Natus Vincere,Defense,GIANTX,Natus Vincere
+298,11,13,6,5,0,7,6,0,6,6,0,Team Liquid,Attack,Team Liquid,Natus Vincere
+298,15,17,7,5,3,7,5,5,7,5,2,Natus Vincere,Defense,Team Liquid,Natus Vincere
+299,13,15,7,5,1,7,5,3,7,5,2,DRX,Attack,DRX,LOUD
+299,13,6,5,8,0,4,2,0,8,4,4,LOUD,Attack,DRX,LOUD
+299,13,8,5,8,0,4,4,0,8,4,4,LOUD,Attack,DRX,LOUD
+300,13,4,4,9,0,3,1,0,9,3,6,FUT Esports,Defense,FUT Esports,T1
+300,13,7,6,7,0,5,2,0,7,5,2,T1,Attack,FUT Esports,T1
+301,13,8,7,6,0,6,2,0,6,6,0,FunPlus Phoenix,Attack,Evil Geniuses,FunPlus Phoenix
+301,13,8,4,9,0,3,5,0,9,3,6,Evil Geniuses,Defense,Evil Geniuses,FunPlus Phoenix
+302,13,15,4,8,1,4,8,3,8,4,4,DRX,Attack,Natus Vincere,DRX
+302,13,9,7,6,0,6,3,0,6,6,0,Natus Vincere,Defense,Natus Vincere,DRX
+302,12,14,6,6,0,6,6,2,6,6,0,Natus Vincere,Defense,Natus Vincere,DRX
+303,12,14,7,5,0,7,5,2,7,5,2,NRG Esports,Attack,NRG Esports,Bilibili Gaming
+303,8,13,4,4,0,5,8,0,4,8,-4,Bilibili Gaming,Defense,NRG Esports,Bilibili Gaming
+304,13,5,8,5,0,1,4,0,8,4,4,FNATIC,Attack,FNATIC,ZETA DIVISION
+304,13,6,7,6,0,1,5,0,7,5,2,ZETA DIVISION,Defense,FNATIC,ZETA DIVISION
+305,15,13,3,9,3,3,9,1,9,3,6,FUT Esports,Attack,Evil Geniuses,FUT Esports
+305,13,9,7,6,0,6,3,0,6,6,0,Evil Geniuses,Defense,Evil Geniuses,FUT Esports
+306,13,7,8,5,0,3,4,0,8,4,4,Paper Rex,Attack,Paper Rex,KRÜ Esports
+306,13,8,8,5,0,4,4,0,8,4,4,KRÜ Esports,Defense,Paper Rex,KRÜ Esports
+307,13,15,9,3,1,9,3,3,3,9,-6,EDward Gaming,Defense,EDward Gaming,GIANTX
+307,13,11,6,7,0,5,6,0,6,6,0,GIANTX,Defense,EDward Gaming,GIANTX
+307,13,8,7,6,0,3,5,0,7,5,2,GIANTX,Defense,EDward Gaming,GIANTX
+308,13,2,10,3,0,0,2,0,10,2,8,FNATIC,Attack,FNATIC,Bilibili Gaming
+308,13,8,9,4,0,5,3,0,9,3,6,Bilibili Gaming,Defense,FNATIC,Bilibili Gaming
+309,2,13,2,0,0,3,10,0,2,10,-8,Team Liquid,Attack,Team Liquid,LOUD
+309,8,13,2,6,0,6,7,0,6,6,0,LOUD,Attack,Team Liquid,LOUD
+310,10,13,7,3,0,8,5,0,7,5,2,T1,Defense,FunPlus Phoenix,T1
+310,7,13,4,3,0,9,4,0,3,9,-6,FunPlus Phoenix,Defense,FunPlus Phoenix,T1
+311,13,7,8,5,0,3,4,0,8,4,4,Paper Rex,Attack,Paper Rex,EDward Gaming
+311,16,14,7,5,4,7,5,2,5,7,-2,EDward Gaming,Attack,Paper Rex,EDward Gaming
+312,10,13,7,3,0,8,5,0,7,5,2,GIANTX,Defense,KRÜ Esports,GIANTX
+312,12,14,5,7,0,5,7,2,5,7,-2,KRÜ Esports,Attack,KRÜ Esports,GIANTX
+313,13,15,5,7,1,5,7,3,7,5,2,NRG Esports,Attack,ZETA DIVISION,NRG Esports
+313,1,13,0,1,0,11,2,0,1,11,-10,ZETA DIVISION,Defense,ZETA DIVISION,NRG Esports
+314,13,11,5,8,0,4,7,0,8,4,4,LOUD,Attack,Natus Vincere,LOUD
+314,11,13,5,6,0,6,7,0,6,6,0,Natus Vincere,Defense,Natus Vincere,LOUD
+314,11,13,6,5,0,7,6,0,5,7,-2,Natus Vincere,Defense,Natus Vincere,LOUD
+315,13,10,3,10,0,2,8,0,10,2,8,FUT Esports,Defense,FUT Esports,T1
+315,14,12,7,5,2,7,5,0,7,5,2,T1,Defense,FUT Esports,T1
+316,13,6,9,4,0,3,3,0,9,3,6,EDward Gaming,Attack,EDward Gaming,GIANTX
+316,13,7,5,8,0,4,3,0,8,4,4,GIANTX,Attack,EDward Gaming,GIANTX
+317,13,10,8,5,0,7,3,0,5,7,-2,Bilibili Gaming,Defense,Bilibili Gaming,NRG Esports
+317,13,5,8,5,0,1,4,0,8,4,4,NRG Esports,Defense,Bilibili Gaming,NRG Esports
+318,11,13,5,6,0,6,7,0,6,6,0,FNATIC,Defense,FNATIC,LOUD
+318,6,13,2,4,0,8,5,0,4,8,-4,LOUD,Attack,FNATIC,LOUD
+319,13,10,4,9,0,2,8,0,4,8,-4,Paper Rex,Attack,Paper Rex,FUT Esports
+319,13,4,11,2,0,3,1,0,11,1,10,FUT Esports,Defense,Paper Rex,FUT Esports
+320,13,10,2,11,0,0,10,0,2,10,-8,DRX,Attack,DRX,Bilibili Gaming
+320,13,9,7,6,0,4,5,0,7,5,2,Bilibili Gaming,Defense,DRX,Bilibili Gaming
+321,12,14,8,4,0,8,4,2,4,8,-4,Evil Geniuses,Defense,Evil Geniuses,EDward Gaming
+321,13,5,5,8,0,4,1,0,8,4,4,EDward Gaming,Attack,Evil Geniuses,EDward Gaming
+321,13,5,5,8,0,4,1,0,8,4,4,EDward Gaming,Attack,Evil Geniuses,EDward Gaming
+322,13,5,10,3,0,3,2,0,10,2,8,FUT Esports,Defense,FNATIC,FUT Esports
+322,13,9,5,8,0,2,7,0,5,7,-2,FNATIC,Attack,FNATIC,FUT Esports
+323,4,13,2,2,0,10,3,0,2,10,-8,EDward Gaming,Attack,Bilibili Gaming,EDward Gaming
+323,15,13,4,8,3,4,8,1,8,4,4,Bilibili Gaming,Defense,Bilibili Gaming,EDward Gaming
+323,10,13,6,4,0,7,6,0,6,6,0,Bilibili Gaming,Attack,Bilibili Gaming,EDward Gaming
+324,13,15,5,7,1,5,7,3,7,5,2,Paper Rex,Attack,LOUD,Paper Rex
+324,13,2,10,3,0,0,2,0,10,2,8,LOUD,Attack,LOUD,Paper Rex
+324,10,13,5,5,0,7,6,0,5,7,-2,LOUD,Defense,LOUD,Paper Rex
+325,9,13,4,5,0,5,8,0,4,8,-4,DRX,Attack,DRX,Evil Geniuses
+325,4,13,2,2,0,10,3,0,2,10,-8,Evil Geniuses,Attack,DRX,Evil Geniuses
+326,11,13,5,6,0,6,7,0,6,6,0,LOUD,Defense,LOUD,EDward Gaming
+326,13,5,5,8,0,4,1,0,8,4,4,EDward Gaming,Attack,LOUD,EDward Gaming
+326,13,11,7,6,0,6,5,0,6,6,0,EDward Gaming,Attack,LOUD,EDward Gaming
+327,13,1,2,11,0,1,0,0,11,1,10,DRX,Defense,DRX,FNATIC
+327,9,13,3,6,0,6,7,0,6,6,0,FNATIC,Attack,DRX,FNATIC
+327,6,13,1,5,0,7,6,0,5,7,-2,FNATIC,Attack,DRX,FNATIC
+328,10,13,7,3,0,8,5,0,7,5,2,Paper Rex,Attack,Paper Rex,Evil Geniuses
+328,13,9,5,8,0,2,7,0,5,7,-2,Evil Geniuses,Defense,Paper Rex,Evil Geniuses
+328,15,13,6,6,3,6,6,1,6,6,0,Evil Geniuses,Defense,Paper Rex,Evil Geniuses
+329,4,13,0,4,0,8,5,0,4,8,-4,LOUD,Attack,FNATIC,LOUD
+329,13,9,8,5,0,7,2,0,5,7,-2,FNATIC,Defense,FNATIC,LOUD
+329,7,13,4,3,0,5,8,0,4,8,-4,FNATIC,Attack,FNATIC,LOUD
+330,14,12,7,5,2,7,5,0,7,5,2,LOUD,Defense,Evil Geniuses,LOUD
+330,13,4,10,3,0,2,2,0,10,2,8,Evil Geniuses,Attack,Evil Geniuses,LOUD
+330,8,13,5,3,0,9,4,0,3,9,-6,LOUD,Attack,Evil Geniuses,LOUD
+330,7,13,4,3,0,9,4,0,3,9,-6,Evil Geniuses,Defense,Evil Geniuses,LOUD
+330,13,8,7,6,0,3,5,0,7,5,2,LOUD,Defense,Evil Geniuses,LOUD
+331,10,13,8,2,0,9,4,0,8,4,4,Evil Geniuses,Defense,Paper Rex,Evil Geniuses
+331,13,11,7,6,0,6,5,0,7,5,2,Paper Rex,Attack,Paper Rex,Evil Geniuses
+331,5,13,3,2,0,4,9,0,3,9,-6,Evil Geniuses,Defense,Paper Rex,Evil Geniuses
+331,10,13,7,3,0,8,5,0,7,5,2,Paper Rex,Attack,Paper Rex,Evil Geniuses
+332,13,10,5,8,0,4,6,0,8,4,4,NRG Esports,Defense,NRG Esports,FURIA
+332,13,8,6,7,0,2,6,0,6,6,0,FURIA,Defense,NRG Esports,FURIA
+333,13,11,8,5,0,7,4,0,5,7,-2,MIBR,Attack,Cloud9,MIBR
+333,8,13,2,6,0,6,7,0,6,6,0,Cloud9,Defense,Cloud9,MIBR
+333,13,10,5,8,0,3,7,0,5,7,-2,Cloud9,Attack,Cloud9,MIBR
+334,13,11,4,9,0,3,8,0,4,8,-4,LOUD,Attack,LOUD,Sentinels
+334,13,9,5,8,0,2,7,0,5,7,-2,Sentinels,Defense,LOUD,Sentinels
+335,13,9,7,6,0,4,5,0,7,5,2,LEVIATÁN,Attack,LEVIATÁN,100 Thieves
+335,3,13,3,0,0,4,9,0,3,9,-6,100 Thieves,Defense,LEVIATÁN,100 Thieves
+335,13,11,6,7,0,5,6,0,7,5,2,100 Thieves,Attack,LEVIATÁN,100 Thieves
+336,13,9,7,6,0,6,3,0,6,6,0,KRÜ Esports,Defense,KRÜ Esports,G2 Esports
+336,9,13,6,3,0,7,6,0,6,6,0,G2 Esports,Defense,KRÜ Esports,G2 Esports
+336,11,13,7,4,0,8,5,0,7,5,2,G2 Esports,Defense,KRÜ Esports,G2 Esports
+337,9,13,7,2,0,8,5,0,7,5,2,FURIA,Attack,FURIA,MIBR
+337,11,13,3,8,0,4,9,0,8,4,4,MIBR,Attack,FURIA,MIBR
+338,13,5,9,4,0,2,3,0,9,3,6,Sentinels,Attack,Sentinels,100 Thieves
+338,6,13,2,4,0,8,5,0,4,8,-4,100 Thieves,Attack,Sentinels,100 Thieves
+338,13,8,7,6,0,3,5,0,7,5,2,100 Thieves,Defense,Sentinels,100 Thieves
+339,13,7,5,8,0,4,3,0,8,4,4,NRG Esports,Defense,NRG Esports,Cloud9
+339,14,12,5,7,2,5,7,0,5,7,-2,Cloud9,Defense,NRG Esports,Cloud9
+340,11,13,8,3,0,9,4,0,3,9,-6,LOUD,Defense,LOUD,LEVIATÁN
+340,13,10,7,6,0,6,4,0,6,6,0,LEVIATÁN,Attack,LOUD,LEVIATÁN
+340,13,7,9,4,0,4,3,0,9,3,6,LEVIATÁN,Defense,LOUD,LEVIATÁN
+341,13,15,8,4,1,8,4,3,8,4,4,Evil Geniuses,Defense,G2 Esports,Evil Geniuses
+341,11,13,5,6,0,6,7,0,5,7,-2,G2 Esports,Attack,G2 Esports,Evil Geniuses
+342,12,14,7,5,0,7,5,2,5,7,-2,MIBR,Attack,Cloud9,MIBR
+342,9,13,4,5,0,7,6,0,5,7,-2,Cloud9,Defense,Cloud9,MIBR
+343,3,13,3,0,0,4,9,0,3,9,-6,LEVIATÁN,Attack,LEVIATÁN,Sentinels
+343,13,6,9,4,0,3,3,0,9,3,6,Sentinels,Defense,LEVIATÁN,Sentinels
+343,9,13,3,6,0,6,7,0,6,6,0,Sentinels,Attack,LEVIATÁN,Sentinels
+344,13,8,6,7,0,5,3,0,7,5,2,G2 Esports,Defense,G2 Esports,KRÜ Esports
+344,13,8,8,5,0,7,1,0,5,7,-2,KRÜ Esports,Attack,G2 Esports,KRÜ Esports
+345,7,13,2,5,0,3,10,0,2,10,-8,MIBR,Attack,MIBR,Sentinels
+345,6,13,5,1,0,6,7,0,5,7,-2,Sentinels,Defense,MIBR,Sentinels
+346,9,13,3,6,0,6,7,0,6,6,0,MIBR,Attack,G2 Esports,MIBR
+346,15,13,7,5,3,7,5,1,5,7,-2,G2 Esports,Defense,G2 Esports,MIBR
+346,10,13,4,6,0,6,7,0,6,6,0,G2 Esports,Defense,G2 Esports,MIBR
+347,13,8,4,9,0,0,8,0,4,8,-4,G2 Esports,Defense,Sentinels,G2 Esports
+347,9,13,6,3,0,9,4,0,3,9,-6,Sentinels,Defense,Sentinels,G2 Esports
+347,9,13,2,7,0,5,8,0,7,5,2,Sentinels,Defense,Sentinels,G2 Esports
+348,13,7,4,9,0,3,4,0,9,3,6,Evil Geniuses,Defense,Evil Geniuses,LOUD
+348,7,13,3,4,0,8,5,0,4,8,-4,LOUD,Attack,Evil Geniuses,LOUD
+348,5,13,4,1,0,5,8,0,4,8,-4,LOUD,Defense,Evil Geniuses,LOUD
+349,14,16,5,7,2,5,7,4,7,5,2,NRG Esports,Defense,NRG Esports,Sentinels
+349,13,8,8,5,0,4,4,0,8,4,4,Sentinels,Defense,NRG Esports,Sentinels
+349,3,13,1,2,0,2,11,0,1,11,-10,Sentinels,Defense,NRG Esports,Sentinels
+350,9,13,5,4,0,8,5,0,4,8,-4,Sentinels,Attack,LOUD,Sentinels
+350,3,13,3,0,0,4,9,0,3,9,-6,LOUD,Attack,LOUD,Sentinels
+350,13,11,8,5,0,7,4,0,8,4,4,Sentinels,Defense,LOUD,Sentinels
+350,13,8,9,4,0,5,3,0,9,3,6,LOUD,Attack,LOUD,Sentinels
+350,4,13,2,2,0,10,3,0,2,10,-8,Sentinels,Attack,LOUD,Sentinels
+351,18,16,6,6,6,6,6,4,6,6,0,T1,Attack,T1,BLEED
+351,13,6,9,4,0,3,3,0,9,3,6,BLEED,Defense,T1,BLEED
+352,13,11,6,7,0,5,6,0,6,6,0,Gen.G,Attack,Gen.G,Rex Regum Qeon
+352,11,13,2,9,0,3,10,0,2,10,-8,Rex Regum Qeon,Defense,Gen.G,Rex Regum Qeon
+352,13,8,5,8,0,4,4,0,8,4,4,Rex Regum Qeon,Attack,Gen.G,Rex Regum Qeon
+353,13,10,6,7,0,5,5,0,7,5,2,ZETA DIVISION,Defense,ZETA DIVISION,Global Esports
+353,13,7,7,6,0,6,1,0,6,6,0,Global Esports,Attack,ZETA DIVISION,Global Esports
+354,8,13,3,5,0,4,9,0,3,9,-6,Team Secret,Attack,Team Secret,TALON
+354,3,13,3,0,0,4,9,0,3,9,-6,TALON,Defense,Team Secret,TALON
+355,13,8,6,7,0,5,3,0,7,5,2,DRX,Defense,DRX,DetonatioN FocusMe
+355,13,8,5,8,0,4,4,0,8,4,4,DetonatioN FocusMe,Attack,DRX,DetonatioN FocusMe
+356,13,10,7,6,0,6,4,0,6,6,0,Paper Rex,Attack,Gen.G,Paper Rex
+356,10,13,5,5,0,6,7,0,5,7,-2,Gen.G,Attack,Gen.G,Paper Rex
+356,7,13,2,5,0,3,10,0,2,10,-8,Gen.G,Attack,Gen.G,Paper Rex
+357,9,13,4,5,0,7,6,0,5,7,-2,BLEED,Defense,BLEED,Global Esports
+357,13,10,9,4,0,8,2,0,4,8,-4,Global Esports,Attack,BLEED,Global Esports
+357,11,13,7,4,0,8,5,0,4,8,-4,Global Esports,Attack,BLEED,Global Esports
+358,11,13,6,5,0,7,6,0,5,7,-2,T1,Defense,T1,ZETA DIVISION
+358,13,4,4,9,0,3,1,0,9,3,6,ZETA DIVISION,Attack,T1,ZETA DIVISION
+358,13,7,5,8,0,4,3,0,8,4,4,ZETA DIVISION,Attack,T1,ZETA DIVISION
+359,7,13,4,3,0,9,4,0,3,9,-6,Team Secret,Attack,DetonatioN FocusMe,Team Secret
+359,11,13,5,6,0,6,7,0,5,7,-2,DetonatioN FocusMe,Attack,DetonatioN FocusMe,Team Secret
+360,13,10,8,5,0,6,4,0,8,4,4,TALON,Defense,DRX,TALON
+360,13,8,7,6,0,6,2,0,6,6,0,DRX,Defense,DRX,TALON
+361,13,7,5,8,0,0,7,0,5,7,-2,Gen.G,Attack,Gen.G,Rex Regum Qeon
+361,10,13,7,3,0,9,4,0,3,9,-6,Rex Regum Qeon,Attack,Gen.G,Rex Regum Qeon
+361,13,11,8,5,0,7,4,0,8,4,4,Rex Regum Qeon,Defense,Gen.G,Rex Regum Qeon
+362,8,13,4,4,0,5,8,0,4,8,-4,TALON,Attack,TALON,Team Secret
+362,7,13,7,0,0,8,5,0,7,5,2,Team Secret,Defense,TALON,Team Secret
+363,13,8,5,8,0,4,4,0,8,4,4,ZETA DIVISION,Defense,ZETA DIVISION,Global Esports
+363,13,3,9,4,0,0,3,0,9,3,6,Global Esports,Defense,ZETA DIVISION,Global Esports
+364,13,5,5,8,0,4,1,0,8,4,4,Gen.G,Attack,Team Secret,Gen.G
+364,9,13,8,1,0,9,4,0,8,4,4,Team Secret,Attack,Team Secret,Gen.G
+364,13,15,4,8,1,4,8,3,4,8,-4,Team Secret,Attack,Team Secret,Gen.G
+365,1,13,0,1,0,11,2,0,1,11,-10,ZETA DIVISION,Defense,ZETA DIVISION,Team Secret
+365,8,13,7,1,0,8,5,0,7,5,2,Team Secret,Defense,ZETA DIVISION,Team Secret
+366,13,6,8,5,0,2,4,0,8,4,4,ZETA DIVISION,Defense,Gen.G,ZETA DIVISION
+366,13,4,3,10,0,2,2,0,10,2,8,Gen.G,Defense,Gen.G,ZETA DIVISION
+367,14,16,8,4,2,8,4,4,8,4,4,T1,Attack,T1,Paper Rex
+367,6,13,2,4,0,8,5,0,4,8,-4,Paper Rex,Attack,T1,Paper Rex
+368,12,14,7,5,0,7,5,2,7,5,2,Gen.G,Defense,DRX,Gen.G
+368,8,13,5,3,0,9,4,0,3,9,-6,DRX,Defense,DRX,Gen.G
+369,5,13,5,0,0,6,7,0,5,7,-2,Paper Rex,Attack,Paper Rex,Gen.G
+369,13,4,8,5,0,0,4,0,8,4,4,Gen.G,Defense,Paper Rex,Gen.G
+369,11,13,7,4,0,8,5,0,7,5,2,Paper Rex,Attack,Paper Rex,Gen.G
+369,4,13,0,4,0,8,5,0,4,8,-4,Gen.G,Attack,Paper Rex,Gen.G
+370,11,13,7,4,0,8,5,0,7,5,2,FUT Esports,Attack,FUT Esports,Team Heretics
+370,10,13,5,5,0,7,6,0,5,7,-2,Team Heretics,Attack,FUT Esports,Team Heretics
+371,11,13,6,5,0,7,6,0,6,6,0,GIANTX,Attack,GIANTX,Karmine Corp
+371,13,10,7,6,0,5,5,0,7,5,2,Karmine Corp,Defense,GIANTX,Karmine Corp
+371,4,13,3,1,0,4,9,0,3,9,-6,Karmine Corp,Defense,GIANTX,Karmine Corp
+372,8,13,4,4,0,5,8,0,4,8,-4,BBL Esports,Defense,Natus Vincere,BBL Esports
+372,13,6,7,6,0,6,0,0,6,6,0,Natus Vincere,Defense,Natus Vincere,BBL Esports
+372,13,6,4,9,0,3,3,0,9,3,6,Natus Vincere,Defense,Natus Vincere,BBL Esports
+373,13,10,8,5,0,7,3,0,5,7,-2,KOI,Attack,Team Liquid,KOI
+373,13,11,8,5,0,7,4,0,5,7,-2,Team Liquid,Defense,Team Liquid,KOI
+374,13,10,8,5,0,6,4,0,8,4,4,Gentle Mates,Defense,Team Vitality,Gentle Mates
+374,13,7,6,7,0,5,2,0,7,5,2,Team Vitality,Defense,Team Vitality,Gentle Mates
+375,13,4,4,9,0,3,1,0,9,3,6,Team Heretics,Defense,Team Heretics,Karmine Corp
+375,13,4,5,8,0,4,0,0,8,4,4,Karmine Corp,Attack,Team Heretics,Karmine Corp
+376,13,6,5,8,0,4,2,0,8,4,4,FUT Esports,Defense,FUT Esports,GIANTX
+376,8,13,3,5,0,7,6,0,5,7,-2,GIANTX,Attack,FUT Esports,GIANTX
+376,13,7,7,6,0,2,5,0,7,5,2,GIANTX,Defense,FUT Esports,GIANTX
+377,13,7,8,5,0,7,0,0,5,7,-2,Natus Vincere,Defense,Natus Vincere,Team Liquid
+377,13,7,6,7,0,1,6,0,6,6,0,Team Liquid,Defense,Natus Vincere,Team Liquid
+378,5,13,3,2,0,10,3,0,2,10,-8,KOI,Attack,BBL Esports,KOI
+378,10,13,4,6,0,6,7,0,6,6,0,BBL Esports,Defense,BBL Esports,KOI
+379,12,14,8,4,0,8,4,2,4,8,-4,Team Vitality,Defense,Team Vitality,FNATIC
+379,5,13,5,0,0,6,7,0,5,7,-2,FNATIC,Defense,Team Vitality,FNATIC
+380,4,13,2,2,0,10,3,0,2,10,-8,Team Vitality,Defense,Team Vitality,Gentle Mates
+380,15,13,7,5,3,7,5,1,5,7,-2,Gentle Mates,Attack,Team Vitality,Gentle Mates
+380,13,3,11,2,0,2,1,0,11,1,10,Gentle Mates,Defense,Team Vitality,Gentle Mates
+381,20,18,6,6,8,6,6,6,6,6,0,Karmine Corp,Attack,Karmine Corp,FUT Esports
+381,4,13,1,3,0,9,4,0,3,9,-6,FUT Esports,Attack,Karmine Corp,FUT Esports
+381,13,7,3,10,0,2,5,0,10,2,8,FUT Esports,Attack,Karmine Corp,FUT Esports
+382,11,13,4,7,0,5,8,0,7,5,2,Team Liquid,Defense,Team Liquid,KOI
+382,14,12,6,6,2,6,6,0,6,6,0,KOI,Attack,Team Liquid,KOI
+382,10,13,5,5,0,6,7,0,5,7,-2,KOI,Defense,Team Liquid,KOI
+383,13,8,5,8,0,4,4,0,8,4,4,Team Vitality,Attack,Karmine Corp,Team Vitality
+383,15,13,7,5,3,7,5,1,7,5,2,Karmine Corp,Attack,Karmine Corp,Team Vitality
+384,9,13,7,2,0,10,3,0,2,10,-8,Team Vitality,Attack,KOI,Team Vitality
+384,6,13,0,6,0,6,7,0,6,6,0,KOI,Defense,KOI,Team Vitality
+385,13,4,5,8,0,4,0,0,8,4,4,KOI,Attack,Karmine Corp,KOI
+385,13,7,9,4,0,4,3,0,9,3,6,Karmine Corp,Attack,Karmine Corp,KOI
+386,16,14,4,8,4,4,8,2,4,8,-4,Natus Vincere,Defense,Team Heretics,Natus Vincere
+386,13,4,10,3,0,2,2,0,10,2,8,Team Heretics,Attack,Team Heretics,Natus Vincere
+387,10,13,4,6,0,5,8,0,4,8,-4,Karmine Corp,Defense,FNATIC,Karmine Corp
+387,8,13,3,5,0,7,6,0,5,7,-2,FNATIC,Defense,FNATIC,Karmine Corp
+388,13,9,4,9,0,3,6,0,9,3,6,Team Heretics,Defense,Team Heretics,Karmine Corp
+388,7,13,6,1,0,11,2,0,1,11,-10,Karmine Corp,Attack,Team Heretics,Karmine Corp
+388,7,13,4,3,0,5,8,0,4,8,-4,Team Heretics,Attack,Team Heretics,Karmine Corp
+388,5,13,4,1,0,5,8,0,4,8,-4,Karmine Corp,Defense,Team Heretics,Karmine Corp
+389,13,4,5,8,0,4,0,0,8,4,4,Trace Esports,Defense,Trace Esports,TYLOO
+389,13,3,2,11,0,1,2,0,11,1,10,TYLOO,Attack,Trace Esports,TYLOO
+390,13,10,7,6,0,5,5,0,7,5,2,FunPlus Phoenix,Attack,FunPlus Phoenix,Nova Esports
+390,13,5,6,7,0,5,0,0,7,5,2,Nova Esports,Attack,FunPlus Phoenix,Nova Esports
+391,8,13,6,2,0,7,6,0,6,6,0,Titan Esports Club,Defense,JDG Esports,Titan Esports Club
+391,14,16,4,8,2,4,8,4,8,4,4,JDG Esports,Defense,JDG Esports,Titan Esports Club
+392,13,11,8,5,0,7,4,0,5,7,-2,Dragon Ranger Gaming,Defense,Dragon Ranger Gaming,All Gamers
+392,13,4,4,9,0,3,1,0,9,3,6,All Gamers,Attack,Dragon Ranger Gaming,All Gamers
+393,9,13,3,6,0,4,9,0,3,9,-6,Wolves Esports,Defense,Bilibili Gaming,Wolves Esports
+393,7,13,2,5,0,7,6,0,5,7,-2,Bilibili Gaming,Defense,Bilibili Gaming,Wolves Esports
+394,11,13,6,5,0,7,6,0,5,7,-2,Nova Esports,Attack,TYLOO,Nova Esports
+394,11,13,6,5,0,7,6,0,5,7,-2,TYLOO,Defense,TYLOO,Nova Esports
+395,13,11,6,7,0,5,6,0,7,5,2,JDG Esports,Defense,JDG Esports,All Gamers
+395,13,8,6,7,0,2,6,0,6,6,0,All Gamers,Defense,JDG Esports,All Gamers
+396,11,13,7,4,0,8,5,0,7,5,2,Trace Esports,Attack,Trace Esports,FunPlus Phoenix
+396,13,11,8,5,0,7,4,0,8,4,4,FunPlus Phoenix,Defense,Trace Esports,FunPlus Phoenix
+396,10,13,5,5,0,7,6,0,5,7,-2,FunPlus Phoenix,Attack,Trace Esports,FunPlus Phoenix
+397,11,13,1,10,0,2,11,0,10,2,8,Titan Esports Club,Defense,Titan Esports Club,Dragon Ranger Gaming
+397,13,8,7,6,0,6,2,0,6,6,0,Dragon Ranger Gaming,Attack,Titan Esports Club,Dragon Ranger Gaming
+397,10,13,4,6,0,6,7,0,6,6,0,Dragon Ranger Gaming,Attack,Titan Esports Club,Dragon Ranger Gaming
+398,10,13,5,5,0,6,7,0,5,7,-2,Wolves Esports,Attack,Wolves Esports,EDward Gaming
+398,13,10,6,7,0,4,6,0,6,6,0,EDward Gaming,Defense,Wolves Esports,EDward Gaming
+398,11,13,4,7,0,5,8,0,7,5,2,EDward Gaming,Attack,Wolves Esports,EDward Gaming
+399,13,5,6,7,0,5,0,0,7,5,2,Trace Esports,Defense,Trace Esports,Nova Esports
+399,13,4,5,8,0,4,0,0,8,4,4,Nova Esports,Attack,Trace Esports,Nova Esports
+400,5,13,1,4,0,8,5,0,4,8,-4,Titan Esports Club,Defense,Titan Esports Club,JDG Esports
+400,14,12,7,5,2,7,5,0,7,5,2,JDG Esports,Defense,Titan Esports Club,JDG Esports
+400,13,10,7,6,0,6,4,0,6,6,0,JDG Esports,Attack,Titan Esports Club,JDG Esports
+401,9,13,2,7,0,5,8,0,7,5,2,Wolves Esports,Defense,Wolves Esports,Bilibili Gaming
+401,10,13,3,7,0,4,9,0,3,9,-6,Bilibili Gaming,Defense,Wolves Esports,Bilibili Gaming
+402,16,18,7,5,4,7,5,6,7,5,2,Trace Esports,Attack,Trace Esports,Titan Esports Club
+402,13,6,10,3,0,4,2,0,10,2,8,Titan Esports Club,Defense,Trace Esports,Titan Esports Club
+402,13,8,9,4,0,5,3,0,9,3,6,Titan Esports Club,Defense,Trace Esports,Titan Esports Club
+403,13,3,4,9,0,3,0,0,9,3,6,Bilibili Gaming,Defense,Bilibili Gaming,Titan Esports Club
+403,13,8,7,6,0,3,5,0,7,5,2,Titan Esports Club,Defense,Bilibili Gaming,Titan Esports Club
+404,13,11,4,9,0,3,8,0,9,3,6,Bilibili Gaming,Defense,Bilibili Gaming,Trace Esports
+404,13,15,6,6,1,6,6,3,6,6,0,Trace Esports,Attack,Bilibili Gaming,Trace Esports
+404,12,14,4,8,0,4,8,2,4,8,-4,Trace Esports,Defense,Bilibili Gaming,Trace Esports
+405,13,10,5,8,0,4,6,0,8,4,4,FunPlus Phoenix,Defense,FunPlus Phoenix,Dragon Ranger Gaming
+405,13,6,4,9,0,3,3,0,9,3,6,Dragon Ranger Gaming,Attack,FunPlus Phoenix,Dragon Ranger Gaming
+406,14,12,7,5,2,7,5,0,7,5,2,EDward Gaming,Attack,EDward Gaming,Trace Esports
+406,13,6,8,5,0,2,4,0,8,4,4,Trace Esports,Defense,EDward Gaming,Trace Esports
+407,12,14,5,7,0,5,7,2,5,7,-2,EDward Gaming,Defense,FunPlus Phoenix,EDward Gaming
+407,6,13,1,5,0,7,6,0,5,7,-2,FunPlus Phoenix,Defense,FunPlus Phoenix,EDward Gaming
+407,13,8,7,6,0,6,2,0,6,6,0,EDward Gaming,Attack,FunPlus Phoenix,EDward Gaming
+407,14,16,6,6,2,6,6,4,6,6,0,FunPlus Phoenix,Defense,FunPlus Phoenix,EDward Gaming
+408,13,8,6,7,0,5,3,0,7,5,2,Karmine Corp,Defense,Karmine Corp,FunPlus Phoenix
+408,13,10,9,4,0,8,2,0,4,8,-4,FunPlus Phoenix,Attack,Karmine Corp,FunPlus Phoenix
+409,13,11,6,7,0,5,6,0,6,6,0,Gen.G,Attack,Gen.G,LOUD
+409,8,13,5,3,0,9,4,0,3,9,-6,LOUD,Attack,Gen.G,LOUD
+409,13,5,9,4,0,2,3,0,9,3,6,LOUD,Defense,Gen.G,LOUD
+410,8,13,5,3,0,9,4,0,3,9,-6,EDward Gaming,Defense,EDward Gaming,Paper Rex
+410,13,9,5,8,0,4,5,0,8,4,4,Paper Rex,Attack,EDward Gaming,Paper Rex
+410,13,9,5,8,0,4,5,0,8,4,4,Paper Rex,Attack,EDward Gaming,Paper Rex
+411,13,9,9,4,0,8,1,0,4,8,-4,Team Heretics,Attack,Sentinels,Team Heretics
+411,5,13,4,1,0,5,8,0,4,8,-4,Sentinels,Attack,Sentinels,Team Heretics
+411,13,11,6,7,0,5,6,0,6,6,0,Sentinels,Attack,Sentinels,Team Heretics
+412,13,8,6,7,0,2,6,0,6,6,0,Karmine Corp,Defense,Sentinels,Karmine Corp
+412,13,11,7,6,0,6,5,0,7,5,2,Sentinels,Attack,Sentinels,Karmine Corp
+413,13,8,8,5,0,4,4,0,8,4,4,EDward Gaming,Attack,EDward Gaming,Gen.G
+413,5,13,0,5,0,7,6,0,5,7,-2,Gen.G,Attack,EDward Gaming,Gen.G
+413,6,13,5,1,0,11,2,0,1,11,-10,Gen.G,Attack,EDward Gaming,Gen.G
+414,5,13,4,1,0,5,8,0,4,8,-4,FunPlus Phoenix,Attack,FunPlus Phoenix,LOUD
+414,11,13,4,7,0,5,8,0,7,5,2,LOUD,Attack,FunPlus Phoenix,LOUD
+415,10,13,4,6,0,6,7,0,6,6,0,Team Heretics,Defense,Team Heretics,Paper Rex
+415,13,10,6,7,0,5,5,0,7,5,2,Paper Rex,Attack,Team Heretics,Paper Rex
+415,7,13,1,6,0,6,7,0,6,6,0,Paper Rex,Attack,Team Heretics,Paper Rex
+416,13,2,11,2,0,1,1,0,11,1,10,LOUD,Attack,LOUD,EDward Gaming
+416,13,3,4,9,0,3,0,0,9,3,6,EDward Gaming,Attack,LOUD,EDward Gaming
+417,10,13,6,4,0,8,5,0,4,8,-4,Karmine Corp,Defense,Karmine Corp,Paper Rex
+417,13,6,5,8,0,4,2,0,8,4,4,Paper Rex,Attack,Karmine Corp,Paper Rex
+417,12,14,5,7,0,5,7,2,7,5,2,Paper Rex,Attack,Karmine Corp,Paper Rex
+418,13,8,8,5,0,4,4,0,8,4,4,Gen.G,Attack,Gen.G,Paper Rex
+418,13,9,5,8,0,4,5,0,8,4,4,Paper Rex,Attack,Gen.G,Paper Rex
+419,13,4,9,4,0,1,3,0,9,3,6,LOUD,Defense,Sentinels,LOUD
+419,12,14,5,7,0,5,7,2,5,7,-2,Sentinels,Attack,Sentinels,LOUD
+419,14,12,7,5,2,7,5,0,7,5,2,Sentinels,Attack,Sentinels,LOUD
+420,13,5,8,5,0,1,4,0,8,4,4,Gen.G,Attack,Gen.G,Sentinels
+420,7,13,2,5,0,7,6,0,5,7,-2,Sentinels,Attack,Gen.G,Sentinels
+420,13,3,4,9,0,3,0,0,9,3,6,Sentinels,Attack,Gen.G,Sentinels
+421,13,11,6,7,0,5,6,0,6,6,0,Paper Rex,Attack,Paper Rex,LOUD
+421,13,8,6,7,0,5,3,0,7,5,2,LOUD,Attack,Paper Rex,LOUD
+422,14,12,6,6,2,6,6,0,6,6,0,Paper Rex,Attack,Sentinels,Paper Rex
+422,13,6,7,6,0,6,0,0,6,6,0,Sentinels,Defense,Sentinels,Paper Rex
+422,5,13,4,1,0,5,8,0,4,8,-4,Paper Rex,Defense,Sentinels,Paper Rex
+422,13,3,4,9,0,3,0,0,9,3,6,Sentinels,Defense,Sentinels,Paper Rex
+423,13,8,7,6,0,3,5,0,7,5,2,Sentinels,Defense,Gen.G,Sentinels
+423,12,14,6,6,0,6,6,2,6,6,0,Gen.G,Attack,Gen.G,Sentinels
+423,13,8,6,7,0,2,6,0,6,6,0,Sentinels,Defense,Gen.G,Sentinels
+423,10,13,4,6,0,5,8,0,4,8,-4,Gen.G,Attack,Gen.G,Sentinels
+423,6,13,5,1,0,6,7,0,5,7,-2,Sentinels,Defense,Gen.G,Sentinels
+424,13,4,4,9,0,3,1,0,9,3,6,Karmine Corp,Defense,Karmine Corp,GIANTX
+424,13,9,6,7,0,3,6,0,6,6,0,GIANTX,Defense,Karmine Corp,GIANTX
+425,9,13,8,1,0,9,4,0,8,4,4,Team Liquid,Defense,KOI,Team Liquid
+425,7,13,3,4,0,8,5,0,4,8,-4,KOI,Defense,KOI,Team Liquid
+426,9,13,4,5,0,7,6,0,5,7,-2,Team Vitality,Defense,Team Vitality,Natus Vincere
+426,4,13,1,3,0,9,4,0,3,9,-6,Natus Vincere,Attack,Team Vitality,Natus Vincere
+427,4,13,1,3,0,9,4,0,3,9,-6,Team Heretics,Attack,FNATIC,Team Heretics
+427,15,17,7,5,3,7,5,5,7,5,2,FNATIC,Attack,FNATIC,Team Heretics
+428,5,13,3,2,0,10,3,0,2,10,-8,Team Liquid,Defense,Team Liquid,FUT Esports
+428,8,13,4,4,0,5,8,0,4,8,-4,FUT Esports,Defense,Team Liquid,FUT Esports
+429,7,13,3,4,0,8,5,0,4,8,-4,Gentle Mates,Attack,BBL Esports,Gentle Mates
+429,11,13,5,6,0,6,7,0,6,6,0,BBL Esports,Defense,BBL Esports,Gentle Mates
+430,13,11,7,6,0,6,5,0,7,5,2,Karmine Corp,Attack,Karmine Corp,FUT Esports
+430,8,13,5,3,0,9,4,0,3,9,-6,FUT Esports,Attack,Karmine Corp,FUT Esports
+430,7,13,1,6,0,6,7,0,6,6,0,FUT Esports,Attack,Karmine Corp,FUT Esports
+431,13,9,7,6,0,6,3,0,6,6,0,Team Heretics,Attack,Team Vitality,Team Heretics
+431,11,13,5,6,0,6,7,0,5,7,-2,Team Vitality,Attack,Team Vitality,Team Heretics
+431,13,9,8,5,0,5,4,0,8,4,4,Team Vitality,Attack,Team Vitality,Team Heretics
+432,13,10,5,8,0,4,6,0,8,4,4,Natus Vincere,Attack,Team Liquid,Natus Vincere
+432,11,13,10,1,0,11,2,0,10,2,8,Team Liquid,Attack,Team Liquid,Natus Vincere
+432,5,13,2,3,0,9,4,0,3,9,-6,Team Liquid,Defense,Team Liquid,Natus Vincere
+433,13,4,4,9,0,3,1,0,9,3,6,BBL Esports,Defense,BBL Esports,KOI
+433,13,3,4,9,0,3,0,0,9,3,6,KOI,Attack,BBL Esports,KOI
+434,13,5,7,6,0,0,5,0,7,5,2,FNATIC,Attack,FNATIC,GIANTX
+434,5,13,4,1,0,5,8,0,4,8,-4,GIANTX,Defense,FNATIC,GIANTX
+434,13,7,9,4,0,4,3,0,9,3,6,GIANTX,Defense,FNATIC,GIANTX
+435,13,6,4,9,0,3,3,0,9,3,6,Gentle Mates,Attack,Karmine Corp,Gentle Mates
+435,13,6,3,10,0,2,4,0,10,2,8,Karmine Corp,Defense,Karmine Corp,Gentle Mates
+436,6,13,3,3,0,4,9,0,3,9,-6,FNATIC,Defense,Gentle Mates,FNATIC
+436,4,13,4,0,0,5,8,0,4,8,-4,Gentle Mates,Attack,Gentle Mates,FNATIC
+437,13,7,8,5,0,3,4,0,8,4,4,Karmine Corp,Attack,Karmine Corp,Natus Vincere
+437,7,13,2,5,0,7,6,0,5,7,-2,Natus Vincere,Attack,Karmine Corp,Natus Vincere
+437,6,13,3,3,0,4,9,0,3,9,-6,Natus Vincere,Defense,Karmine Corp,Natus Vincere
+438,13,7,7,6,0,2,5,0,7,5,2,Team Heretics,Defense,BBL Esports,Team Heretics
+438,13,10,7,6,0,6,4,0,6,6,0,BBL Esports,Defense,BBL Esports,Team Heretics
+439,7,13,3,4,0,8,5,0,4,8,-4,Team Vitality,Defense,Team Vitality,FUT Esports
+439,13,9,7,6,0,6,3,0,6,6,0,FUT Esports,Attack,Team Vitality,FUT Esports
+439,13,9,6,7,0,3,6,0,6,6,0,FUT Esports,Defense,Team Vitality,FUT Esports
+440,14,16,7,5,2,7,5,4,5,7,-2,Team Liquid,Defense,Team Liquid,GIANTX
+440,13,7,9,4,0,4,3,0,9,3,6,GIANTX,Defense,Team Liquid,GIANTX
+440,13,11,4,9,0,3,8,0,4,8,-4,GIANTX,Defense,Team Liquid,GIANTX
+441,13,11,10,3,0,9,2,0,3,9,-6,KOI,Attack,FNATIC,KOI
+441,13,4,8,5,0,0,4,0,8,4,4,FNATIC,Attack,FNATIC,KOI
+442,2,13,0,2,0,10,3,0,2,10,-8,Team Liquid,Defense,Team Liquid,Team Heretics
+442,7,13,5,2,0,6,7,0,5,7,-2,Team Heretics,Defense,Team Liquid,Team Heretics
+443,5,13,4,1,0,5,8,0,4,8,-4,Gentle Mates,Defense,Team Vitality,Gentle Mates
+443,5,13,2,3,0,3,10,0,2,10,-8,Team Vitality,Attack,Team Vitality,Gentle Mates
+444,7,13,5,2,0,6,7,0,5,7,-2,FNATIC,Attack,FNATIC,FUT Esports
+444,13,15,6,6,1,6,6,3,6,6,0,FUT Esports,Attack,FNATIC,FUT Esports
+445,8,13,3,5,0,7,6,0,5,7,-2,BBL Esports,Defense,BBL Esports,Natus Vincere
+445,13,8,5,8,0,4,4,0,8,4,4,Natus Vincere,Attack,BBL Esports,Natus Vincere
+445,13,9,6,7,0,3,6,0,6,6,0,Natus Vincere,Defense,BBL Esports,Natus Vincere
+446,14,16,7,5,2,7,5,4,7,5,2,Team Vitality,Attack,Team Vitality,GIANTX
+446,13,7,9,4,0,4,3,0,9,3,6,GIANTX,Defense,Team Vitality,GIANTX
+446,13,6,7,6,0,1,5,0,7,5,2,GIANTX,Defense,Team Vitality,GIANTX
+447,13,7,8,5,0,3,4,0,8,4,4,Karmine Corp,Attack,Karmine Corp,KOI
+447,7,13,4,3,0,9,4,0,3,9,-6,KOI,Attack,Karmine Corp,KOI
+447,15,13,4,8,3,4,8,1,8,4,4,KOI,Attack,Karmine Corp,KOI
+448,6,13,1,5,0,7,6,0,5,7,-2,BBL Esports,Defense,BBL Esports,GIANTX
+448,11,13,5,6,0,6,7,0,6,6,0,GIANTX,Attack,BBL Esports,GIANTX
+449,12,14,6,6,0,6,6,2,6,6,0,Team Heretics,Attack,Karmine Corp,Team Heretics
+449,13,5,10,3,0,3,2,0,10,2,8,Karmine Corp,Attack,Karmine Corp,Team Heretics
+449,9,13,8,1,0,9,4,0,8,4,4,Karmine Corp,Attack,Karmine Corp,Team Heretics
+450,5,13,5,0,0,6,7,0,5,7,-2,Team Vitality,Attack,Team Vitality,KOI
+450,13,7,6,7,0,1,6,0,6,6,0,KOI,Defense,Team Vitality,KOI
+450,4,13,3,1,0,4,9,0,3,9,-6,KOI,Defense,Team Vitality,KOI
+451,6,13,5,1,0,6,7,0,5,7,-2,Natus Vincere,Attack,Natus Vincere,FNATIC
+451,13,8,9,4,0,5,3,0,9,3,6,FNATIC,Defense,Natus Vincere,FNATIC
+451,13,3,4,9,0,3,0,0,9,3,6,FNATIC,Attack,Natus Vincere,FNATIC
+452,13,4,8,5,0,0,4,0,8,4,4,Gentle Mates,Defense,Team Liquid,Gentle Mates
+452,13,2,10,3,0,0,2,0,10,2,8,Team Liquid,Attack,Team Liquid,Gentle Mates
+453,9,13,4,5,0,5,8,0,4,8,-4,BBL Esports,Attack,BBL Esports,FUT Esports
+453,6,13,3,3,0,9,4,0,3,9,-6,FUT Esports,Attack,BBL Esports,FUT Esports
+454,13,11,3,10,0,2,9,0,3,9,-6,FNATIC,Attack,FNATIC,Team Liquid
+454,12,14,5,7,0,5,7,2,5,7,-2,Team Liquid,Defense,FNATIC,Team Liquid
+454,13,5,2,11,0,1,4,0,11,1,10,Team Liquid,Attack,FNATIC,Team Liquid
+455,11,13,7,4,0,8,5,0,7,5,2,Natus Vincere,Attack,Natus Vincere,Team Heretics
+455,9,13,6,3,0,7,6,0,6,6,0,Team Heretics,Defense,Natus Vincere,Team Heretics
+456,11,13,9,2,0,10,3,0,9,3,6,Karmine Corp,Attack,Karmine Corp,FNATIC
+456,9,13,8,1,0,9,4,0,8,4,4,FNATIC,Defense,Karmine Corp,FNATIC
+457,10,13,6,4,0,7,6,0,6,6,0,FUT Esports,Attack,FUT Esports,Team Heretics
+457,13,15,5,7,1,5,7,3,5,7,-2,Team Heretics,Defense,FUT Esports,Team Heretics
+458,13,15,6,6,1,6,6,3,6,6,0,FNATIC,Defense,FNATIC,Team Heretics
+458,4,13,4,0,0,5,8,0,4,8,-4,Team Heretics,Defense,FNATIC,Team Heretics
+459,3,13,1,2,0,10,3,0,2,10,-8,FUT Esports,Attack,Karmine Corp,FUT Esports
+459,10,13,4,6,0,5,8,0,4,8,-4,Karmine Corp,Attack,Karmine Corp,FUT Esports
+460,11,13,8,3,0,9,4,0,3,9,-6,FUT Esports,Attack,FNATIC,FUT Esports
+460,13,6,7,6,0,6,0,0,6,6,0,FNATIC,Defense,FNATIC,FUT Esports
+460,13,11,7,6,0,6,5,0,6,6,0,FUT Esports,Attack,FNATIC,FUT Esports
+460,14,12,4,8,2,4,8,0,4,8,-4,FNATIC,Attack,FNATIC,FUT Esports
+461,13,7,5,8,0,4,3,0,8,4,4,FNATIC,Attack,Team Heretics,FNATIC
+461,15,13,6,6,3,6,6,1,6,6,0,Team Heretics,Defense,Team Heretics,FNATIC
+461,8,13,7,1,0,8,5,0,7,5,2,FNATIC,Defense,Team Heretics,FNATIC
+461,5,13,0,5,0,7,6,0,5,7,-2,Team Heretics,Defense,Team Heretics,FNATIC
+461,8,13,4,4,0,5,8,0,4,8,-4,FNATIC,Defense,Team Heretics,FNATIC
+462,3,13,0,3,0,9,4,0,3,9,-6,Bilibili Gaming,Defense,Bilibili Gaming,TYLOO
+462,13,6,6,7,0,5,1,0,7,5,2,TYLOO,Attack,Bilibili Gaming,TYLOO
+462,13,6,7,6,0,1,5,0,7,5,2,TYLOO,Defense,Bilibili Gaming,TYLOO
+463,13,5,3,10,0,2,3,0,10,2,8,Wolves Esports,Defense,Wolves Esports,Titan Esports Club
+463,12,14,8,4,0,8,4,2,4,8,-4,Titan Esports Club,Attack,Wolves Esports,Titan Esports Club
+463,10,13,4,6,0,6,7,0,6,6,0,Titan Esports Club,Attack,Wolves Esports,Titan Esports Club
+464,13,11,5,8,0,4,7,0,5,7,-2,Dragon Ranger Gaming,Attack,Dragon Ranger Gaming,All Gamers
+464,11,13,5,6,0,6,7,0,6,6,0,All Gamers,Attack,Dragon Ranger Gaming,All Gamers
+464,8,13,2,6,0,6,7,0,6,6,0,All Gamers,Attack,Dragon Ranger Gaming,All Gamers
+465,13,5,7,6,0,0,5,0,7,5,2,EDward Gaming,Attack,EDward Gaming,JDG Esports
+465,9,13,4,5,0,5,8,0,4,8,-4,JDG Esports,Defense,EDward Gaming,JDG Esports
+465,13,11,8,5,0,7,4,0,8,4,4,JDG Esports,Defense,EDward Gaming,JDG Esports
+466,5,13,5,0,0,6,7,0,5,7,-2,Nova Esports,Attack,Nova Esports,Trace Esports
+466,9,13,6,3,0,7,6,0,6,6,0,Trace Esports,Defense,Nova Esports,Trace Esports
+467,13,8,6,7,0,5,3,0,7,5,2,FunPlus Phoenix,Defense,FunPlus Phoenix,Wolves Esports
+467,13,7,5,8,0,4,3,0,8,4,4,Wolves Esports,Attack,FunPlus Phoenix,Wolves Esports
+468,13,8,7,6,0,6,2,0,6,6,0,JDG Esports,Defense,JDG Esports,Nova Esports
+468,9,13,5,4,0,6,7,0,5,7,-2,Nova Esports,Defense,JDG Esports,Nova Esports
+468,4,13,2,2,0,3,10,0,2,10,-8,Nova Esports,Defense,JDG Esports,Nova Esports
+469,13,11,5,8,0,4,7,0,8,4,4,Dragon Ranger Gaming,Attack,FunPlus Phoenix,Dragon Ranger Gaming
+469,9,13,6,3,0,9,4,0,3,9,-6,FunPlus Phoenix,Defense,FunPlus Phoenix,Dragon Ranger Gaming
+469,13,3,11,2,0,2,1,0,11,1,10,FunPlus Phoenix,Attack,FunPlus Phoenix,Dragon Ranger Gaming
+470,9,13,5,4,0,6,7,0,5,7,-2,Wolves Esports,Defense,All Gamers,Wolves Esports
+470,12,14,9,3,0,9,3,2,9,3,6,All Gamers,Attack,All Gamers,Wolves Esports
+471,11,13,4,7,0,5,8,0,4,8,-4,Bilibili Gaming,Defense,Trace Esports,Bilibili Gaming
+471,13,7,9,4,0,4,3,0,9,3,6,Trace Esports,Attack,Trace Esports,Bilibili Gaming
+471,13,7,6,7,0,5,2,0,7,5,2,Trace Esports,Defense,Trace Esports,Bilibili Gaming
+472,4,13,3,1,0,4,9,0,3,9,-6,Dragon Ranger Gaming,Attack,Dragon Ranger Gaming,Titan Esports Club
+472,13,7,7,6,0,2,5,0,7,5,2,Titan Esports Club,Defense,Dragon Ranger Gaming,Titan Esports Club
+472,13,5,11,2,0,4,1,0,11,1,10,Titan Esports Club,Defense,Dragon Ranger Gaming,Titan Esports Club
+473,5,13,5,0,0,6,7,0,5,7,-2,TYLOO,Attack,TYLOO,EDward Gaming
+473,10,13,4,6,0,6,7,0,6,6,0,EDward Gaming,Attack,TYLOO,EDward Gaming
+474,9,13,2,7,0,3,10,0,2,10,-8,Trace Esports,Defense,Wolves Esports,Trace Esports
+474,9,13,4,5,0,5,8,0,4,8,-4,Wolves Esports,Attack,Wolves Esports,Trace Esports
+475,6,13,6,0,0,7,6,0,6,6,0,FunPlus Phoenix,Defense,Nova Esports,FunPlus Phoenix
+475,4,13,0,4,0,8,5,0,4,8,-4,Nova Esports,Defense,Nova Esports,FunPlus Phoenix
+476,11,13,5,6,0,6,7,0,6,6,0,All Gamers,Attack,Bilibili Gaming,All Gamers
+476,7,13,6,1,0,7,6,0,6,6,0,Bilibili Gaming,Attack,Bilibili Gaming,All Gamers
+477,13,7,4,9,0,3,4,0,9,3,6,Dragon Ranger Gaming,Defense,Dragon Ranger Gaming,JDG Esports
+477,5,13,3,2,0,10,3,0,2,10,-8,JDG Esports,Attack,Dragon Ranger Gaming,JDG Esports
+477,14,12,4,8,2,4,8,0,4,8,-4,JDG Esports,Defense,Dragon Ranger Gaming,JDG Esports
+478,10,13,6,4,0,7,6,0,6,6,0,Nova Esports,Defense,TYLOO,Nova Esports
+478,14,12,5,7,2,5,7,0,5,7,-2,TYLOO,Attack,TYLOO,Nova Esports
+478,13,9,8,5,0,7,2,0,5,7,-2,TYLOO,Defense,TYLOO,Nova Esports
+479,13,5,8,5,0,1,4,0,8,4,4,Titan Esports Club,Defense,EDward Gaming,Titan Esports Club
+479,13,5,10,3,0,3,2,0,10,2,8,EDward Gaming,Attack,EDward Gaming,Titan Esports Club
+480,13,11,7,6,0,6,5,0,7,5,2,Titan Esports Club,Attack,Titan Esports Club,Bilibili Gaming
+480,8,13,4,4,0,8,5,0,4,8,-4,Bilibili Gaming,Attack,Titan Esports Club,Bilibili Gaming
+480,13,6,5,8,0,4,2,0,8,4,4,Bilibili Gaming,Attack,Titan Esports Club,Bilibili Gaming
+481,7,13,6,1,0,7,6,0,6,6,0,Trace Esports,Attack,Trace Esports,Dragon Ranger Gaming
+481,10,13,6,4,0,7,6,0,6,6,0,Dragon Ranger Gaming,Defense,Trace Esports,Dragon Ranger Gaming
+482,11,13,6,5,0,7,6,0,5,7,-2,TYLOO,Defense,TYLOO,Wolves Esports
+482,13,7,6,7,0,1,6,0,6,6,0,Wolves Esports,Defense,TYLOO,Wolves Esports
+482,10,13,5,5,0,6,7,0,5,7,-2,Wolves Esports,Defense,TYLOO,Wolves Esports
+483,4,13,1,3,0,9,4,0,3,9,-6,EDward Gaming,Attack,FunPlus Phoenix,EDward Gaming
+483,13,11,5,8,0,4,7,0,8,4,4,FunPlus Phoenix,Defense,FunPlus Phoenix,EDward Gaming
+483,13,4,5,8,0,4,0,0,8,4,4,FunPlus Phoenix,Defense,FunPlus Phoenix,EDward Gaming
+484,16,14,8,4,4,8,4,2,8,4,4,Nova Esports,Defense,All Gamers,Nova Esports
+484,10,13,6,4,0,7,6,0,6,6,0,All Gamers,Attack,All Gamers,Nova Esports
+484,13,7,5,8,0,4,3,0,8,4,4,All Gamers,Defense,All Gamers,Nova Esports
+485,13,8,7,6,0,6,2,0,6,6,0,Bilibili Gaming,Defense,Bilibili Gaming,JDG Esports
+485,13,10,8,5,0,7,3,0,5,7,-2,JDG Esports,Attack,Bilibili Gaming,JDG Esports
+486,13,6,9,4,0,3,3,0,9,3,6,EDward Gaming,Attack,EDward Gaming,All Gamers
+486,13,5,5,8,0,4,1,0,8,4,4,All Gamers,Attack,EDward Gaming,All Gamers
+487,8,13,6,2,0,7,6,0,6,6,0,Wolves Esports,Attack,Wolves Esports,JDG Esports
+487,1,13,1,0,0,2,11,0,1,11,-10,JDG Esports,Defense,Wolves Esports,JDG Esports
+488,10,13,4,6,0,5,8,0,4,8,-4,Dragon Ranger Gaming,Attack,Dragon Ranger Gaming,TYLOO
+488,8,13,5,3,0,6,7,0,5,7,-2,TYLOO,Defense,Dragon Ranger Gaming,TYLOO
+489,2,13,1,1,0,11,2,0,1,11,-10,FunPlus Phoenix,Attack,Bilibili Gaming,FunPlus Phoenix
+489,6,13,5,1,0,11,2,0,1,11,-10,Bilibili Gaming,Defense,Bilibili Gaming,FunPlus Phoenix
+490,13,6,9,4,0,3,3,0,9,3,6,Titan Esports Club,Defense,Nova Esports,Titan Esports Club
+490,13,6,4,9,0,3,3,0,9,3,6,Nova Esports,Defense,Nova Esports,Titan Esports Club
+491,13,15,8,4,1,8,4,3,4,8,-4,EDward Gaming,Attack,Trace Esports,EDward Gaming
+491,12,14,7,5,0,7,5,2,7,5,2,Trace Esports,Attack,Trace Esports,EDward Gaming
+492,13,9,5,8,0,4,5,0,8,4,4,All Gamers,Attack,Trace Esports,All Gamers
+492,13,7,9,4,0,4,3,0,9,3,6,Trace Esports,Attack,Trace Esports,All Gamers
+493,13,8,7,6,0,6,2,0,6,6,0,Dragon Ranger Gaming,Defense,Dragon Ranger Gaming,Nova Esports
+493,13,7,7,6,0,2,5,0,7,5,2,Nova Esports,Defense,Dragon Ranger Gaming,Nova Esports
+494,13,10,9,4,0,8,2,0,4,8,-4,FunPlus Phoenix,Defense,FunPlus Phoenix,Trace Esports
+494,13,8,6,7,0,5,3,0,7,5,2,Trace Esports,Attack,FunPlus Phoenix,Trace Esports
+495,13,3,9,4,0,0,3,0,9,3,6,EDward Gaming,Attack,EDward Gaming,Dragon Ranger Gaming
+495,13,9,5,8,0,2,7,0,5,7,-2,Dragon Ranger Gaming,Defense,EDward Gaming,Dragon Ranger Gaming
+496,13,10,6,7,0,5,5,0,7,5,2,EDward Gaming,Attack,FunPlus Phoenix,EDward Gaming
+496,14,12,9,3,2,9,3,0,3,9,-6,FunPlus Phoenix,Defense,FunPlus Phoenix,EDward Gaming
+497,13,6,8,5,0,2,4,0,8,4,4,Dragon Ranger Gaming,Defense,Trace Esports,Dragon Ranger Gaming
+497,8,13,3,5,0,7,6,0,5,7,-2,Trace Esports,Defense,Trace Esports,Dragon Ranger Gaming
+497,7,13,5,2,0,6,7,0,5,7,-2,Trace Esports,Attack,Trace Esports,Dragon Ranger Gaming
+498,13,10,8,5,0,6,4,0,8,4,4,Dragon Ranger Gaming,Defense,EDward Gaming,Dragon Ranger Gaming
+498,13,3,3,10,0,2,1,0,10,2,8,EDward Gaming,Defense,EDward Gaming,Dragon Ranger Gaming
+498,2,13,2,0,0,3,10,0,2,10,-8,Dragon Ranger Gaming,Defense,EDward Gaming,Dragon Ranger Gaming
+498,13,6,7,6,0,1,5,0,7,5,2,EDward Gaming,Attack,EDward Gaming,Dragon Ranger Gaming
+499,13,6,4,9,0,3,3,0,9,3,6,EDward Gaming,Attack,FunPlus Phoenix,EDward Gaming
+499,9,13,7,2,0,8,5,0,7,5,2,FunPlus Phoenix,Attack,FunPlus Phoenix,EDward Gaming
+499,12,14,8,4,0,8,4,2,8,4,4,EDward Gaming,Defense,FunPlus Phoenix,EDward Gaming
+499,8,13,3,5,0,7,6,0,5,7,-2,FunPlus Phoenix,Defense,FunPlus Phoenix,EDward Gaming
+500,1,13,1,0,0,2,11,0,1,11,-10,Global Esports,Attack,Global Esports,ZETA DIVISION
+500,13,10,5,8,0,4,6,0,8,4,4,ZETA DIVISION,Attack,Global Esports,ZETA DIVISION
+500,8,13,6,2,0,7,6,0,6,6,0,ZETA DIVISION,Defense,Global Esports,ZETA DIVISION
+501,8,13,5,3,0,9,4,0,3,9,-6,DRX,Attack,Team Secret,DRX
+501,8,13,5,3,0,6,7,0,5,7,-2,Team Secret,Attack,Team Secret,DRX
+502,13,9,7,6,0,4,5,0,7,5,2,BLEED,Attack,BLEED,TALON
+502,7,13,2,5,0,7,6,0,5,7,-2,TALON,Attack,BLEED,TALON
+502,6,13,4,2,0,10,3,0,2,10,-8,TALON,Attack,BLEED,TALON
+503,10,13,2,8,0,4,9,0,8,4,4,Paper Rex,Attack,T1,Paper Rex
+503,12,14,6,6,0,6,6,2,6,6,0,T1,Attack,T1,Paper Rex
+504,10,13,7,3,0,9,4,0,3,9,-6,Rex Regum Qeon,Attack,Team Secret,Rex Regum Qeon
+504,13,6,6,7,0,0,6,0,6,6,0,Team Secret,Attack,Team Secret,Rex Regum Qeon
+504,12,14,5,7,0,5,7,2,5,7,-2,Team Secret,Attack,Team Secret,Rex Regum Qeon
+505,8,13,5,3,0,9,4,0,3,9,-6,DRX,Attack,Global Esports,DRX
+505,6,13,3,3,0,4,9,0,3,9,-6,Global Esports,Attack,Global Esports,DRX
+506,13,9,4,9,0,3,6,0,9,3,6,TALON,Attack,Gen.G,TALON
+506,13,8,3,10,0,2,6,0,10,2,8,Gen.G,Defense,Gen.G,TALON
+507,10,13,3,7,0,5,8,0,7,5,2,T1,Defense,T1,DetonatioN FocusMe
+507,13,5,4,9,0,3,2,0,9,3,6,DetonatioN FocusMe,Attack,T1,DetonatioN FocusMe
+507,11,13,6,5,0,7,6,0,6,6,0,DetonatioN FocusMe,Defense,T1,DetonatioN FocusMe
+508,13,11,9,4,0,8,3,0,4,8,-4,Paper Rex,Attack,Gen.G,Paper Rex
+508,11,13,3,8,0,4,9,0,8,4,4,Gen.G,Defense,Gen.G,Paper Rex
+508,6,13,2,4,0,3,10,0,2,10,-8,Gen.G,Attack,Gen.G,Paper Rex
+509,13,9,8,5,0,7,2,0,5,7,-2,DRX,Attack,T1,DRX
+509,5,13,2,3,0,3,10,0,2,10,-8,T1,Attack,T1,DRX
+509,6,13,3,3,0,4,9,0,3,9,-6,T1,Attack,T1,DRX
+510,13,8,6,7,0,5,3,0,7,5,2,ZETA DIVISION,Attack,Team Secret,ZETA DIVISION
+510,6,13,5,1,0,6,7,0,5,7,-2,Team Secret,Attack,Team Secret,ZETA DIVISION
+510,13,7,9,4,0,4,3,0,9,3,6,Team Secret,Attack,Team Secret,ZETA DIVISION
+511,2,13,0,2,0,10,3,0,2,10,-8,Rex Regum Qeon,Attack,BLEED,Rex Regum Qeon
+511,5,13,4,1,0,5,8,0,4,8,-4,BLEED,Attack,BLEED,Rex Regum Qeon
+512,13,8,7,6,0,6,2,0,6,6,0,Gen.G,Defense,Gen.G,DetonatioN FocusMe
+512,13,7,7,6,0,6,1,0,6,6,0,DetonatioN FocusMe,Attack,Gen.G,DetonatioN FocusMe
+513,13,4,9,4,0,1,3,0,9,3,6,Global Esports,Attack,Global Esports,TALON
+513,12,14,6,6,0,6,6,2,6,6,0,TALON,Attack,Global Esports,TALON
+513,6,13,1,5,0,7,6,0,5,7,-2,TALON,Attack,Global Esports,TALON
+514,13,6,7,6,0,6,0,0,6,6,0,T1,Defense,T1,Rex Regum Qeon
+514,13,8,7,6,0,6,2,0,6,6,0,Rex Regum Qeon,Attack,T1,Rex Regum Qeon
+515,9,13,3,6,0,6,7,0,6,6,0,ZETA DIVISION,Attack,BLEED,ZETA DIVISION
+515,13,9,6,7,0,5,4,0,7,5,2,BLEED,Defense,BLEED,ZETA DIVISION
+515,8,13,3,5,0,4,9,0,3,9,-6,BLEED,Attack,BLEED,ZETA DIVISION
+516,10,13,6,4,0,8,5,0,4,8,-4,Gen.G,Defense,Gen.G,DRX
+516,13,9,8,5,0,7,2,0,5,7,-2,DRX,Attack,Gen.G,DRX
+516,7,13,6,1,0,7,6,0,6,6,0,DRX,Defense,Gen.G,DRX
+517,9,13,2,7,0,5,8,0,7,5,2,DetonatioN FocusMe,Attack,BLEED,DetonatioN FocusMe
+517,13,7,10,3,0,5,2,0,10,2,8,BLEED,Attack,BLEED,DetonatioN FocusMe
+517,13,4,3,10,0,2,2,0,10,2,8,BLEED,Defense,BLEED,DetonatioN FocusMe
+518,13,10,7,6,0,5,5,0,7,5,2,Global Esports,Attack,Global Esports,Rex Regum Qeon
+518,13,4,8,5,0,0,4,0,8,4,4,Rex Regum Qeon,Defense,Global Esports,Rex Regum Qeon
+519,13,9,5,8,0,4,5,0,8,4,4,Paper Rex,Attack,Team Secret,Paper Rex
+519,13,8,7,6,0,3,5,0,7,5,2,Team Secret,Attack,Team Secret,Paper Rex
+520,11,13,6,5,0,7,6,0,5,7,-2,TALON,Attack,T1,TALON
+520,10,13,5,5,0,6,7,0,5,7,-2,T1,Attack,T1,TALON
+521,13,8,6,7,0,5,3,0,7,5,2,Gen.G,Defense,Gen.G,ZETA DIVISION
+521,14,12,7,5,2,7,5,0,7,5,2,ZETA DIVISION,Defense,Gen.G,ZETA DIVISION
+522,13,4,10,3,0,2,2,0,10,2,8,Team Secret,Attack,Team Secret,DetonatioN FocusMe
+522,9,13,1,8,0,4,9,0,8,4,4,DetonatioN FocusMe,Attack,Team Secret,DetonatioN FocusMe
+522,13,2,1,12,0,0,2,0,12,0,12,DetonatioN FocusMe,Attack,Team Secret,DetonatioN FocusMe
+523,4,13,2,2,0,10,3,0,2,10,-8,Global Esports,Defense,Global Esports,Paper Rex
+523,7,13,2,5,0,7,6,0,5,7,-2,Paper Rex,Attack,Global Esports,Paper Rex
+524,5,13,3,2,0,4,9,0,3,9,-6,Paper Rex,Defense,BLEED,Paper Rex
+524,6,13,5,1,0,6,7,0,5,7,-2,BLEED,Attack,BLEED,Paper Rex
+525,10,13,6,4,0,7,6,0,6,6,0,DetonatioN FocusMe,Defense,Global Esports,DetonatioN FocusMe
+525,13,5,11,2,0,4,1,0,11,1,10,Global Esports,Attack,Global Esports,DetonatioN FocusMe
+525,13,11,7,6,0,6,5,0,6,6,0,Global Esports,Defense,Global Esports,DetonatioN FocusMe
+526,11,13,6,5,0,7,6,0,6,6,0,T1,Attack,T1,ZETA DIVISION
+526,13,9,8,5,0,5,4,0,8,4,4,ZETA DIVISION,Defense,T1,ZETA DIVISION
+526,13,10,6,7,0,4,6,0,6,6,0,ZETA DIVISION,Defense,T1,ZETA DIVISION
+527,13,11,3,10,0,2,9,0,3,9,-6,TALON,Defense,Team Secret,TALON
+527,11,13,5,6,0,6,7,0,5,7,-2,Team Secret,Attack,Team Secret,TALON
+527,10,13,7,3,0,8,5,0,7,5,2,Team Secret,Attack,Team Secret,TALON
+528,9,13,5,4,0,6,7,0,5,7,-2,BLEED,Attack,BLEED,DRX
+528,4,13,2,2,0,10,3,0,2,10,-8,DRX,Attack,BLEED,DRX
+529,13,3,2,11,0,1,2,0,11,1,10,Gen.G,Defense,Gen.G,Rex Regum Qeon
+529,11,13,5,6,0,6,7,0,6,6,0,Rex Regum Qeon,Attack,Gen.G,Rex Regum Qeon
+529,10,13,5,5,0,6,7,0,5,7,-2,Rex Regum Qeon,Defense,Gen.G,Rex Regum Qeon
+530,7,13,5,2,0,6,7,0,5,7,-2,Team Secret,Attack,Team Secret,T1
+530,11,13,2,9,0,3,10,0,9,3,6,T1,Attack,Team Secret,T1
+531,13,0,12,1,0,0,0,0,12,0,12,Paper Rex,Attack,Paper Rex,TALON
+531,13,9,3,10,0,2,7,0,10,2,8,TALON,Attack,Paper Rex,TALON
+531,7,13,4,3,0,9,4,0,3,9,-6,TALON,Attack,Paper Rex,TALON
+532,9,13,3,6,0,4,9,0,3,9,-6,T1,Defense,Gen.G,T1
+532,13,8,7,6,0,6,2,0,6,6,0,Gen.G,Defense,Gen.G,T1
+532,7,13,3,4,0,8,5,0,4,8,-4,Gen.G,Defense,Gen.G,T1
+533,6,13,4,2,0,5,8,0,4,8,-4,DRX,Attack,DRX,Paper Rex
+533,13,10,5,8,0,3,7,0,5,7,-2,Paper Rex,Defense,DRX,Paper Rex
+533,6,13,2,4,0,8,5,0,4,8,-4,Paper Rex,Attack,DRX,Paper Rex
+534,3,13,2,1,0,11,2,0,1,11,-10,Paper Rex,Attack,T1,Paper Rex
+534,5,13,2,3,0,3,10,0,2,10,-8,T1,Attack,T1,Paper Rex
+535,8,13,2,6,0,6,7,0,6,6,0,Gen.G,Defense,Gen.G,DRX
+535,13,11,9,4,0,8,3,0,4,8,-4,DRX,Attack,Gen.G,DRX
+535,13,8,8,5,0,4,4,0,8,4,4,DRX,Defense,Gen.G,DRX
+536,2,13,2,0,0,3,10,0,2,10,-8,Gen.G,Defense,T1,Gen.G
+536,11,13,4,7,0,5,8,0,4,8,-4,T1,Attack,T1,Gen.G
+536,9,13,5,4,0,6,7,0,5,7,-2,Gen.G,Defense,T1,Gen.G
+537,9,13,6,3,0,7,6,0,6,6,0,Gen.G,Defense,Paper Rex,Gen.G
+537,13,9,6,7,0,5,4,0,7,5,2,Paper Rex,Defense,Paper Rex,Gen.G
+537,13,11,7,6,0,6,5,0,7,5,2,Gen.G,Defense,Paper Rex,Gen.G
+537,9,13,6,3,0,7,6,0,6,6,0,Paper Rex,Attack,Paper Rex,Gen.G
+537,13,8,5,8,0,1,7,0,5,7,-2,Gen.G,Defense,Paper Rex,Gen.G
+538,7,13,4,3,0,9,4,0,3,9,-6,LEVIATÁN,Attack,Cloud9,LEVIATÁN
+538,13,7,7,6,0,6,1,0,6,6,0,Cloud9,Defense,Cloud9,LEVIATÁN
+538,18,16,7,5,6,7,5,4,5,7,-2,Cloud9,Defense,Cloud9,LEVIATÁN
+539,13,10,8,5,0,7,3,0,5,7,-2,LOUD,Attack,NRG Esports,LOUD
+539,13,2,10,3,0,0,2,0,10,2,8,NRG Esports,Attack,NRG Esports,LOUD
+540,13,8,7,6,0,6,2,0,6,6,0,Evil Geniuses,Attack,G2 Esports,Evil Geniuses
+540,13,3,4,9,0,3,0,0,9,3,6,G2 Esports,Defense,G2 Esports,Evil Geniuses
+541,13,10,8,5,0,7,3,0,5,7,-2,Sentinels,Defense,Sentinels,100 Thieves
+541,13,6,7,6,0,1,5,0,7,5,2,100 Thieves,Defense,Sentinels,100 Thieves
+542,13,7,10,3,0,5,2,0,10,2,8,KRÜ Esports,Attack,KRÜ Esports,FURIA
+542,11,13,7,4,0,8,5,0,4,8,-4,FURIA,Attack,KRÜ Esports,FURIA
+542,13,7,6,7,0,5,2,0,7,5,2,FURIA,Attack,KRÜ Esports,FURIA
+543,9,13,5,4,0,8,5,0,4,8,-4,G2 Esports,Defense,G2 Esports,100 Thieves
+543,8,13,4,4,0,5,8,0,4,8,-4,100 Thieves,Defense,G2 Esports,100 Thieves
+544,17,19,9,3,5,9,3,7,3,9,-6,LEVIATÁN,Attack,Sentinels,LEVIATÁN
+544,11,13,6,5,0,7,6,0,5,7,-2,Sentinels,Defense,Sentinels,LEVIATÁN
+545,13,6,7,6,0,1,5,0,7,5,2,MIBR,Defense,KRÜ Esports,MIBR
+545,13,8,6,7,0,5,3,0,7,5,2,KRÜ Esports,Defense,KRÜ Esports,MIBR
+546,13,2,10,3,0,0,2,0,10,2,8,NRG Esports,Attack,NRG Esports,FURIA
+546,13,8,7,6,0,6,2,0,6,6,0,FURIA,Attack,NRG Esports,FURIA
+547,9,13,2,7,0,5,8,0,7,5,2,Evil Geniuses,Attack,Cloud9,Evil Geniuses
+547,13,8,8,5,0,4,4,0,8,4,4,Cloud9,Attack,Cloud9,Evil Geniuses
+547,13,4,3,10,0,2,2,0,10,2,8,Cloud9,Defense,Cloud9,Evil Geniuses
+548,13,3,4,9,0,3,0,0,9,3,6,MIBR,Attack,Sentinels,MIBR
+548,13,7,9,4,0,4,3,0,9,3,6,Sentinels,Attack,Sentinels,MIBR
+549,11,13,5,6,0,6,7,0,6,6,0,LOUD,Attack,Cloud9,LOUD
+549,13,4,9,4,0,1,3,0,9,3,6,Cloud9,Attack,Cloud9,LOUD
+549,13,9,6,7,0,3,6,0,6,6,0,Cloud9,Attack,Cloud9,LOUD
+550,13,5,10,3,0,3,2,0,10,2,8,KRÜ Esports,Attack,KRÜ Esports,Evil Geniuses
+550,13,9,5,8,0,4,5,0,8,4,4,Evil Geniuses,Attack,KRÜ Esports,Evil Geniuses
+551,4,13,2,2,0,3,10,0,2,10,-8,LEVIATÁN,Defense,NRG Esports,LEVIATÁN
+551,4,13,1,3,0,2,11,0,1,11,-10,NRG Esports,Attack,NRG Esports,LEVIATÁN
+552,13,3,9,4,0,0,3,0,9,3,6,G2 Esports,Attack,G2 Esports,FURIA
+552,13,3,4,9,0,3,0,0,9,3,6,FURIA,Attack,G2 Esports,FURIA
+553,7,13,4,3,0,5,8,0,4,8,-4,Cloud9,Attack,Cloud9,100 Thieves
+553,6,13,1,5,0,2,11,0,1,11,-10,100 Thieves,Defense,Cloud9,100 Thieves
+554,13,10,10,3,0,9,1,0,3,9,-6,Evil Geniuses,Attack,Sentinels,Evil Geniuses
+554,11,13,10,1,0,11,2,0,10,2,8,Sentinels,Attack,Sentinels,Evil Geniuses
+554,10,13,6,4,0,7,6,0,6,6,0,Sentinels,Attack,Sentinels,Evil Geniuses
+555,13,9,7,6,0,4,5,0,7,5,2,NRG Esports,Attack,NRG Esports,MIBR
+555,13,3,4,9,0,3,0,0,9,3,6,MIBR,Attack,NRG Esports,MIBR
+556,6,13,2,4,0,3,10,0,2,10,-8,G2 Esports,Attack,G2 Esports,LEVIATÁN
+556,13,8,7,6,0,6,2,0,6,6,0,LEVIATÁN,Attack,G2 Esports,LEVIATÁN
+556,9,13,4,5,0,7,6,0,5,7,-2,LEVIATÁN,Attack,G2 Esports,LEVIATÁN
+557,13,8,8,5,0,7,1,0,5,7,-2,LOUD,Attack,KRÜ Esports,LOUD
+557,13,8,6,7,0,5,3,0,7,5,2,KRÜ Esports,Defense,KRÜ Esports,LOUD
+558,13,9,6,7,0,5,4,0,7,5,2,MIBR,Attack,G2 Esports,MIBR
+558,13,3,11,2,0,2,1,0,11,1,10,G2 Esports,Attack,G2 Esports,MIBR
+559,7,13,5,2,0,10,3,0,2,10,-8,LOUD,Attack,Sentinels,LOUD
+559,8,13,3,5,0,7,6,0,5,7,-2,Sentinels,Defense,Sentinels,LOUD
+560,2,13,2,0,0,12,1,0,0,12,-12,Cloud9,Defense,Cloud9,FURIA
+560,13,3,4,9,0,3,0,0,9,3,6,FURIA,Attack,Cloud9,FURIA
+560,13,8,5,8,0,4,4,0,8,4,4,FURIA,Attack,Cloud9,FURIA
+561,6,13,2,4,0,3,10,0,2,10,-8,Evil Geniuses,Defense,NRG Esports,Evil Geniuses
+561,16,14,6,6,4,6,6,2,6,6,0,NRG Esports,Attack,NRG Esports,Evil Geniuses
+561,11,13,6,5,0,7,6,0,5,7,-2,NRG Esports,Defense,NRG Esports,Evil Geniuses
+562,13,7,7,6,0,2,5,0,7,5,2,KRÜ Esports,Attack,KRÜ Esports,100 Thieves
+562,11,13,4,7,0,5,8,0,4,8,-4,100 Thieves,Defense,KRÜ Esports,100 Thieves
+562,13,8,6,7,0,2,6,0,6,6,0,100 Thieves,Defense,KRÜ Esports,100 Thieves
+563,13,5,5,8,0,4,1,0,8,4,4,FURIA,Attack,Sentinels,FURIA
+563,13,9,5,8,0,4,5,0,8,4,4,Sentinels,Defense,Sentinels,FURIA
+564,8,13,7,1,0,8,5,0,7,5,2,100 Thieves,Defense,NRG Esports,100 Thieves
+564,7,13,4,3,0,5,8,0,4,8,-4,NRG Esports,Attack,NRG Esports,100 Thieves
+565,4,13,3,1,0,4,9,0,3,9,-6,LEVIATÁN,Defense,KRÜ Esports,LEVIATÁN
+565,14,12,4,8,2,4,8,0,4,8,-4,KRÜ Esports,Attack,KRÜ Esports,LEVIATÁN
+565,10,13,6,4,0,7,6,0,6,6,0,KRÜ Esports,Attack,KRÜ Esports,LEVIATÁN
+566,14,12,3,9,2,3,9,0,9,3,6,MIBR,Attack,Cloud9,MIBR
+566,13,9,8,5,0,5,4,0,8,4,4,Cloud9,Attack,Cloud9,MIBR
+567,11,13,6,5,0,7,6,0,5,7,-2,LOUD,Attack,G2 Esports,LOUD
+567,4,13,3,1,0,4,9,0,3,9,-6,G2 Esports,Attack,G2 Esports,LOUD
+568,6,13,1,5,0,7,6,0,5,7,-2,G2 Esports,Attack,Cloud9,G2 Esports
+568,13,15,7,5,1,7,5,3,5,7,-2,Cloud9,Defense,Cloud9,G2 Esports
+569,13,6,5,8,0,4,2,0,8,4,4,LOUD,Attack,100 Thieves,LOUD
+569,13,4,3,10,0,2,2,0,10,2,8,100 Thieves,Defense,100 Thieves,LOUD
+570,5,13,4,1,0,5,8,0,4,8,-4,G2 Esports,Defense,KRÜ Esports,G2 Esports
+570,8,13,2,6,0,6,7,0,6,6,0,KRÜ Esports,Defense,KRÜ Esports,G2 Esports
+571,3,13,3,0,0,4,9,0,3,9,-6,LEVIATÁN,Attack,LEVIATÁN,100 Thieves
+571,14,12,8,4,2,8,4,0,8,4,4,100 Thieves,Defense,LEVIATÁN,100 Thieves
+571,10,13,6,4,0,7,6,0,6,6,0,100 Thieves,Defense,LEVIATÁN,100 Thieves
+572,5,13,5,0,0,6,7,0,5,7,-2,100 Thieves,Defense,G2 Esports,100 Thieves
+572,13,8,7,6,0,6,2,0,6,6,0,G2 Esports,Defense,G2 Esports,100 Thieves
+572,11,13,3,8,0,4,9,0,8,4,4,G2 Esports,Defense,G2 Esports,100 Thieves
+573,13,6,7,6,0,1,5,0,7,5,2,KRÜ Esports,Attack,KRÜ Esports,LEVIATÁN
+573,11,13,4,7,0,5,8,0,7,5,2,LEVIATÁN,Attack,KRÜ Esports,LEVIATÁN
+573,8,13,7,1,0,8,5,0,7,5,2,LEVIATÁN,Defense,KRÜ Esports,LEVIATÁN
+574,12,14,6,6,0,6,6,2,6,6,0,LEVIATÁN,Attack,G2 Esports,LEVIATÁN
+574,13,7,4,9,0,3,4,0,9,3,6,G2 Esports,Defense,G2 Esports,LEVIATÁN
+574,12,14,6,6,0,6,6,2,6,6,0,LEVIATÁN,Attack,G2 Esports,LEVIATÁN
+574,13,10,8,5,0,6,4,0,8,4,4,G2 Esports,Attack,G2 Esports,LEVIATÁN
+574,13,11,5,8,0,4,7,0,5,7,-2,LEVIATÁN,Defense,G2 Esports,LEVIATÁN
+575,13,9,4,9,0,1,8,0,4,8,-4,G2 Esports,Defense,100 Thieves,G2 Esports
+575,13,7,7,6,0,6,1,0,6,6,0,100 Thieves,Defense,100 Thieves,G2 Esports
+575,13,8,5,8,0,4,4,0,8,4,4,G2 Esports,Attack,100 Thieves,G2 Esports
+576,13,8,6,7,0,5,3,0,7,5,2,G2 Esports,Defense,G2 Esports,T1
+576,1,13,0,1,0,11,2,0,1,11,-10,T1,Attack,G2 Esports,T1
+576,14,12,3,9,2,3,9,0,3,9,-6,T1,Defense,G2 Esports,T1
+577,13,7,9,4,0,4,3,0,9,3,6,FunPlus Phoenix,Attack,FunPlus Phoenix,FUT Esports
+577,12,14,8,4,0,8,4,2,4,8,-4,FUT Esports,Attack,FunPlus Phoenix,FUT Esports
+577,13,10,9,4,0,8,2,0,4,8,-4,FUT Esports,Attack,FunPlus Phoenix,FUT Esports
+578,7,13,2,5,0,7,6,0,5,7,-2,Gen.G,Defense,Gen.G,LEVIATÁN
+578,13,5,6,7,0,5,0,0,7,5,2,LEVIATÁN,Attack,Gen.G,LEVIATÁN
+578,13,7,8,5,0,3,4,0,8,4,4,LEVIATÁN,Defense,Gen.G,LEVIATÁN
+579,13,5,5,8,0,4,1,0,8,4,4,Team Heretics,Defense,Team Heretics,Dragon Ranger Gaming
+579,13,5,7,6,0,0,5,0,7,5,2,Dragon Ranger Gaming,Defense,Team Heretics,Dragon Ranger Gaming
+580,16,14,10,2,4,10,2,2,10,2,8,FunPlus Phoenix,Attack,FunPlus Phoenix,Gen.G
+580,7,13,1,6,0,6,7,0,6,6,0,Gen.G,Attack,FunPlus Phoenix,Gen.G
+580,11,13,4,7,0,5,8,0,4,8,-4,Gen.G,Defense,FunPlus Phoenix,Gen.G
+581,9,13,4,5,0,5,8,0,4,8,-4,G2 Esports,Attack,G2 Esports,Team Heretics
+581,13,6,9,4,0,3,3,0,9,3,6,Team Heretics,Defense,G2 Esports,Team Heretics
+581,13,8,9,4,0,5,3,0,9,3,6,Team Heretics,Defense,G2 Esports,Team Heretics
+582,13,9,4,9,0,3,6,0,9,3,6,LEVIATÁN,Defense,LEVIATÁN,T1
+582,13,7,3,10,0,2,5,0,10,2,8,T1,Attack,LEVIATÁN,T1
+583,10,13,6,4,0,8,5,0,4,8,-4,Dragon Ranger Gaming,Defense,Dragon Ranger Gaming,FUT Esports
+583,12,14,5,7,0,5,7,2,5,7,-2,FUT Esports,Defense,Dragon Ranger Gaming,FUT Esports
+584,4,13,2,2,0,10,3,0,2,10,-8,FunPlus Phoenix,Defense,FunPlus Phoenix,Team Heretics
+584,13,6,8,5,0,2,4,0,8,4,4,Team Heretics,Defense,FunPlus Phoenix,Team Heretics
+584,15,17,10,2,3,10,2,5,2,10,-8,Team Heretics,Attack,FunPlus Phoenix,Team Heretics
+585,13,1,11,2,0,0,1,0,11,1,10,FUT Esports,Attack,FUT Esports,LEVIATÁN
+585,11,13,6,5,0,7,6,0,5,7,-2,LEVIATÁN,Attack,FUT Esports,LEVIATÁN
+585,13,11,6,7,0,5,6,0,6,6,0,LEVIATÁN,Defense,FUT Esports,LEVIATÁN
+586,13,2,2,11,0,1,1,0,11,1,10,100 Thieves,Defense,100 Thieves,FUT Esports
+586,13,5,5,8,0,4,1,0,8,4,4,FUT Esports,Attack,100 Thieves,FUT Esports
+587,13,10,4,9,0,3,7,0,9,3,6,FNATIC,Defense,FNATIC,Gen.G
+587,10,13,6,4,0,7,6,0,6,6,0,Gen.G,Defense,FNATIC,Gen.G
+587,11,13,7,4,0,8,5,0,7,5,2,Gen.G,Defense,FNATIC,Gen.G
+588,13,7,11,2,0,6,1,0,11,1,10,Paper Rex,Attack,Paper Rex,G2 Esports
+588,10,13,4,6,0,6,7,0,6,6,0,G2 Esports,Attack,Paper Rex,G2 Esports
+588,5,13,3,2,0,10,3,0,2,10,-8,G2 Esports,Attack,Paper Rex,G2 Esports
+589,6,13,4,2,0,5,8,0,4,8,-4,EDward Gaming,Attack,EDward Gaming,Team Heretics
+589,3,13,2,1,0,3,10,0,2,10,-8,Team Heretics,Defense,EDward Gaming,Team Heretics
+590,5,13,5,0,0,6,7,0,5,7,-2,FNATIC,Defense,FUT Esports,FNATIC
+590,13,8,9,4,0,5,3,0,9,3,6,FUT Esports,Attack,FUT Esports,FNATIC
+590,13,3,4,9,0,3,0,0,9,3,6,FUT Esports,Defense,FUT Esports,FNATIC
+591,13,11,6,7,0,5,6,0,6,6,0,Paper Rex,Attack,Paper Rex,EDward Gaming
+591,13,6,5,8,0,4,2,0,8,4,4,EDward Gaming,Attack,Paper Rex,EDward Gaming
+592,10,13,3,7,0,4,9,0,3,9,-6,Gen.G,Defense,100 Thieves,Gen.G
+592,10,13,4,6,0,6,7,0,6,6,0,100 Thieves,Defense,100 Thieves,Gen.G
+593,7,13,2,5,0,3,10,0,2,10,-8,G2 Esports,Attack,G2 Esports,Team Heretics
+593,13,11,2,11,0,1,10,0,2,10,-8,Team Heretics,Defense,G2 Esports,Team Heretics
+593,13,4,5,8,0,4,0,0,8,4,4,Team Heretics,Attack,G2 Esports,Team Heretics
+594,13,5,8,5,0,1,4,0,8,4,4,Paper Rex,Defense,100 Thieves,Paper Rex
+594,10,13,6,4,0,8,5,0,4,8,-4,100 Thieves,Defense,100 Thieves,Paper Rex
+594,14,12,5,7,2,5,7,0,7,5,2,100 Thieves,Defense,100 Thieves,Paper Rex
+595,13,7,7,6,0,6,1,0,6,6,0,Team Heretics,Defense,Team Heretics,FUT Esports
+595,13,4,4,9,0,3,1,0,9,3,6,FUT Esports,Attack,Team Heretics,FUT Esports
+596,8,13,5,3,0,6,7,0,5,7,-2,Gen.G,Defense,G2 Esports,Gen.G
+596,10,13,6,4,0,8,5,0,4,8,-4,G2 Esports,Defense,G2 Esports,Gen.G
+597,13,15,8,4,1,8,4,3,4,8,-4,Team Heretics,Attack,100 Thieves,Team Heretics
+597,1,13,1,0,0,2,11,0,1,11,-10,100 Thieves,Attack,100 Thieves,Team Heretics
+598,2,13,0,2,0,10,3,0,2,10,-8,Team Heretics,Attack,G2 Esports,Team Heretics
+598,6,13,4,2,0,5,8,0,4,8,-4,G2 Esports,Attack,G2 Esports,Team Heretics
+598,8,13,5,3,0,9,4,0,3,9,-6,Team Heretics,Attack,G2 Esports,Team Heretics
+599,13,6,3,10,0,2,4,0,10,2,8,Team Heretics,Attack,Gen.G,Team Heretics
+599,9,13,2,7,0,5,8,0,7,5,2,Gen.G,Defense,Gen.G,Team Heretics
+599,9,13,6,3,0,7,6,0,6,6,0,Team Heretics,Defense,Gen.G,Team Heretics
+599,13,4,4,9,0,3,1,0,9,3,6,Gen.G,Defense,Gen.G,Team Heretics
+599,13,3,9,4,0,0,3,0,9,3,6,Team Heretics,Defense,Gen.G,Team Heretics
+600,0,13,0,0,0,12,1,0,0,12,-12,ZETA DIVISION,Defense,ZETA DIVISION,DRX
+600,13,11,5,8,0,4,7,0,8,4,4,DRX,Attack,ZETA DIVISION,DRX
+600,4,13,2,2,0,10,3,0,2,10,-8,DRX,Attack,ZETA DIVISION,DRX
+601,10,13,0,10,0,2,11,0,10,2,8,Team Secret,Defense,Team Secret,BLEED
+601,13,8,8,5,0,7,1,0,5,7,-2,BLEED,Attack,Team Secret,BLEED
+601,13,8,5,8,0,4,4,0,8,4,4,BLEED,Attack,Team Secret,BLEED
+602,13,15,7,5,1,7,5,3,7,5,2,Gen.G,Defense,T1,Gen.G
+602,13,5,4,9,0,3,2,0,9,3,6,T1,Defense,T1,Gen.G
+602,9,13,4,5,0,7,6,0,5,7,-2,T1,Defense,T1,Gen.G
+603,13,4,9,4,0,1,3,0,9,3,6,Paper Rex,Attack,Paper Rex,TALON
+603,13,7,9,4,0,4,3,0,9,3,6,TALON,Defense,Paper Rex,TALON
+604,15,13,8,4,3,8,4,1,4,8,-4,DetonatioN FocusMe,Attack,Rex Regum Qeon,DetonatioN FocusMe
+604,13,9,6,7,0,3,6,0,6,6,0,Rex Regum Qeon,Attack,Rex Regum Qeon,DetonatioN FocusMe
+605,13,8,2,11,0,1,7,0,11,1,10,Global Esports,Attack,Team Secret,Global Esports
+605,13,10,8,5,0,7,3,0,5,7,-2,Team Secret,Defense,Team Secret,Global Esports
+606,15,13,6,6,3,6,6,1,6,6,0,Rex Regum Qeon,Attack,TALON,Rex Regum Qeon
+606,10,13,5,5,0,7,6,0,5,7,-2,TALON,Defense,TALON,Rex Regum Qeon
+606,13,10,10,3,0,8,2,0,10,2,8,TALON,Attack,TALON,Rex Regum Qeon
+607,13,4,9,4,0,1,3,0,9,3,6,DRX,Defense,Paper Rex,DRX
+607,8,13,7,1,0,8,5,0,7,5,2,Paper Rex,Attack,Paper Rex,DRX
+607,13,5,10,3,0,3,2,0,10,2,8,Paper Rex,Attack,Paper Rex,DRX
+608,13,6,9,4,0,3,3,0,9,3,6,BLEED,Defense,Global Esports,BLEED
+608,13,6,6,7,0,5,1,0,7,5,2,Global Esports,Defense,Global Esports,BLEED
+609,7,13,3,4,0,8,5,0,4,8,-4,ZETA DIVISION,Attack,DetonatioN FocusMe,ZETA DIVISION
+609,13,9,7,6,0,4,5,0,7,5,2,DetonatioN FocusMe,Attack,DetonatioN FocusMe,ZETA DIVISION
+609,13,10,7,6,0,6,4,0,6,6,0,DetonatioN FocusMe,Defense,DetonatioN FocusMe,ZETA DIVISION
+610,12,14,3,9,0,3,9,2,9,3,6,Rex Regum Qeon,Attack,DRX,Rex Regum Qeon
+610,12,14,4,8,0,4,8,2,4,8,-4,DRX,Attack,DRX,Rex Regum Qeon
+611,10,13,4,6,0,6,7,0,6,6,0,T1,Attack,Team Secret,T1
+611,13,6,7,6,0,1,5,0,7,5,2,Team Secret,Attack,Team Secret,T1
+611,14,12,8,4,2,8,4,0,8,4,4,Team Secret,Attack,Team Secret,T1
+612,13,7,7,6,0,2,5,0,7,5,2,DetonatioN FocusMe,Defense,TALON,DetonatioN FocusMe
+612,13,10,6,7,0,4,6,0,6,6,0,TALON,Attack,TALON,DetonatioN FocusMe
+613,8,13,6,2,0,7,6,0,6,6,0,ZETA DIVISION,Attack,ZETA DIVISION,Rex Regum Qeon
+613,10,13,7,3,0,9,4,0,3,9,-6,Rex Regum Qeon,Attack,ZETA DIVISION,Rex Regum Qeon
+614,13,10,6,7,0,5,5,0,7,5,2,T1,Attack,Global Esports,T1
+614,8,13,4,4,0,5,8,0,4,8,-4,Global Esports,Attack,Global Esports,T1
+614,8,13,6,2,0,7,6,0,6,6,0,Global Esports,Attack,Global Esports,T1
+615,6,13,6,0,0,7,6,0,6,6,0,Gen.G,Defense,BLEED,Gen.G
+615,13,10,8,5,0,7,3,0,5,7,-2,BLEED,Defense,BLEED,Gen.G
+615,11,13,7,4,0,8,5,0,4,8,-4,BLEED,Defense,BLEED,Gen.G
+616,13,4,10,3,0,2,2,0,10,2,8,Paper Rex,Attack,Paper Rex,DetonatioN FocusMe
+616,13,8,5,8,0,4,4,0,8,4,4,DetonatioN FocusMe,Attack,Paper Rex,DetonatioN FocusMe
+617,11,13,8,3,0,9,4,0,3,9,-6,TALON,Attack,DRX,TALON
+617,13,10,7,6,0,5,5,0,7,5,2,DRX,Attack,DRX,TALON
+617,13,5,12,1,0,5,0,0,12,0,12,DRX,Attack,DRX,TALON
+618,13,7,5,8,0,4,3,0,8,4,4,Rex Regum Qeon,Attack,Paper Rex,Rex Regum Qeon
+618,7,13,5,2,0,6,7,0,5,7,-2,Paper Rex,Attack,Paper Rex,Rex Regum Qeon
+618,13,10,7,6,0,5,5,0,7,5,2,Paper Rex,Attack,Paper Rex,Rex Regum Qeon
+619,13,1,2,11,0,1,0,0,11,1,10,Gen.G,Defense,Gen.G,Global Esports
+619,13,6,6,7,0,5,1,0,7,5,2,Global Esports,Attack,Gen.G,Global Esports
+620,13,7,6,7,0,5,2,0,7,5,2,DetonatioN FocusMe,Attack,DRX,DetonatioN FocusMe
+620,6,13,5,1,0,6,7,0,5,7,-2,DRX,Attack,DRX,DetonatioN FocusMe
+620,13,2,10,3,0,0,2,0,10,2,8,DRX,Attack,DRX,DetonatioN FocusMe
+621,13,6,4,9,0,3,3,0,9,3,6,TALON,Attack,ZETA DIVISION,TALON
+621,8,13,2,6,0,6,7,0,6,6,0,ZETA DIVISION,Defense,ZETA DIVISION,TALON
+621,13,8,7,6,0,3,5,0,7,5,2,ZETA DIVISION,Attack,ZETA DIVISION,TALON
+622,6,13,4,2,0,10,3,0,2,10,-8,Gen.G,Defense,Gen.G,Team Secret
+622,13,7,6,7,0,5,2,0,7,5,2,Team Secret,Attack,Gen.G,Team Secret
+622,12,14,3,9,0,3,9,2,9,3,6,Team Secret,Attack,Gen.G,Team Secret
+623,9,13,7,2,0,8,5,0,7,5,2,Paper Rex,Attack,Paper Rex,ZETA DIVISION
+623,13,8,11,2,0,7,1,0,11,1,10,ZETA DIVISION,Defense,Paper Rex,ZETA DIVISION
+623,13,4,5,8,0,4,0,0,8,4,4,ZETA DIVISION,Attack,Paper Rex,ZETA DIVISION
+624,13,11,3,10,0,2,9,0,3,9,-6,T1,Attack,T1,BLEED
+624,9,13,3,6,0,6,7,0,6,6,0,BLEED,Attack,T1,BLEED
+624,13,8,7,6,0,3,5,0,7,5,2,BLEED,Defense,T1,BLEED
+625,13,8,6,7,0,5,3,0,7,5,2,Gen.G,Defense,Gen.G,Rex Regum Qeon
+625,13,11,7,6,0,6,5,0,6,6,0,Rex Regum Qeon,Attack,Gen.G,Rex Regum Qeon
+626,11,13,5,6,0,6,7,0,5,7,-2,Team Secret,Attack,Team Secret,TALON
+626,11,13,5,6,0,6,7,0,6,6,0,TALON,Attack,Team Secret,TALON
+627,10,13,3,7,0,4,9,0,3,9,-6,Paper Rex,Attack,Paper Rex,Gen.G
+627,5,13,4,1,0,5,8,0,4,8,-4,Gen.G,Defense,Paper Rex,Gen.G
+628,13,8,7,6,0,3,5,0,7,5,2,DRX,Attack,DRX,TALON
+628,13,4,5,8,0,4,0,0,8,4,4,TALON,Attack,DRX,TALON
+629,13,9,4,9,0,3,6,0,9,3,6,DRX,Attack,Gen.G,DRX
+629,10,13,4,6,0,6,7,0,6,6,0,Gen.G,Defense,Gen.G,DRX
+629,13,6,6,7,0,5,1,0,7,5,2,Gen.G,Defense,Gen.G,DRX
+630,13,3,3,10,0,2,1,0,10,2,8,Paper Rex,Defense,Paper Rex,TALON
+630,13,3,9,4,0,0,3,0,9,3,6,TALON,Defense,Paper Rex,TALON
+631,7,13,1,6,0,6,7,0,6,6,0,Paper Rex,Attack,DRX,Paper Rex
+631,10,13,5,5,0,6,7,0,5,7,-2,DRX,Attack,DRX,Paper Rex
+631,13,10,5,8,0,4,6,0,8,4,4,Paper Rex,Attack,DRX,Paper Rex
+631,13,10,6,7,0,4,6,0,6,6,0,DRX,Attack,DRX,Paper Rex
+631,13,7,7,6,0,2,5,0,7,5,2,Paper Rex,Defense,DRX,Paper Rex
+632,6,13,4,2,0,10,3,0,2,10,-8,DRX,Attack,Gen.G,DRX
+632,18,16,5,7,6,5,7,4,7,5,2,Gen.G,Defense,Gen.G,DRX
+632,14,12,7,5,2,7,5,0,5,7,-2,DRX,Attack,Gen.G,DRX
+632,13,6,6,7,0,5,1,0,7,5,2,Gen.G,Defense,Gen.G,DRX
+633,12,14,4,8,0,4,8,2,4,8,-4,Titan Esports Club,Attack,Titan Esports Club,JDG Esports
+633,11,13,8,3,0,9,4,0,3,9,-6,JDG Esports,Attack,Titan Esports Club,JDG Esports
+634,13,10,7,6,0,5,5,0,7,5,2,TYLOO,Defense,All Gamers,TYLOO
+634,13,4,8,5,0,0,4,0,8,4,4,All Gamers,Attack,All Gamers,TYLOO
+635,13,5,4,9,0,3,2,0,9,3,6,Bilibili Gaming,Defense,Bilibili Gaming,Wolves Esports
+635,13,7,4,9,0,3,4,0,9,3,6,Wolves Esports,Attack,Bilibili Gaming,Wolves Esports
+636,13,7,6,7,0,1,6,0,6,6,0,Nova Esports,Defense,Dragon Ranger Gaming,Nova Esports
+636,12,14,8,4,0,8,4,2,8,4,4,Dragon Ranger Gaming,Attack,Dragon Ranger Gaming,Nova Esports
+636,5,13,2,3,0,9,4,0,3,9,-6,Dragon Ranger Gaming,Defense,Dragon Ranger Gaming,Nova Esports
+637,13,5,10,3,0,3,2,0,10,2,8,FunPlus Phoenix,Attack,FunPlus Phoenix,Trace Esports
+637,13,15,3,9,1,3,9,3,9,3,6,Trace Esports,Attack,FunPlus Phoenix,Trace Esports
+637,6,13,1,5,0,7,6,0,5,7,-2,Trace Esports,Attack,FunPlus Phoenix,Trace Esports
+638,10,13,8,2,0,9,4,0,8,4,4,Titan Esports Club,Attack,Titan Esports Club,All Gamers
+638,6,13,3,3,0,9,4,0,3,9,-6,All Gamers,Attack,Titan Esports Club,All Gamers
+639,13,7,4,9,0,3,4,0,9,3,6,EDward Gaming,Defense,EDward Gaming,Wolves Esports
+639,12,14,5,7,0,5,7,2,7,5,2,Wolves Esports,Attack,EDward Gaming,Wolves Esports
+639,7,13,5,2,0,6,7,0,5,7,-2,Wolves Esports,Defense,EDward Gaming,Wolves Esports
+640,11,13,7,4,0,8,5,0,7,5,2,Trace Esports,Defense,TYLOO,Trace Esports
+640,13,7,7,6,0,2,5,0,7,5,2,TYLOO,Attack,TYLOO,Trace Esports
+640,4,13,4,0,0,5,8,0,4,8,-4,TYLOO,Attack,TYLOO,Trace Esports
+641,16,14,4,8,4,4,8,2,8,4,4,Nova Esports,Defense,Nova Esports,Bilibili Gaming
+641,9,13,4,5,0,5,8,0,4,8,-4,Bilibili Gaming,Defense,Nova Esports,Bilibili Gaming
+641,6,13,3,3,0,4,9,0,3,9,-6,Bilibili Gaming,Defense,Nova Esports,Bilibili Gaming
+642,8,13,4,4,0,8,5,0,4,8,-4,FunPlus Phoenix,Attack,JDG Esports,FunPlus Phoenix
+642,12,14,5,7,0,5,7,2,7,5,2,JDG Esports,Defense,JDG Esports,FunPlus Phoenix
+643,11,13,4,7,0,5,8,0,7,5,2,Dragon Ranger Gaming,Attack,EDward Gaming,Dragon Ranger Gaming
+643,5,13,3,2,0,4,9,0,3,9,-6,EDward Gaming,Attack,EDward Gaming,Dragon Ranger Gaming
+644,14,12,10,2,2,10,2,0,2,10,-8,Nova Esports,Defense,Nova Esports,Wolves Esports
+644,15,13,4,8,3,4,8,1,8,4,4,Wolves Esports,Attack,Nova Esports,Wolves Esports
+645,13,2,3,10,0,2,0,0,10,2,8,Trace Esports,Attack,JDG Esports,Trace Esports
+645,8,13,5,3,0,9,4,0,3,9,-6,JDG Esports,Defense,JDG Esports,Trace Esports
+645,13,6,6,7,0,5,1,0,7,5,2,JDG Esports,Defense,JDG Esports,Trace Esports
+646,11,13,2,9,0,3,10,0,9,3,6,TYLOO,Attack,Titan Esports Club,TYLOO
+646,13,9,6,7,0,3,6,0,6,6,0,Titan Esports Club,Attack,Titan Esports Club,TYLOO
+646,9,13,6,3,0,7,6,0,6,6,0,Titan Esports Club,Attack,Titan Esports Club,TYLOO
+647,11,13,5,6,0,6,7,0,6,6,0,FunPlus Phoenix,Attack,All Gamers,FunPlus Phoenix
+647,13,8,6,7,0,2,6,0,6,6,0,All Gamers,Attack,All Gamers,FunPlus Phoenix
+647,7,13,2,5,0,7,6,0,5,7,-2,All Gamers,Defense,All Gamers,FunPlus Phoenix
+648,13,11,7,6,0,6,5,0,6,6,0,Dragon Ranger Gaming,Attack,Bilibili Gaming,Dragon Ranger Gaming
+648,13,11,5,8,0,4,7,0,8,4,4,Bilibili Gaming,Defense,Bilibili Gaming,Dragon Ranger Gaming
+649,13,9,6,7,0,5,4,0,7,5,2,EDward Gaming,Defense,EDward Gaming,Nova Esports
+649,13,6,8,5,0,2,4,0,8,4,4,Nova Esports,Defense,EDward Gaming,Nova Esports
+650,6,13,4,2,0,10,3,0,2,10,-8,Trace Esports,Attack,All Gamers,Trace Esports
+650,4,13,3,1,0,4,9,0,3,9,-6,All Gamers,Attack,All Gamers,Trace Esports
+651,13,9,6,7,0,3,6,0,6,6,0,Titan Esports Club,Attack,Titan Esports Club,FunPlus Phoenix
+651,13,6,5,8,0,4,2,0,8,4,4,FunPlus Phoenix,Attack,Titan Esports Club,FunPlus Phoenix
+652,1,13,1,0,0,2,11,0,1,11,-10,TYLOO,Attack,TYLOO,JDG Esports
+652,9,13,7,2,0,8,5,0,7,5,2,JDG Esports,Defense,TYLOO,JDG Esports
+653,7,13,2,5,0,7,6,0,5,7,-2,Dragon Ranger Gaming,Defense,Dragon Ranger Gaming,Wolves Esports
+653,6,13,4,2,0,5,8,0,4,8,-4,Wolves Esports,Defense,Dragon Ranger Gaming,Wolves Esports
+654,13,11,6,7,0,5,6,0,7,5,2,Titan Esports Club,Attack,Trace Esports,Titan Esports Club
+654,8,13,4,4,0,8,5,0,4,8,-4,Trace Esports,Defense,Trace Esports,Titan Esports Club
+654,13,10,7,6,0,5,5,0,7,5,2,Trace Esports,Attack,Trace Esports,Titan Esports Club
+655,13,11,7,6,0,6,5,0,7,5,2,EDward Gaming,Attack,EDward Gaming,Bilibili Gaming
+655,13,8,5,8,0,4,4,0,8,4,4,Bilibili Gaming,Attack,EDward Gaming,Bilibili Gaming
+656,13,8,7,6,0,3,5,0,7,5,2,All Gamers,Defense,JDG Esports,All Gamers
+656,13,3,3,10,0,2,1,0,10,2,8,JDG Esports,Defense,JDG Esports,All Gamers
+657,5,13,1,4,0,8,5,0,4,8,-4,FunPlus Phoenix,Attack,TYLOO,FunPlus Phoenix
+657,14,12,6,6,2,6,6,0,6,6,0,TYLOO,Defense,TYLOO,FunPlus Phoenix
+657,13,4,4,9,0,3,1,0,9,3,6,TYLOO,Defense,TYLOO,FunPlus Phoenix
+658,13,7,9,4,0,4,3,0,9,3,6,Trace Esports,Attack,Trace Esports,All Gamers
+658,13,10,8,5,0,7,3,0,5,7,-2,All Gamers,Attack,Trace Esports,All Gamers
+659,9,13,4,5,0,7,6,0,5,7,-2,JDG Esports,Defense,JDG Esports,Bilibili Gaming
+659,7,13,2,5,0,7,6,0,5,7,-2,Bilibili Gaming,Attack,JDG Esports,Bilibili Gaming
+660,3,13,3,0,0,4,9,0,3,9,-6,FunPlus Phoenix,Attack,FunPlus Phoenix,Trace Esports
+660,11,13,8,3,0,9,4,0,3,9,-6,Trace Esports,Attack,FunPlus Phoenix,Trace Esports
+661,13,5,7,6,0,0,5,0,7,5,2,EDward Gaming,Attack,EDward Gaming,Bilibili Gaming
+661,7,13,4,3,0,5,8,0,4,8,-4,Bilibili Gaming,Defense,EDward Gaming,Bilibili Gaming
+661,13,10,9,4,0,7,3,0,9,3,6,Bilibili Gaming,Defense,EDward Gaming,Bilibili Gaming
+662,2,13,0,2,0,10,3,0,2,10,-8,EDward Gaming,Attack,Trace Esports,EDward Gaming
+662,5,13,5,0,0,6,7,0,5,7,-2,Trace Esports,Attack,Trace Esports,EDward Gaming
+663,13,3,4,9,0,3,0,0,9,3,6,FunPlus Phoenix,Defense,FunPlus Phoenix,Bilibili Gaming
+663,12,14,7,5,0,7,5,2,5,7,-2,Bilibili Gaming,Attack,FunPlus Phoenix,Bilibili Gaming
+663,13,10,7,6,0,6,4,0,6,6,0,Bilibili Gaming,Attack,FunPlus Phoenix,Bilibili Gaming
+664,13,11,7,6,0,6,5,0,7,5,2,Trace Esports,Attack,Trace Esports,FunPlus Phoenix
+664,13,8,6,7,0,2,6,0,6,6,0,FunPlus Phoenix,Defense,Trace Esports,FunPlus Phoenix
+664,8,13,5,3,0,6,7,0,5,7,-2,Trace Esports,Attack,Trace Esports,FunPlus Phoenix
+664,9,13,6,3,0,7,6,0,6,6,0,FunPlus Phoenix,Defense,Trace Esports,FunPlus Phoenix
+664,8,13,6,2,0,7,6,0,6,6,0,Trace Esports,Attack,Trace Esports,FunPlus Phoenix
+665,13,9,9,4,0,6,3,0,9,3,6,FunPlus Phoenix,Defense,EDward Gaming,FunPlus Phoenix
+665,8,13,5,3,0,6,7,0,5,7,-2,EDward Gaming,Attack,EDward Gaming,FunPlus Phoenix
+665,13,7,4,9,0,3,4,0,9,3,6,FunPlus Phoenix,Attack,EDward Gaming,FunPlus Phoenix
+665,9,13,7,2,0,8,5,0,7,5,2,EDward Gaming,Attack,EDward Gaming,FunPlus Phoenix
+665,13,8,10,3,0,6,2,0,10,2,8,FunPlus Phoenix,Defense,EDward Gaming,FunPlus Phoenix
+666,13,7,5,8,0,4,3,0,8,4,4,FUT Esports,Defense,FUT Esports,KOI
+666,7,13,4,3,0,9,4,0,3,9,-6,KOI,Attack,FUT Esports,KOI
+666,13,6,10,3,0,4,2,0,10,2,8,KOI,Defense,FUT Esports,KOI
+667,9,13,6,3,0,7,6,0,6,6,0,FNATIC,Defense,BBL Esports,FNATIC
+667,13,11,5,8,0,4,7,0,8,4,4,BBL Esports,Defense,BBL Esports,FNATIC
+667,11,13,3,8,0,4,9,0,8,4,4,BBL Esports,Defense,BBL Esports,FNATIC
+668,13,3,2,11,0,1,2,0,11,1,10,Natus Vincere,Attack,Team Heretics,Natus Vincere
+668,13,5,9,4,0,2,3,0,9,3,6,Team Heretics,Attack,Team Heretics,Natus Vincere
+669,1,13,0,1,0,11,2,0,1,11,-10,GIANTX,Defense,GIANTX,Gentle Mates
+669,13,11,6,7,0,5,6,0,6,6,0,Gentle Mates,Defense,GIANTX,Gentle Mates
+669,13,11,5,8,0,4,7,0,5,7,-2,Gentle Mates,Defense,GIANTX,Gentle Mates
+670,13,10,8,5,0,6,4,0,8,4,4,Team Vitality,Attack,Team Vitality,Team Liquid
+670,17,15,10,2,5,10,2,3,10,2,8,Team Liquid,Defense,Team Vitality,Team Liquid
+671,6,13,0,6,0,6,7,0,6,6,0,BBL Esports,Defense,BBL Esports,Karmine Corp
+671,5,13,3,2,0,10,3,0,2,10,-8,Karmine Corp,Attack,BBL Esports,Karmine Corp
+672,11,13,7,4,0,8,5,0,7,5,2,FUT Esports,Defense,Natus Vincere,FUT Esports
+672,5,13,5,0,0,6,7,0,5,7,-2,Natus Vincere,Attack,Natus Vincere,FUT Esports
+673,13,5,7,6,0,0,5,0,7,5,2,KOI,Attack,KOI,GIANTX
+673,14,12,8,4,2,8,4,0,4,8,-4,GIANTX,Attack,KOI,GIANTX
+674,13,10,7,6,0,6,4,0,6,6,0,FUT Esports,Attack,Team Heretics,FUT Esports
+674,13,6,4,9,0,3,3,0,9,3,6,Team Heretics,Defense,Team Heretics,FUT Esports
+675,13,6,9,4,0,3,3,0,9,3,6,Team Vitality,Defense,FNATIC,Team Vitality
+675,6,13,3,3,0,4,9,0,3,9,-6,FNATIC,Attack,FNATIC,Team Vitality
+675,13,7,8,5,0,3,4,0,8,4,4,FNATIC,Attack,FNATIC,Team Vitality
+676,13,6,6,7,0,5,1,0,7,5,2,BBL Esports,Defense,BBL Esports,Team Liquid
+676,13,5,7,6,0,0,5,0,7,5,2,Team Liquid,Defense,BBL Esports,Team Liquid
+677,9,13,4,5,0,5,8,0,4,8,-4,Natus Vincere,Attack,Natus Vincere,GIANTX
+677,8,13,3,5,0,7,6,0,5,7,-2,GIANTX,Attack,Natus Vincere,GIANTX
+678,11,13,7,4,0,8,5,0,7,5,2,Gentle Mates,Defense,KOI,Gentle Mates
+678,11,13,6,5,0,7,6,0,6,6,0,KOI,Attack,KOI,Gentle Mates
+679,13,3,4,9,0,3,0,0,9,3,6,Karmine Corp,Attack,FNATIC,Karmine Corp
+679,13,8,8,5,0,4,4,0,8,4,4,FNATIC,Attack,FNATIC,Karmine Corp
+680,13,9,7,6,0,6,3,0,6,6,0,GIANTX,Attack,Team Heretics,GIANTX
+680,13,15,8,4,1,8,4,3,4,8,-4,Team Heretics,Defense,Team Heretics,GIANTX
+680,13,9,9,4,0,8,1,0,4,8,-4,Team Heretics,Defense,Team Heretics,GIANTX
+681,13,8,8,5,0,4,4,0,8,4,4,Gentle Mates,Defense,FUT Esports,Gentle Mates
+681,13,4,3,10,0,2,2,0,10,2,8,FUT Esports,Defense,FUT Esports,Gentle Mates
+682,13,10,9,4,0,7,3,0,9,3,6,KOI,Attack,KOI,Natus Vincere
+682,13,6,7,6,0,1,5,0,7,5,2,Natus Vincere,Defense,KOI,Natus Vincere
+683,13,11,6,7,0,5,6,0,7,5,2,Team Liquid,Defense,Team Liquid,Karmine Corp
+683,13,2,10,3,0,0,2,0,10,2,8,Karmine Corp,Defense,Team Liquid,Karmine Corp
+684,7,13,5,2,0,6,7,0,5,7,-2,Team Vitality,Defense,BBL Esports,Team Vitality
+684,13,6,3,10,0,2,4,0,10,2,8,BBL Esports,Defense,BBL Esports,Team Vitality
+684,11,13,2,9,0,3,10,0,9,3,6,BBL Esports,Defense,BBL Esports,Team Vitality
+685,13,7,8,5,0,3,4,0,8,4,4,Gentle Mates,Defense,Team Heretics,Gentle Mates
+685,10,13,2,8,0,4,9,0,8,4,4,Team Heretics,Defense,Team Heretics,Gentle Mates
+685,13,5,4,9,0,3,2,0,9,3,6,Team Heretics,Defense,Team Heretics,Gentle Mates
+686,13,4,2,11,0,1,3,0,11,1,10,FUT Esports,Defense,FUT Esports,GIANTX
+686,13,6,7,6,0,1,5,0,7,5,2,GIANTX,Defense,FUT Esports,GIANTX
+687,11,13,6,5,0,7,6,0,5,7,-2,Team Heretics,Defense,Team Heretics,KOI
+687,13,9,7,6,0,6,3,0,6,6,0,KOI,Attack,Team Heretics,KOI
+687,13,10,8,5,0,7,3,0,5,7,-2,KOI,Attack,Team Heretics,KOI
+688,13,2,3,10,0,2,0,0,10,2,8,FNATIC,Defense,FNATIC,Team Liquid
+688,13,9,6,7,0,5,4,0,7,5,2,Team Liquid,Attack,FNATIC,Team Liquid
+689,13,7,8,5,0,7,0,0,5,7,-2,Natus Vincere,Defense,Natus Vincere,Gentle Mates
+689,8,13,6,2,0,7,6,0,6,6,0,Gentle Mates,Defense,Natus Vincere,Gentle Mates
+689,13,11,6,7,0,5,6,0,6,6,0,Gentle Mates,Defense,Natus Vincere,Gentle Mates
+690,13,4,4,9,0,3,1,0,9,3,6,Karmine Corp,Attack,Team Vitality,Karmine Corp
+690,9,13,6,3,0,7,6,0,6,6,0,Team Vitality,Attack,Team Vitality,Karmine Corp
+690,14,12,5,7,2,5,7,0,7,5,2,Team Vitality,Defense,Team Vitality,Karmine Corp
+691,8,13,6,2,0,7,6,0,6,6,0,Team Vitality,Attack,Team Vitality,Natus Vincere
+691,13,5,10,3,0,3,2,0,10,2,8,Natus Vincere,Defense,Team Vitality,Natus Vincere
+691,13,7,5,8,0,0,7,0,5,7,-2,Natus Vincere,Defense,Team Vitality,Natus Vincere
+692,7,13,5,2,0,6,7,0,5,7,-2,Karmine Corp,Defense,FNATIC,Karmine Corp
+692,15,13,6,6,3,6,6,1,6,6,0,FNATIC,Defense,FNATIC,Karmine Corp
+692,13,6,8,5,0,2,4,0,8,4,4,FNATIC,Attack,FNATIC,Karmine Corp
+693,14,12,3,9,2,3,9,0,9,3,6,Team Heretics,Defense,Team Heretics,Team Vitality
+693,10,13,5,5,0,6,7,0,5,7,-2,Team Vitality,Defense,Team Heretics,Team Vitality
+693,12,14,7,5,0,7,5,2,5,7,-2,Team Vitality,Attack,Team Heretics,Team Vitality
+694,13,15,7,5,1,7,5,3,7,5,2,FNATIC,Defense,FUT Esports,FNATIC
+694,5,13,1,4,0,8,5,0,4,8,-4,FUT Esports,Defense,FUT Esports,FNATIC
+695,11,13,7,4,0,8,5,0,7,5,2,Team Vitality,Attack,Team Vitality,FNATIC
+695,6,13,3,3,0,4,9,0,3,9,-6,FNATIC,Defense,Team Vitality,FNATIC
+696,13,10,6,7,0,4,6,0,6,6,0,Team Heretics,Attack,Team Heretics,FUT Esports
+696,13,11,8,5,0,7,4,0,5,7,-2,FUT Esports,Attack,Team Heretics,FUT Esports
+697,6,13,3,3,0,4,9,0,3,9,-6,Team Heretics,Defense,Team Vitality,Team Heretics
+697,13,4,5,8,0,4,0,0,8,4,4,Team Vitality,Defense,Team Vitality,Team Heretics
+697,13,3,4,9,0,3,0,0,9,3,6,Team Heretics,Attack,Team Vitality,Team Heretics
+697,13,9,8,5,0,5,4,0,8,4,4,Team Vitality,Attack,Team Vitality,Team Heretics
+698,13,8,4,9,0,3,5,0,9,3,6,Team Vitality,Attack,FNATIC,Team Vitality
+698,9,13,5,4,0,8,5,0,4,8,-4,FNATIC,Defense,FNATIC,Team Vitality
+698,13,9,5,8,0,4,5,0,8,4,4,Team Vitality,Attack,FNATIC,Team Vitality
+698,13,3,3,10,0,2,1,0,10,2,8,FNATIC,Defense,FNATIC,Team Vitality
+699,9,13,6,3,0,7,6,0,6,6,0,LEVIATÁN,Defense,MIBR,LEVIATÁN
+699,7,13,3,4,0,4,9,0,3,9,-6,MIBR,Attack,MIBR,LEVIATÁN
+700,13,8,8,5,0,4,4,0,8,4,4,Sentinels,Attack,Sentinels,NRG Esports
+700,14,12,9,3,2,9,3,0,9,3,6,NRG Esports,Defense,Sentinels,NRG Esports
+701,14,12,6,6,2,6,6,0,6,6,0,100 Thieves,Defense,FURIA,100 Thieves
+701,16,14,9,3,4,9,3,2,9,3,6,FURIA,Attack,FURIA,100 Thieves
+702,13,7,7,6,0,6,1,0,6,6,0,Evil Geniuses,Attack,LOUD,Evil Geniuses
+702,6,13,0,6,0,6,7,0,6,6,0,LOUD,Defense,LOUD,Evil Geniuses
+702,11,13,5,6,0,6,7,0,5,7,-2,LOUD,Attack,LOUD,Evil Geniuses
+703,13,11,4,9,0,3,8,0,4,8,-4,Cloud9,Defense,G2 Esports,Cloud9
+703,5,13,3,2,0,10,3,0,2,10,-8,G2 Esports,Defense,G2 Esports,Cloud9
+703,13,8,4,9,0,0,8,0,4,8,-4,G2 Esports,Attack,G2 Esports,Cloud9
+704,13,5,9,4,0,2,3,0,9,3,6,Evil Geniuses,Attack,Evil Geniuses,FURIA
+704,13,4,3,10,0,2,2,0,10,2,8,FURIA,Attack,Evil Geniuses,FURIA
+705,13,11,8,5,0,7,4,0,8,4,4,Sentinels,Attack,Sentinels,KRÜ Esports
+705,13,10,8,5,0,6,4,0,8,4,4,KRÜ Esports,Defense,Sentinels,KRÜ Esports
+706,13,7,5,8,0,4,3,0,8,4,4,LOUD,Defense,LOUD,MIBR
+706,11,13,6,5,0,7,6,0,5,7,-2,MIBR,Attack,LOUD,MIBR
+706,13,9,7,6,0,6,3,0,6,6,0,MIBR,Attack,LOUD,MIBR
+707,13,10,5,8,0,4,6,0,8,4,4,LEVIATÁN,Defense,LEVIATÁN,100 Thieves
+707,13,4,3,10,0,2,2,0,10,2,8,100 Thieves,Attack,LEVIATÁN,100 Thieves
+708,7,13,3,4,0,8,5,0,4,8,-4,G2 Esports,Attack,NRG Esports,G2 Esports
+708,8,13,5,3,0,9,4,0,3,9,-6,NRG Esports,Defense,NRG Esports,G2 Esports
+709,13,5,7,6,0,0,5,0,7,5,2,Sentinels,Attack,Sentinels,Cloud9
+709,13,8,6,7,0,2,6,0,6,6,0,Cloud9,Defense,Sentinels,Cloud9
+710,5,13,5,0,0,6,7,0,5,7,-2,Evil Geniuses,Attack,Evil Geniuses,LEVIATÁN
+710,10,13,6,4,0,7,6,0,6,6,0,LEVIATÁN,Defense,Evil Geniuses,LEVIATÁN
+711,13,11,8,5,0,7,4,0,5,7,-2,FURIA,Attack,LOUD,FURIA
+711,10,13,5,5,0,6,7,0,5,7,-2,LOUD,Attack,LOUD,FURIA
+711,9,13,4,5,0,7,6,0,5,7,-2,LOUD,Defense,LOUD,FURIA
+712,5,13,3,2,0,4,9,0,3,9,-6,MIBR,Attack,MIBR,100 Thieves
+712,6,13,2,4,0,3,10,0,2,10,-8,100 Thieves,Defense,MIBR,100 Thieves
+713,8,13,3,5,0,7,6,0,5,7,-2,NRG Esports,Defense,NRG Esports,KRÜ Esports
+713,13,8,7,6,0,3,5,0,7,5,2,KRÜ Esports,Defense,NRG Esports,KRÜ Esports
+713,13,7,9,4,0,4,3,0,9,3,6,KRÜ Esports,Defense,NRG Esports,KRÜ Esports
+714,4,13,1,3,0,9,4,0,3,9,-6,G2 Esports,Defense,G2 Esports,KRÜ Esports
+714,16,14,7,5,4,7,5,2,7,5,2,KRÜ Esports,Defense,G2 Esports,KRÜ Esports
+714,13,5,9,4,0,2,3,0,9,3,6,KRÜ Esports,Defense,G2 Esports,KRÜ Esports
+715,11,13,3,8,0,4,9,0,8,4,4,LEVIATÁN,Attack,LOUD,LEVIATÁN
+715,6,13,4,2,0,5,8,0,4,8,-4,LOUD,Attack,LOUD,LEVIATÁN
+716,10,13,6,4,0,7,6,0,6,6,0,FURIA,Defense,MIBR,FURIA
+716,7,13,3,4,0,4,9,0,3,9,-6,MIBR,Attack,MIBR,FURIA
+717,13,3,9,4,0,0,3,0,9,3,6,Cloud9,Defense,NRG Esports,Cloud9
+717,10,13,7,3,0,8,5,0,7,5,2,NRG Esports,Attack,NRG Esports,Cloud9
+717,12,14,7,5,0,7,5,2,7,5,2,NRG Esports,Attack,NRG Esports,Cloud9
+718,10,13,6,4,0,8,5,0,4,8,-4,100 Thieves,Attack,Evil Geniuses,100 Thieves
+718,13,10,8,5,0,6,4,0,8,4,4,Evil Geniuses,Attack,Evil Geniuses,100 Thieves
+718,7,13,4,3,0,9,4,0,3,9,-6,Evil Geniuses,Defense,Evil Geniuses,100 Thieves
+719,7,13,2,5,0,7,6,0,5,7,-2,KRÜ Esports,Attack,Cloud9,KRÜ Esports
+719,10,13,5,5,0,7,6,0,5,7,-2,Cloud9,Defense,Cloud9,KRÜ Esports
+720,9,13,4,5,0,7,6,0,5,7,-2,MIBR,Attack,Evil Geniuses,MIBR
+720,2,13,0,2,0,10,3,0,2,10,-8,Evil Geniuses,Defense,Evil Geniuses,MIBR
+721,13,6,8,5,0,2,4,0,8,4,4,FURIA,Defense,LEVIATÁN,FURIA
+721,13,6,6,7,0,5,1,0,7,5,2,LEVIATÁN,Defense,LEVIATÁN,FURIA
+722,1,13,1,0,0,2,11,0,1,11,-10,100 Thieves,Defense,LOUD,100 Thieves
+722,13,8,6,7,0,2,6,0,6,6,0,LOUD,Attack,LOUD,100 Thieves
+722,13,10,6,7,0,5,5,0,7,5,2,LOUD,Defense,LOUD,100 Thieves
+723,6,13,6,0,0,7,6,0,6,6,0,Sentinels,Attack,Sentinels,G2 Esports
+723,9,13,4,5,0,5,8,0,4,8,-4,G2 Esports,Defense,Sentinels,G2 Esports
+724,13,11,6,7,0,5,6,0,6,6,0,KRÜ Esports,Attack,KRÜ Esports,Cloud9
+724,11,13,10,1,0,11,2,0,1,11,-10,Cloud9,Attack,KRÜ Esports,Cloud9
+724,13,6,4,9,0,3,3,0,9,3,6,Cloud9,Attack,KRÜ Esports,Cloud9
+725,7,13,4,3,0,9,4,0,3,9,-6,100 Thieves,Attack,Sentinels,100 Thieves
+725,10,13,6,4,0,8,5,0,4,8,-4,Sentinels,Defense,Sentinels,100 Thieves
+726,13,2,3,10,0,2,0,0,10,2,8,KRÜ Esports,Attack,LEVIATÁN,KRÜ Esports
+726,13,4,3,10,0,2,2,0,10,2,8,LEVIATÁN,Defense,LEVIATÁN,KRÜ Esports
+727,13,5,6,7,0,5,0,0,7,5,2,100 Thieves,Attack,G2 Esports,100 Thieves
+727,13,10,6,7,0,5,5,0,7,5,2,G2 Esports,Defense,G2 Esports,100 Thieves
+728,8,13,6,2,0,10,3,0,2,10,-8,G2 Esports,Attack,LEVIATÁN,G2 Esports
+728,6,13,2,4,0,8,5,0,4,8,-4,LEVIATÁN,Defense,LEVIATÁN,G2 Esports
+729,9,13,3,6,0,6,7,0,6,6,0,KRÜ Esports,Defense,KRÜ Esports,100 Thieves
+729,13,11,7,6,0,6,5,0,6,6,0,100 Thieves,Attack,KRÜ Esports,100 Thieves
+729,13,11,5,8,0,4,7,0,5,7,-2,100 Thieves,Defense,KRÜ Esports,100 Thieves
+730,13,3,11,2,0,2,1,0,11,1,10,KRÜ Esports,Defense,LEVIATÁN,KRÜ Esports
+730,11,13,4,7,0,5,8,0,7,5,2,LEVIATÁN,Defense,LEVIATÁN,KRÜ Esports
+730,7,13,4,3,0,9,4,0,3,9,-6,KRÜ Esports,Attack,LEVIATÁN,KRÜ Esports
+730,13,10,5,8,0,4,6,0,8,4,4,LEVIATÁN,Defense,LEVIATÁN,KRÜ Esports
+730,13,10,8,5,0,6,4,0,8,4,4,KRÜ Esports,Defense,LEVIATÁN,KRÜ Esports
+731,13,15,6,6,1,6,6,3,6,6,0,LEVIATÁN,Attack,G2 Esports,LEVIATÁN
+731,14,16,5,7,2,5,7,4,5,7,-2,G2 Esports,Attack,G2 Esports,LEVIATÁN
+731,13,9,4,9,0,1,8,0,4,8,-4,LEVIATÁN,Defense,G2 Esports,LEVIATÁN
+731,4,13,0,4,0,8,5,0,4,8,-4,G2 Esports,Defense,G2 Esports,LEVIATÁN
+732,13,8,6,7,0,5,3,0,7,5,2,Gen.G,Defense,Gen.G,Sentinels
+732,13,7,8,5,0,3,4,0,8,4,4,Sentinels,Defense,Gen.G,Sentinels
+733,12,14,8,4,0,8,4,2,8,4,4,Team Heretics,Defense,FunPlus Phoenix,Team Heretics
+733,13,9,5,8,0,4,5,0,8,4,4,FunPlus Phoenix,Defense,FunPlus Phoenix,Team Heretics
+733,13,15,6,6,1,6,6,3,6,6,0,FunPlus Phoenix,Attack,FunPlus Phoenix,Team Heretics
+734,2,13,2,0,0,3,10,0,2,10,-8,DRX,Attack,DRX,KRÜ Esports
+734,13,6,5,8,0,4,2,0,8,4,4,KRÜ Esports,Attack,DRX,KRÜ Esports
+734,13,6,4,9,0,3,3,0,9,3,6,KRÜ Esports,Attack,DRX,KRÜ Esports
+735,13,9,6,7,0,5,4,0,7,5,2,FNATIC,Defense,FNATIC,Bilibili Gaming
+735,13,4,3,10,0,2,2,0,10,2,8,Bilibili Gaming,Attack,FNATIC,Bilibili Gaming
+736,13,11,6,7,0,5,6,0,7,5,2,LEVIATÁN,Defense,LEVIATÁN,TALON
+736,13,8,5,8,0,4,4,0,8,4,4,TALON,Attack,LEVIATÁN,TALON
+737,13,15,7,5,1,7,5,3,5,7,-2,Team Vitality,Defense,Team Vitality,Trace Esports
+737,13,7,5,8,0,4,3,0,8,4,4,Trace Esports,Attack,Team Vitality,Trace Esports
+737,7,13,6,1,0,7,6,0,6,6,0,Trace Esports,Defense,Team Vitality,Trace Esports
+738,13,8,8,5,0,4,4,0,8,4,4,G2 Esports,Attack,G2 Esports,Paper Rex
+738,13,9,4,9,0,3,6,0,9,3,6,Paper Rex,Attack,G2 Esports,Paper Rex
+739,13,9,8,5,0,5,4,0,8,4,4,EDward Gaming,Attack,EDward Gaming,FUT Esports
+739,13,10,8,5,0,6,4,0,8,4,4,FUT Esports,Defense,EDward Gaming,FUT Esports
+740,13,11,7,6,0,6,5,0,7,5,2,Gen.G,Attack,Gen.G,Team Heretics
+740,11,13,8,3,0,9,4,0,8,4,4,Team Heretics,Defense,Gen.G,Team Heretics
+740,10,13,6,4,0,8,5,0,4,8,-4,Team Heretics,Attack,Gen.G,Team Heretics
+741,11,13,5,6,0,6,7,0,5,7,-2,FNATIC,Attack,FNATIC,DRX
+741,6,13,1,5,0,7,6,0,5,7,-2,DRX,Attack,FNATIC,DRX
+742,10,13,5,5,0,7,6,0,5,7,-2,LEVIATÁN,Defense,LEVIATÁN,Trace Esports
+742,13,9,6,7,0,5,4,0,7,5,2,Trace Esports,Attack,LEVIATÁN,Trace Esports
+742,5,13,2,3,0,3,10,0,2,10,-8,Trace Esports,Defense,LEVIATÁN,Trace Esports
+743,13,8,9,4,0,5,3,0,9,3,6,EDward Gaming,Attack,EDward Gaming,G2 Esports
+743,11,13,5,6,0,6,7,0,6,6,0,G2 Esports,Attack,EDward Gaming,G2 Esports
+743,11,13,8,3,0,9,4,0,3,9,-6,G2 Esports,Attack,EDward Gaming,G2 Esports
+744,13,8,4,9,0,0,8,0,4,8,-4,Sentinels,Attack,Sentinels,FunPlus Phoenix
+744,13,5,4,9,0,3,2,0,9,3,6,FunPlus Phoenix,Attack,Sentinels,FunPlus Phoenix
+745,9,13,7,2,0,8,5,0,7,5,2,Bilibili Gaming,Attack,Bilibili Gaming,KRÜ Esports
+745,4,13,3,1,0,4,9,0,3,9,-6,KRÜ Esports,Defense,Bilibili Gaming,KRÜ Esports
+746,6,13,4,2,0,10,3,0,2,10,-8,Team Vitality,Attack,TALON,Team Vitality
+746,8,13,2,6,0,6,7,0,6,6,0,TALON,Defense,TALON,Team Vitality
+747,11,13,6,5,0,7,6,0,5,7,-2,Paper Rex,Attack,FUT Esports,Paper Rex
+747,6,13,3,3,0,4,9,0,3,9,-6,FUT Esports,Attack,FUT Esports,Paper Rex
+748,9,13,4,5,0,7,6,0,5,7,-2,Gen.G,Defense,Gen.G,Sentinels
+748,6,13,5,1,0,6,7,0,5,7,-2,Sentinels,Defense,Gen.G,Sentinels
+749,11,13,7,4,0,8,5,0,4,8,-4,FNATIC,Defense,FNATIC,KRÜ Esports
+749,13,9,7,6,0,6,3,0,6,6,0,KRÜ Esports,Attack,FNATIC,KRÜ Esports
+749,13,5,5,8,0,4,1,0,8,4,4,KRÜ Esports,Attack,FNATIC,KRÜ Esports
+750,14,12,5,7,2,5,7,0,7,5,2,Team Vitality,Attack,LEVIATÁN,Team Vitality
+750,13,4,3,10,0,2,2,0,10,2,8,LEVIATÁN,Defense,LEVIATÁN,Team Vitality
+751,3,13,0,3,0,9,4,0,3,9,-6,Paper Rex,Attack,EDward Gaming,Paper Rex
+751,13,8,6,7,0,2,6,0,6,6,0,EDward Gaming,Attack,EDward Gaming,Paper Rex
+751,13,4,9,4,0,1,3,0,9,3,6,EDward Gaming,Attack,EDward Gaming,Paper Rex
+752,13,15,6,6,1,6,6,3,6,6,0,DRX,Attack,DRX,Sentinels
+752,8,13,2,6,0,6,7,0,6,6,0,Sentinels,Attack,DRX,Sentinels
+753,7,13,5,2,0,10,3,0,2,10,-8,EDward Gaming,Attack,Trace Esports,EDward Gaming
+753,10,13,2,8,0,3,10,0,2,10,-8,Trace Esports,Attack,Trace Esports,EDward Gaming
+754,14,16,8,4,2,8,4,4,8,4,4,G2 Esports,Attack,G2 Esports,LEVIATÁN
+754,5,13,4,1,0,5,8,0,4,8,-4,LEVIATÁN,Defense,G2 Esports,LEVIATÁN
+755,13,3,4,9,0,3,0,0,9,3,6,Team Heretics,Defense,Team Heretics,FNATIC
+755,14,12,9,3,2,9,3,0,9,3,6,FNATIC,Defense,Team Heretics,FNATIC
+756,13,3,10,3,0,1,2,0,10,2,8,DRX,Attack,DRX,Trace Esports
+756,13,5,4,9,0,3,2,0,9,3,6,Trace Esports,Attack,DRX,Trace Esports
+757,3,13,3,0,0,4,9,0,3,9,-6,G2 Esports,Attack,G2 Esports,FNATIC
+757,11,13,7,4,0,8,5,0,4,8,-4,FNATIC,Attack,G2 Esports,FNATIC
+758,13,9,8,5,0,5,4,0,8,4,4,Sentinels,Attack,Sentinels,EDward Gaming
+758,9,13,3,6,0,6,7,0,6,6,0,EDward Gaming,Attack,Sentinels,EDward Gaming
+758,6,13,4,2,0,10,3,0,2,10,-8,EDward Gaming,Attack,Sentinels,EDward Gaming
+759,15,13,7,5,3,7,5,1,7,5,2,Team Heretics,Defense,LEVIATÁN,Team Heretics
+759,13,10,9,4,0,8,2,0,4,8,-4,LEVIATÁN,Defense,LEVIATÁN,Team Heretics
+760,13,11,9,4,0,8,3,0,4,8,-4,FNATIC,Attack,Sentinels,FNATIC
+760,9,13,7,2,0,8,5,0,7,5,2,Sentinels,Attack,Sentinels,FNATIC
+760,13,6,8,5,0,2,4,0,8,4,4,Sentinels,Attack,Sentinels,FNATIC
+761,5,13,0,5,0,7,6,0,5,7,-2,Team Heretics,Defense,Team Heretics,DRX
+761,13,5,6,7,0,5,0,0,7,5,2,DRX,Attack,Team Heretics,DRX
+761,13,10,8,5,0,7,3,0,5,7,-2,DRX,Attack,Team Heretics,DRX
+762,14,16,3,9,2,3,9,4,3,9,-6,EDward Gaming,Attack,EDward Gaming,LEVIATÁN
+762,13,4,8,5,0,0,4,0,8,4,4,LEVIATÁN,Defense,EDward Gaming,LEVIATÁN
+762,13,11,6,7,0,5,6,0,6,6,0,LEVIATÁN,Defense,EDward Gaming,LEVIATÁN
+763,8,13,5,3,0,6,7,0,5,7,-2,Team Heretics,Attack,Team Heretics,Sentinels
+763,13,9,5,8,0,2,7,0,5,7,-2,Sentinels,Defense,Team Heretics,Sentinels
+763,13,7,5,8,0,4,3,0,8,4,4,Sentinels,Attack,Team Heretics,Sentinels
+764,7,13,5,2,0,6,7,0,5,7,-2,Team Heretics,Defense,LEVIATÁN,Team Heretics
+764,13,15,8,4,1,8,4,3,4,8,-4,LEVIATÁN,Defense,LEVIATÁN,Team Heretics
+764,13,9,5,8,0,2,7,0,5,7,-2,Team Heretics,Defense,LEVIATÁN,Team Heretics
+764,3,13,2,1,0,11,2,0,1,11,-10,LEVIATÁN,Defense,LEVIATÁN,Team Heretics
+765,6,13,3,3,0,4,9,0,3,9,-6,Team Heretics,Defense,EDward Gaming,Team Heretics
+765,13,4,11,2,0,3,1,0,11,1,10,EDward Gaming,Attack,EDward Gaming,Team Heretics
+765,13,9,7,6,0,6,3,0,6,6,0,Team Heretics,Attack,EDward Gaming,Team Heretics
+765,11,13,6,5,0,7,6,0,6,6,0,EDward Gaming,Attack,EDward Gaming,Team Heretics
+765,13,9,8,5,0,5,4,0,8,4,4,Team Heretics,Defense,EDward Gaming,Team Heretics
